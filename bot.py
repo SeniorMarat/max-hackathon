@@ -1,11 +1,15 @@
+#!/usr/bin/env python3
+"""
+Max Bot with GigaChat integration
+Main entry point for the bot
+"""
+
 import asyncio
 import logging
-import os
 
 from dotenv import load_dotenv
 
-from maxbot import Bot, Dispatcher, F
-from maxbot.types import Message
+from bot.main import create_bot
 
 # Load environment
 load_dotenv()
@@ -16,59 +20,24 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-# Initialize bot and dispatcher
-bot = Bot(token=os.getenv("BOT_TOKEN"))
-dp = Dispatcher()
-
-
-@dp.message(F.text())
-async def handle_text_message(message: Message):
-    """Handle any text message (that's not a command)"""
-    if not message.from_user:
-        return
-
-    user_text = message.text or ""
-    chat_id = str(message.chat_id) if message.chat_id else ""
-    user_id = str(message.user_id) if message.user_id else ""
-
-    # Create session ID (similar to your example)
-    session_id = (
-        f"{chat_id}:{user_id}"
-        if message.recipient.chat_type in ["chat", "group"]
-        else chat_id
-    )
-
-    user_name = (
-        message.from_user.username or message.from_user.first_name or "Anonymous"
-    )
-
-    logger.info(f"Message from {user_name} in chat {chat_id}: {user_text}")
-
-    # Send typing action
-    if message.chat_id:
-        bot.send_chat_action(message.chat_id, "typing_on")
-
-    # Echo response (replace with your LLM call)
-    response = f"You said: {user_text}\n\n(session_id: {session_id})"
-
-    if message.chat_id:
-        bot.send_message(chat_id=message.chat_id, text=response)
-    elif message.user_id:
-        bot.send_message(user_id=message.user_id, text=response)
-
 
 async def main():
     """Main entry point"""
-    token = os.getenv("BOT_TOKEN")
+    try:
+        # Create bot with GigaChat integration
+        bot = create_bot()
+        logger.info("Starting bot with GigaChat integration...")
 
-    if not token:
-        logger.error("BOT_TOKEN not found in environment variables!")
-        logger.error("Please create a .env file with your bot token:")
-        logger.error("BOT_TOKEN=your_token_here")
-        return
+        # Start polling
+        await bot.start()
 
-    # Start polling
-    await dp.start_polling(bot)
+    except ValueError as e:
+        logger.error(f"Configuration error: {e}")
+        logger.error("Please check your .env file")
+    except KeyboardInterrupt:
+        logger.info("Bot stopped by user")
+    except Exception as e:
+        logger.error(f"Unexpected error: {e}", exc_info=True)
 
 
 if __name__ == "__main__":

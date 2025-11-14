@@ -1,10 +1,10 @@
 [project]
 name = "max"
 version = "0.1.0"
-description = "Add your description here"
+description = "Max Bot with GigaChat integration"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = ["ruff", "python-dotenv", "requests>=2.32.5"]
+dependencies = ["ruff", "python-dotenv", "requests>=2.32.5", "gigachat>=0.1.0"]
 
 [tool.ruff]
 line-length = 88
