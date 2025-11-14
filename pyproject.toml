@@ -1,0 +1,17 @@
+[project]
+name = "max"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = ["ruff", "python-dotenv", "requests>=2.32.5"]
+
+[tool.ruff]
+line-length = 88
+select = ["E", "F", "I"]
+fix = true
+
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
