@@ -2,13 +2,14 @@
 Type definitions for Max Bot API
 """
 
-from typing import Optional, List, Dict, Any
 from dataclasses import dataclass, field
 from enum import Enum
+from typing import Any, Dict, List, Optional
 
 
 class UpdateType(str, Enum):
     """Update types from Max Bot API"""
+
     MESSAGE_CREATED = "message_created"
     MESSAGE_EDITED = "message_edited"
     MESSAGE_REMOVED = "message_removed"
@@ -25,6 +26,7 @@ class UpdateType(str, Enum):
 
 class ChatType(str, Enum):
     """Chat types"""
+
     DIALOG = "dialog"
     CHAT = "chat"
     CHANNEL = "channel"
@@ -33,6 +35,7 @@ class ChatType(str, Enum):
 @dataclass
 class User:
     """User object"""
+
     user_id: int
     first_name: str
     last_name: Optional[str] = None
@@ -42,7 +45,7 @@ class User:
     description: Optional[str] = None
     avatar_url: Optional[str] = None
     full_avatar_url: Optional[str] = None
-    
+
     @classmethod
     def from_dict(cls, data: Dict[str, Any]) -> "User":
         """Create User from API response"""
@@ -57,14 +60,14 @@ class User:
             avatar_url=data.get("avatar_url"),
             full_avatar_url=data.get("full_avatar_url"),
         )
-    
+
     @property
     def full_name(self) -> str:
         """Get full name"""
         if self.last_name:
             return f"{self.first_name} {self.last_name}"
         return self.first_name
-    
+
     @property
     def mention(self) -> str:
         """Get mention string"""
@@ -76,10 +79,11 @@ class User:
 @dataclass
 class Recipient:
     """Message recipient"""
+
     chat_id: Optional[int] = None
     chat_type: Optional[str] = None
     user_id: Optional[int] = None
-    
+
     @classmethod
     def from_dict(cls, data: Dict[str, Any]) -> "Recipient":
         """Create Recipient from API response"""
@@ -93,9 +97,10 @@ class Recipient:
 @dataclass
 class Attachment:
     """Message attachment"""
+
     type: str
     payload: Optional[Dict[str, Any]] = None
-    
+
     @classmethod
     def from_dict(cls, data: Dict[str, Any]) -> "Attachment":
         """Create Attachment from API response"""
@@ -108,17 +113,22 @@ class Attachment:
 @dataclass
 class MessageBody:
     """Message body"""
+
     mid: str
     seq: int
     text: Optional[str] = None
     attachments: List[Attachment] = field(default_factory=list)
-    
+
     @classmethod
     def from_dict(cls, data: Dict[str, Any]) -> "MessageBody":
         """Create MessageBody from API response"""
         attachments_data = data.get("attachments", [])
-        attachments = [Attachment.from_dict(a) for a in attachments_data] if attachments_data else []
-        
+        attachments = (
+            [Attachment.from_dict(a) for a in attachments_data]
+            if attachments_data
+            else []
+        )
+
         return cls(
             mid=data.get("mid", ""),
             seq=data.get("seq", 0),
@@ -130,13 +140,14 @@ class MessageBody:
 @dataclass
 class Chat:
     """Chat object"""
+
     chat_id: int
     type: str
     title: Optional[str] = None
     status: Optional[str] = None
     participants_count: Optional[int] = None
     is_public: bool = False
-    
+
     @classmethod
     def from_dict(cls, data: Dict[str, Any]) -> "Chat":
         """Create Chat from API response"""
@@ -153,6 +164,7 @@ class Chat:
 @dataclass
 class Message:
     """Message object"""
+
     body: MessageBody
     recipient: Recipient
     timestamp: int
@@ -160,22 +172,22 @@ class Message:
     link: Optional[Dict[str, Any]] = None
     stat: Optional[Dict[str, Any]] = None
     url: Optional[str] = None
-    
+
     # Convenience properties
     _chat: Optional[Chat] = field(default=None, repr=False)
-    
+
     @classmethod
     def from_dict(cls, data: Dict[str, Any]) -> "Message":
         """Create Message from API response"""
         sender_data = data.get("sender")
         sender = User.from_dict(sender_data) if sender_data else None
-        
+
         recipient_data = data.get("recipient", {})
         recipient = Recipient.from_dict(recipient_data)
-        
+
         body_data = data.get("body", {})
         body = MessageBody.from_dict(body_data)
-        
+
         return cls(
             sender=sender,
             recipient=recipient,
@@ -185,32 +197,32 @@ class Message:
             stat=data.get("stat"),
             url=data.get("url"),
         )
-    
+
     @property
     def text(self) -> Optional[str]:
         """Get message text"""
         return self.body.text
-    
+
     @property
     def message_id(self) -> str:
         """Get message ID"""
         return self.body.mid
-    
+
     @property
     def chat_id(self) -> Optional[int]:
         """Get chat ID"""
         return self.recipient.chat_id
-    
+
     @property
     def user_id(self) -> Optional[int]:
         """Get sender user ID"""
         return self.sender.user_id if self.sender else None
-    
+
     @property
     def from_user(self) -> Optional[User]:
         """Alias for sender (aiogram compatibility)"""
         return self.sender
-    
+
     @property
     def chat(self) -> Optional[Chat]:
         """Get chat object (if set)"""
@@ -220,18 +232,21 @@ class Message:
 @dataclass
 class Callback:
     """Callback from button press"""
+
     timestamp: int
     callback_id: str
     user: User
     payload: Optional[str] = None
     message: Optional[Message] = None
-    
+
     @classmethod
-    def from_dict(cls, data: Dict[str, Any], message: Optional[Message] = None) -> "Callback":
+    def from_dict(
+        cls, data: Dict[str, Any], message: Optional[Message] = None
+    ) -> "Callback":
         """Create Callback from API response"""
         user_data = data.get("user", {})
         user = User.from_dict(user_data)
-        
+
         return cls(
             timestamp=data.get("timestamp", 0),
             callback_id=data.get("callback_id", ""),
@@ -244,10 +259,11 @@ class Callback:
 @dataclass
 class Update:
     """Update object"""
+
     update_type: UpdateType
     timestamp: int
     raw_data: Dict[str, Any]
-    
+
     # Optional fields based on update type
     message: Optional[Message] = None
     callback: Optional[Callback] = None
@@ -255,7 +271,7 @@ class Update:
     chat_id: Optional[int] = None
     payload: Optional[str] = None
     user_locale: Optional[str] = None
-    
+
     @classmethod
     def from_dict(cls, data: Dict[str, Any]) -> "Update":
         """Create Update from API response"""
@@ -264,25 +280,25 @@ class Update:
             update_type = UpdateType(update_type_str)
         except ValueError:
             update_type = update_type_str  # type: ignore
-        
+
         # Parse message if present
         message = None
         message_data = data.get("message")
         if message_data:
             message = Message.from_dict(message_data)
-        
+
         # Parse callback if present
         callback = None
         callback_data = data.get("callback")
         if callback_data:
             callback = Callback.from_dict(callback_data, message)
-        
+
         # Parse user if present
         user = None
         user_data = data.get("user")
         if user_data:
             user = User.from_dict(user_data)
-        
+
         return cls(
             update_type=update_type,
             timestamp=data.get("timestamp", 0),
@@ -299,6 +315,7 @@ class Update:
 @dataclass
 class BotInfo:
     """Bot information"""
+
     user_id: int
     first_name: str
     last_name: Optional[str] = None
@@ -306,7 +323,7 @@ class BotInfo:
     is_bot: bool = True
     description: Optional[str] = None
     avatar_url: Optional[str] = None
-    
+
     @classmethod
     def from_dict(cls, data: Dict[str, Any]) -> "BotInfo":
         """Create BotInfo from API response"""

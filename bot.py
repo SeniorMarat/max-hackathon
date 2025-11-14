@@ -1,7 +1,3 @@
-"""
-Example bot using the maxbot framework (aiogram-style)
-"""
-
 import asyncio
 import logging
 import os

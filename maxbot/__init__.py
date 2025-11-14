@@ -4,19 +4,19 @@ MaxBot - A Python framework for Max Bot API (similar to aiogram for Telegram)
 
 from .bot import Bot
 from .dispatcher import Dispatcher
+from .filters import CommandFilter, F, Filter, TextFilter
 from .types import (
-    Message,
-    Update,
-    User,
-    Chat,
+    Attachment,
     Callback,
+    Chat,
+    ChatType,
+    Message,
     MessageBody,
     Recipient,
-    Attachment,
+    Update,
     UpdateType,
-    ChatType,
+    User,
 )
-from .filters import F, Filter, CommandFilter, TextFilter
 
 __version__ = "0.1.0"
 __all__ = [
