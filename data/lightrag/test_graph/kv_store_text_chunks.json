@@ -1,0 +1,44 @@
+{
+  "chunk-ab0607915b37392b68a5e43fe3530b59": {
+    "tokens": 74,
+    "content": "МГТУ им. Баумана - это один из ведущих технических университетов России.\n            Университет был основан в 1830 году. МГТУ специализируется на подготовке\n            инженеров в области машиностроения, ракетостроения, информационных\n            технологий и других технических направлений.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-ab0607915b37392b68a5e43fe3530b59",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:e92e68761b1ec9564dae3dfd1d70e4ad",
+      "default:extract:d50108ab0b588aef406a2b4b60996e7f"
+    ],
+    "create_time": 1763132932,
+    "update_time": 1763132940,
+    "_id": "chunk-ab0607915b37392b68a5e43fe3530b59"
+  },
+  "chunk-dbb6dad2278861d8fe9e0adf6b53881c": {
+    "tokens": 60,
+    "content": "Факультет информатики и систем управления (ИУ) МГТУ им. Баумана готовит\n            специалистов в области программирования, искусственного интеллекта,\n            информационной безопасности и систем управления. На факультете работают\n            ведущие ученые и преподаватели.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-dbb6dad2278861d8fe9e0adf6b53881c",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:6d832b0a9a647dbb11bb7bec06ac8ba8",
+      "default:extract:2d1332f64d8c0e2b360a0e326de6045c"
+    ],
+    "create_time": 1763132953,
+    "update_time": 1763132973,
+    "_id": "chunk-dbb6dad2278861d8fe9e0adf6b53881c"
+  },
+  "chunk-b5828e67ed13a333caabe6baaeeecc08": {
+    "tokens": 53,
+    "content": "Студенты МГТУ им. Баумана имеют доступ к современным лабораториям,\n            библиотеке с большим количеством научной литературы, а также возможность\n            участвовать в научных исследованиях и проектах с ведущими компаниями.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-b5828e67ed13a333caabe6baaeeecc08",
+    "file_path": "unknown_source",
+    "llm_cache_list": [
+      "default:extract:71d4d5df3aa23c10e9515703b2d502ef",
+      "default:extract:e09575143f34318b317f9a7e416fcdc4"
+    ],
+    "create_time": 1763132973,
+    "update_time": 1763132983,
+    "_id": "chunk-b5828e67ed13a333caabe6baaeeecc08"
+  }
+}

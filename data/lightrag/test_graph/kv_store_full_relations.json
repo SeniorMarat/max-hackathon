@@ -1,0 +1,18 @@
+{
+  "doc-ab0607915b37392b68a5e43fe3530b59": {
+    "relation_pairs": [
+      [
+        "John_Smith",
+        "works_for"
+      ],
+      [
+        "ABC_Company",
+        "headquartered_in"
+      ]
+    ],
+    "count": 2,
+    "create_time": 1763132953,
+    "update_time": 1763132953,
+    "_id": "doc-ab0607915b37392b68a5e43fe3530b59"
+  }
+}
