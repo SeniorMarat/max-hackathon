@@ -4,7 +4,13 @@ version = "0.1.0"
 description = "Max Bot with GigaChat integration"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = ["ruff", "python-dotenv", "requests>=2.32.5", "gigachat>=0.1.0"]
+dependencies = [
+    "ruff",
+    "python-dotenv",
+    "requests>=2.32.5",
+    "gigachat>=0.1.0",
+    "lightrag-hku[api]>=1.4.9.8",
+]
 
 [tool.ruff]
 line-length = 88
