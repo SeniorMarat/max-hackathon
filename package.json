@@ -1,0 +1,27 @@
+{
+  "name": "max-hackathon",
+  "type": "module",
+  "private": true,
+  "packageManager": "pnpm@10.15.0",
+  "scripts": {
+    "typecheck": "tsc --noEmit -p tsconfig.json",
+    "build": "tsc -p tsconfig.json",
+    "start": "pnpm run build && node ./dist/main.js",
+    "dev": "node --loader ts-node/esm main.ts"
+  },
+  "dependencies": {
+    "@maxhub/max-bot-api": "^0.2.1",
+    "dotenv": "^16.1.4",
+    "add": "^2.0.6"
+  },
+  "devDependencies": {
+    "@ilyasemenov/eslint-config": "^1.4.2",
+    "@ilyasemenov/stylelint-config": "^2.1.0",
+    "eslint": "^9.34.0",
+    "lint-staged": "^16.1.6",
+    "stylelint": "^16.25.0",
+    "typescript": "^5.9.2",
+    "ts-node": "^10.9.1",
+    "@types/node": "^20.6.0"
+  }
+}
