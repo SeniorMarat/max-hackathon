@@ -6,6 +6,7 @@ import os
 from llm import GigaChatClient
 from maxbot_api import Bot, Dispatcher, F
 from maxbot_api.types import Message
+from memory.graph_memory import GraphMemory
 
 logger = logging.getLogger(__name__)
 
@@ -38,6 +39,8 @@ class MaxBotAI:
             model=gigachat_model,
             max_history=10,
         )
+
+        self.memory: GraphMemory = GraphMemory()
 
         # Системный промпт.
         self.system_prompt = """
@@ -85,9 +88,14 @@ class MaxBotAI:
             if chat_id:
                 self.bot.send_chat_action(chat_id, "typing_on")
 
+            # Работа с памятью.
+            self.memory.save(session_id, user_text)
+            memory_result = self.memory.query(session_id, user_text)
+            memory_block = f"<memory>\n{memory_result}\n</memory>"
+
             # Получение ответа от LLM.
             response = await self.llm.chat_async(
-                message=user_text,
+                message=f"{memory_block}\n\n{user_text}",
                 session_id=session_id,
                 system_prompt=self.system_prompt,
             )
