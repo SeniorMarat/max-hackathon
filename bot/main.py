@@ -1,6 +1,4 @@
-"""
-Main bot module with GigaChat integration
-"""
+"""Основной модуль бота с интеграцией GigaChat"""
 
 import logging
 import os
@@ -12,8 +10,8 @@ from maxbot.types import Message
 logger = logging.getLogger(__name__)
 
 
-class MaxBotWithGigaChat:
-    """Max Bot with GigaChat LLM integration"""
+class MaxBotAI:
+    """Max Bot с интеграцией GigaChat LLM"""
 
     def __init__(
         self,
@@ -23,7 +21,7 @@ class MaxBotWithGigaChat:
         gigachat_model: str = "GigaChat",
     ):
         """
-        Initialize bot with GigaChat.
+        Инициализация бота с GigaChat.
 
         Args:
             bot_token: Max Bot token
@@ -34,7 +32,6 @@ class MaxBotWithGigaChat:
         self.bot = Bot(token=bot_token)
         self.dp = Dispatcher()
 
-        # Initialize GigaChat client
         self.llm = GigaChatClient(
             credentials=gigachat_credentials,
             scope=gigachat_scope,
@@ -61,11 +58,11 @@ class MaxBotWithGigaChat:
         logger.info("Bot initialized with GigaChat integration")
 
     def _register_handlers(self):
-        """Register all message handlers"""
+        """Регистрация всех обработчиков сообщений"""
 
         @self.dp.message(F.text())
         async def handle_text_message(message: Message):
-            """Handle text messages with GigaChat"""
+            """Обработка текстовых сообщений с помощью GigaChat"""
             if not message.from_user:
                 return
 
@@ -103,9 +100,7 @@ class MaxBotWithGigaChat:
                 elif user_id:
                     self.bot.send_message(user_id=user_id, text=response)
             else:
-                error_msg = (
-                    "😔 Извините, произошла ошибка при обработке вашего запроса."
-                )
+                error_msg = "Извините, произошла ошибка при обработке вашего запроса"
                 if chat_id:
                     self.bot.send_message(chat_id=chat_id, text=error_msg)
                 elif user_id:
@@ -113,7 +108,7 @@ class MaxBotWithGigaChat:
 
     def _get_session_id(self, message: Message) -> str:
         """
-        Get session ID for message.
+        Получение идентификатора сессии для сообщения.
 
         For group chats: chat_id:user_id
         For private chats: chat_id
@@ -127,20 +122,20 @@ class MaxBotWithGigaChat:
         chat_id = str(message.chat_id) if message.chat_id else ""
         user_id = str(message.user_id) if message.user_id else ""
 
-        # In group chats, separate sessions per user
+        # В групповых чатах создаются отдельные сессии для каждого пользователя.
         if message.recipient.chat_type in ["chat", "group", "supergroup"]:
             return f"{chat_id}:{user_id}"
 
-        # In private chats, one session per chat
+        # В личных чатах используется одна сессия на чат.
         return chat_id
 
     async def start(self):
-        """Start the bot"""
+        """Запуск бота"""
         await self.dp.start_polling(self.bot)
 
 
-def create_bot() -> MaxBotWithGigaChat:
-    """Create and configure bot instance"""
+def create_bot() -> MaxBotAI:
+    """Создание и настройка экземпляра бота"""
     bot_token = os.getenv("BOT_TOKEN")
     gigachat_credentials = os.getenv("GIGACHAT_CREDENTIALS")
     gigachat_scope = os.getenv("GIGACHAT_SCOPE", "GIGACHAT_API_PERS")
@@ -152,7 +147,7 @@ def create_bot() -> MaxBotWithGigaChat:
     if not gigachat_credentials:
         raise ValueError("GIGACHAT_CREDENTIALS not found in environment variables")
 
-    return MaxBotWithGigaChat(
+    return MaxBotAI(
         bot_token=bot_token,
         gigachat_credentials=gigachat_credentials,
         gigachat_scope=gigachat_scope,
