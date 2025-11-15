@@ -29,7 +29,7 @@ def _get_or_create_event_loop():
 
 
 GRAPH_QUERY_MODES: frozenset = frozenset(
-    {"naive", "local", "global", "hybrid", "mix", "bypass"}
+    ["naive", "local", "global", "hybrid", "mix", "bypass"]
 )
 
 
