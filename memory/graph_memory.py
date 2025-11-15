@@ -49,7 +49,7 @@ class GraphMemory:
             )
 
         self.scope: str = scope or os.getenv("GIGACHAT_SCOPE", "GIGACHAT_API_PERS")
-        self.model_name: str = model_name or os.getenv("GIGACHAT_MODEL", "GigaChat")
+        self.model_name: str = model_name or os.getenv("GIGACHAT_MODEL", "GigaChat-max")
         self.embedding_model_name = embedding_model_name
 
         self._graphs: Dict[str, LightRAG] = {}
@@ -103,12 +103,15 @@ class GraphMemory:
                 return await embedding_adapter(texts)
 
             async def llm_model_func(prompt: str, **kwargs) -> str:
+                logger.error(prompt)
                 return await llm_adapter(prompt, **kwargs)
 
             rag = LightRAG(
                 working_dir=workspace_path,
                 llm_model_func=llm_model_func,
                 embedding_func=embedding_func,
+                chunk_token_size=400,  # GigaChat max is 514, using 400 for safety
+                chunk_overlap_token_size=50,  # Smaller overlap for smaller chunks
             )
 
             await rag.initialize_storages()
@@ -131,6 +134,7 @@ class GraphMemory:
         """
         Асинхронно сохранить текст в граф.
         """
+        logger.error(f"Saving text to graph {graph_id}: {text}")
         try:
             rag = await self._get_or_create_graph(graph_id)
             await rag.ainsert(text)
