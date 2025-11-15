@@ -89,9 +89,10 @@ class MaxBotAI:
                 self.bot.send_chat_action(chat_id, "typing_on")
 
             # Работа с памятью.
-            self.memory.save(session_id, user_text)
-            memory_result = self.memory.query(session_id, user_text)
+            await self.memory.save(session_id, user_text)
+            memory_result = await self.memory.query(session_id, user_text)
             memory_block = f"<memory>\n{memory_result}\n</memory>"
+            logger.info(f"Memory result: {memory_block}")
 
             # Получение ответа от LLM.
             response = await self.llm.chat_async(
