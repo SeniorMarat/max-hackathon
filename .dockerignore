@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+.venv/
+venv/
+ENV/
+env/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Git
+.git/
+.gitignore
+.gitattributes
+
+# Environment files (will be passed via docker-compose)
+.env
+
+# Documentation
+*.md
+!README.md
+
+# Tests
+**/test_*.py
+**/*_test.py
+.pytest_cache/
+
+# Docker
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Data files (will be mounted as volume)
+# Uncomment if you don't want to include existing data in the image
+# data/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
