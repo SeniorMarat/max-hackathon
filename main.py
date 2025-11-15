@@ -11,10 +11,8 @@ from dotenv import load_dotenv
 
 from bot.main import create_bot
 
-# Load environment
 load_dotenv()
 
-# Configure logging
 logging.basicConfig(
     level=logging.INFO, format="%(asctime)s - %(name)s - %(levelname)s - %(message)s"
 )
@@ -24,11 +22,9 @@ logger = logging.getLogger(__name__)
 async def main():
     """Main entry point"""
     try:
-        # Create bot with GigaChat integration
         bot = create_bot()
         logger.info("Starting bot with GigaChat integration...")
 
-        # Start polling
         await bot.start()
 
     except ValueError as e:

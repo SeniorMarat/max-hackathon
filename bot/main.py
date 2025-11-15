@@ -42,20 +42,20 @@ class MaxBotWithGigaChat:
             max_history=10,
         )
 
-        # System prompt for the bot
+        # Системный промпт.
         self.system_prompt = """
             Ты — ИИ-ассистент для абитуриентов и 
             студентов Новосибирского государственного университета (НГУ).
             Отвечай кратко, по делу и только на вопросы, касающиеся НГУ:
-            поступление, факультеты, общежития, расписание, мероприятия,
-            внеучебная деятельность и инфраструктура.
+            поступление, факультеты, общежития, мероприятия, внеучебная
+            деятельность и инфраструктура.
             Если вопрос не относится к НГУ,
             вежливо откажись и предложи задать вопрос по теме НГУ.
-            Опирайся на предоставленную базу знаний и факты, извлечённые из памяти.
-            Не придумывай информацию.
+            Опирайся только на то, что тебе будет передано в качестве
+            справочной информации.
+            Не придумывай информацию сам.
         """
 
-        # Register handlers
         self._register_handlers()
 
         logger.info("Bot initialized with GigaChat integration")
@@ -84,11 +84,11 @@ class MaxBotWithGigaChat:
             log_msg = f"Message from {user_name} (session: {session_id}): {user_text}"
             logger.info(log_msg)
 
-            # Send typing indicator
+            # Индикатор отправки сообщения.
             if chat_id:
                 self.bot.send_chat_action(chat_id, "typing_on")
 
-            # Get response from GigaChat
+            # Получение ответа от LLM.
             response = await self.llm.chat_async(
                 message=user_text,
                 session_id=session_id,
