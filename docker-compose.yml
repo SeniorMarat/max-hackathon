@@ -1,0 +1,34 @@
+services:
+  max-bot:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: max-bot
+    restart: unless-stopped
+    env_file:
+      - .env
+    volumes:
+      # Persist LightRAG data
+      - ./data/lightrag:/app/data/lightrag
+      # Optional: mount source code for development
+      # - ./bot:/app/bot
+      # - ./llm:/app/llm
+      # - ./memory:/app/memory
+      # - ./maxbot_api:/app/maxbot_api
+    environment:
+      - PYTHONUNBUFFERED=1
+      - LIGHRAG_WORKSPACE_BASE=/app/data/lightrag
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+    # Resource limits (optional, uncomment if needed)
+    # deploy:
+    #   resources:
+    #     limits:
+    #       cpus: '2.0'
+    #       memory: 2G
+    #     reservations:
+    #       cpus: '1.0'
+    #       memory: 1G
