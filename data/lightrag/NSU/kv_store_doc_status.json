@@ -1,0 +1,76 @@
+{
+  "doc-bd2f568b9e1af22816c86ec4eb6770a6": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-3b8a582a931fd705ae3e7a3007566a85",
+      "chunk-37ecb1276d31ad335d59969f4e30c068"
+    ],
+    "content_summary": "# Проживание и общежития (НГУ)\n\n1. Общая информация\n\n   - Студенты НГУ имеют возможность проживать в университетских общежитиях, расположенных в Академгородке. ￼\n   - Общежития находятся примерно в 10 минутах ходьбы от университетских корпусов. ￼\n   ...",
+    "content_length": 2238,
+    "created_at": "2025-11-15T07:42:18.157331+00:00",
+    "updated_at": "2025-11-15T07:47:13.879189+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251115_144218_5d7f45c2",
+    "metadata": {
+      "processing_start_time": 1763192538,
+      "processing_end_time": 1763192833
+    }
+  },
+  "doc-5b89994a7ab8748ecce9a8e321f19f62": {
+    "status": "processed",
+    "chunks_count": 3,
+    "chunks_list": [
+      "chunk-681b87b5ddf40fbbc0a67227a216a8c4",
+      "chunk-a035eeb7895b7dadfd008f91646edee8",
+      "chunk-b4055224d550d9110efe1e2fa145e03c"
+    ],
+    "content_summary": "# Факультет механико‑математический (ММФ) НГУ\n\n1. Общая информация\n\nФакультет механико‑математический (ММФ) НГУ предлагает подготовку по направлениям математики, прикладной математики и информатики, механики и математического моделирования. ￼\nОсобенн...",
+    "content_length": 2484,
+    "created_at": "2025-11-15T07:47:13.898206+00:00",
+    "updated_at": "2025-11-15T07:52:00.052904+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251115_144713_d61dce8a",
+    "metadata": {
+      "processing_start_time": 1763192833,
+      "processing_end_time": 1763193120
+    }
+  },
+  "doc-ab554c1a0b9a187935a1265714dcc638": {
+    "status": "processed",
+    "chunks_count": 3,
+    "chunks_list": [
+      "chunk-96824a0b7bedfff01e1e931021742836",
+      "chunk-e2976471c53db5fbb9c437e851fe7def",
+      "chunk-da86e6c882df15e442a222d2a8151b98"
+    ],
+    "content_summary": "# ФИТ — Факультет информационных технологий НГУ\n\n1. Общая информация\n\nФакультет информационных технологий НГУ осуществляет подготовку специалистов по направлению 09.03.01 «Информатика и вычислительная техника» с профилями, например, «Компьютерные нау...",
+    "content_length": 2494,
+    "created_at": "2025-11-15T07:52:00.071137+00:00",
+    "updated_at": "2025-11-15T07:56:14.140888+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251115_145200_e34f267c",
+    "metadata": {
+      "processing_start_time": 1763193120,
+      "processing_end_time": 1763193374
+    }
+  },
+  "doc-3d39e2340d46fb1483cba2f664490c81": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-bb0ebf4eb1e54439f1b32cb8c8f17714",
+      "chunk-134b04ed8f5bc457339155536f87ac47"
+    ],
+    "content_summary": "# Экономический факультет (ЭФ) НГУ\n\n1. Общая информация\n\nЭкономический факультет НГУ предлагает сильную экономико‑математическую подготовку: студенты изучают экономическое моделирование, статистику, математику и программирование с первого курса.\nНа ф...",
+    "content_length": 2590,
+    "created_at": "2025-11-15T07:56:14.162670+00:00",
+    "updated_at": "2025-11-15T08:03:57.271507+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251115_145614_27170afd",
+    "metadata": {
+      "processing_start_time": 1763193374,
+      "processing_end_time": 1763193837
+    }
+  }
+}

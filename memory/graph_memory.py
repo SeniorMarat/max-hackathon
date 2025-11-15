@@ -45,7 +45,10 @@ class GraphMemory:
         )
         if not self.credentials:
             raise ValueError(
-                "GIGACHAT_CREDENTIALS not found in environment or parameters"
+                "Error: GIGACHAT_CREDENTIALS environment variable is not set. "
+                "Please set this variable before running the program.\n"
+                "You can set it by running: "
+                "export GIGACHAT_CREDENTIALS='your-credentials'"
             )
 
         self.scope: str = scope or os.getenv("GIGACHAT_SCOPE", "GIGACHAT_API_PERS")
@@ -103,8 +106,11 @@ class GraphMemory:
                 return await embedding_adapter(texts)
 
             async def llm_model_func(prompt: str, **kwargs) -> str:
-                logger.error(prompt)
                 return await llm_adapter(prompt, **kwargs)
+
+            # Get worker counts from environment (defaults to conservative values)
+            embedding_workers = int(os.getenv("LIGHTRAG_EMBEDDING_WORKERS", "2"))
+            llm_workers = int(os.getenv("LIGHTRAG_LLM_WORKERS", "1"))
 
             rag = LightRAG(
                 working_dir=workspace_path,
@@ -112,10 +118,29 @@ class GraphMemory:
                 embedding_func=embedding_func,
                 chunk_token_size=400,  # GigaChat max is 514, using 400 for safety
                 chunk_overlap_token_size=50,  # Smaller overlap for smaller chunks
+                # Configurable worker counts to avoid rate limiting
+                embedding_func_max_async=embedding_workers,
+                llm_model_max_async=llm_workers,
+            )
+
+            logger.info(
+                f"LightRAG workers: {embedding_workers} embedding, {llm_workers} LLM"
             )
 
             await rag.initialize_storages()
             await initialize_pipeline_status()
+
+            # Test embedding function to verify setup
+            try:
+                test_embedding = await embedding_func(["test"])
+                detected_dim = (
+                    len(test_embedding[0])
+                    if test_embedding
+                    else embedding_adapter.embedding_dim
+                )
+                logger.info(f"Embedding dimension verified: {detected_dim}")
+            except Exception as e:
+                logger.warning(f"Could not verify embedding dimension: {e}")
 
             self._graphs[graph_id] = rag
             logger.info(f"Created async LightRAG instance for graph: {graph_id}")
@@ -134,7 +159,7 @@ class GraphMemory:
         """
         Асинхронно сохранить текст в граф.
         """
-        logger.error(f"Saving text to graph {graph_id}: {text}")
+        logger.debug(f"Saving text to graph {graph_id}: {len(text)} chars")
         try:
             rag = await self._get_or_create_graph(graph_id)
             await rag.ainsert(text)
@@ -208,3 +233,21 @@ class GraphMemory:
         except Exception as e:
             logger.error(f"Error listing graphs: {e}")
             return []
+
+    async def cleanup(self, graph_id: Optional[str] = None) -> None:
+        """
+        Асинхронно финализировать хранилища для корректного завершения.
+
+        Args:
+            graph_id: ID конкретного графа или None для очистки всех графов.
+        """
+        try:
+            if graph_id and graph_id in self._graphs:
+                await self._graphs[graph_id].finalize_storages()
+                logger.info(f"Finalized storage for graph: {graph_id}")
+            elif not graph_id:
+                for gid, rag in self._graphs.items():
+                    await rag.finalize_storages()
+                    logger.info(f"Finalized storage for graph: {gid}")
+        except Exception as e:
+            logger.error(f"Error during cleanup: {e}")

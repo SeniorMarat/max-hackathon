@@ -1,0 +1,942 @@
+{
+  "NSU": {
+    "chunk_ids": [
+      "chunk-3b8a582a931fd705ae3e7a3007566a85"
+    ],
+    "count": 1,
+    "create_time": 1763192570,
+    "update_time": 1763192570,
+    "_id": "NSU"
+  },
+  "Academic City": {
+    "chunk_ids": [
+      "chunk-3b8a582a931fd705ae3e7a3007566a85"
+    ],
+    "count": 1,
+    "create_time": 1763192570,
+    "update_time": 1763192570,
+    "_id": "Academic City"
+  },
+  "University Hostels": {
+    "chunk_ids": [
+      "chunk-3b8a582a931fd705ae3e7a3007566a85"
+    ],
+    "count": 1,
+    "create_time": 1763192575,
+    "update_time": 1763192575,
+    "_id": "University Hostels"
+  },
+  "Two-Bedroom Rooms": {
+    "chunk_ids": [
+      "chunk-3b8a582a931fd705ae3e7a3007566a85"
+    ],
+    "count": 1,
+    "create_time": 1763192581,
+    "update_time": 1763192581,
+    "_id": "Two-Bedroom Rooms"
+  },
+  "Shared Kitchen Areas": {
+    "chunk_ids": [
+      "chunk-3b8a582a931fd705ae3e7a3007566a85"
+    ],
+    "count": 1,
+    "create_time": 1763192587,
+    "update_time": 1763192587,
+    "_id": "Shared Kitchen Areas"
+  },
+  "Campus Laundry Facilities": {
+    "chunk_ids": [
+      "chunk-3b8a582a931fd705ae3e7a3007566a85"
+    ],
+    "count": 1,
+    "create_time": 1763192593,
+    "update_time": 1763192593,
+    "_id": "Campus Laundry Facilities"
+  },
+  "Internet Access": {
+    "chunk_ids": [
+      "chunk-3b8a582a931fd705ae3e7a3007566a85"
+    ],
+    "count": 1,
+    "create_time": 1763192600,
+    "update_time": 1763192600,
+    "_id": "Internet Access"
+  },
+  "Sanuzla": {
+    "chunk_ids": [
+      "chunk-37ecb1276d31ad335d59969f4e30c068"
+    ],
+    "count": 1,
+    "create_time": 1763192606,
+    "update_time": 1763192606,
+    "_id": "Sanuzla"
+  },
+  "Kitchen": {
+    "chunk_ids": [
+      "chunk-37ecb1276d31ad335d59969f4e30c068"
+    ],
+    "count": 1,
+    "create_time": 1763192611,
+    "update_time": 1763192611,
+    "_id": "Kitchen"
+  },
+  "Common Zones": {
+    "chunk_ids": [
+      "chunk-37ecb1276d31ad335d59969f4e30c068"
+    ],
+    "count": 1,
+    "create_time": 1763192617,
+    "update_time": 1763192617,
+    "_id": "Common Zones"
+  },
+  "First-year Students": {
+    "chunk_ids": [
+      "chunk-37ecb1276d31ad335d59969f4e30c068"
+    ],
+    "count": 1,
+    "create_time": 1763192623,
+    "update_time": 1763192623,
+    "_id": "First-year Students"
+  },
+  "Innограда Students": {
+    "chunk_ids": [
+      "chunk-37ecb1276d31ad335d59969f4e30c068"
+    ],
+    "count": 1,
+    "create_time": 1763192629,
+    "update_time": 1763192629,
+    "_id": "Innограда Students"
+  },
+  "Contract Lease Agreement": {
+    "chunk_ids": [
+      "chunk-37ecb1276d31ad335d59969f4e30c068"
+    ],
+    "count": 1,
+    "create_time": 1763192636,
+    "update_time": 1763192636,
+    "_id": "Contract Lease Agreement"
+  },
+  "Identity Document": {
+    "chunk_ids": [
+      "chunk-37ecb1276d31ad335d59969f4e30c068"
+    ],
+    "count": 1,
+    "create_time": 1763192641,
+    "update_time": 1763192641,
+    "_id": "Identity Document"
+  },
+  "Storage Area": {
+    "chunk_ids": [
+      "chunk-37ecb1276d31ad335d59969f4e30c068"
+    ],
+    "count": 1,
+    "create_time": 1763192647,
+    "update_time": 1763192647,
+    "_id": "Storage Area"
+  },
+  "Academic City Campus": {
+    "chunk_ids": [
+      "chunk-37ecb1276d31ad335d59969f4e30c068"
+    ],
+    "count": 1,
+    "create_time": 1763192653,
+    "update_time": 1763192653,
+    "_id": "Academic City Campus"
+  },
+  "Laundry Room": {
+    "chunk_ids": [
+      "chunk-37ecb1276d31ad335d59969f4e30c068"
+    ],
+    "count": 1,
+    "create_time": 1763192659,
+    "update_time": 1763192659,
+    "_id": "Laundry Room"
+  },
+  "Hostel 1A": {
+    "chunk_ids": [
+      "chunk-37ecb1276d31ad335d59969f4e30c068"
+    ],
+    "count": 1,
+    "create_time": 1763192665,
+    "update_time": 1763192665,
+    "_id": "Hostel 1A"
+  },
+  "Hostel 1B": {
+    "chunk_ids": [
+      "chunk-37ecb1276d31ad335d59969f4e30c068"
+    ],
+    "count": 1,
+    "create_time": 1763192671,
+    "update_time": 1763192671,
+    "_id": "Hostel 1B"
+  },
+  "hostel": {
+    "chunk_ids": [
+      "chunk-37ecb1276d31ad335d59969f4e30c068"
+    ],
+    "count": 1,
+    "create_time": 1763192713,
+    "update_time": 1763192713,
+    "_id": "hostel"
+  },
+  "block": {
+    "chunk_ids": [
+      "chunk-37ecb1276d31ad335d59969f4e30c068"
+    ],
+    "count": 1,
+    "create_time": 1763192720,
+    "update_time": 1763192720,
+    "_id": "block"
+  },
+  "dormitory": {
+    "chunk_ids": [
+      "chunk-37ecb1276d31ad335d59969f4e30c068"
+    ],
+    "count": 1,
+    "create_time": 1763192737,
+    "update_time": 1763192737,
+    "_id": "dormitory"
+  },
+  "student": {
+    "chunk_ids": [
+      "chunk-37ecb1276d31ad335d59969f4e30c068"
+    ],
+    "count": 1,
+    "create_time": 1763192761,
+    "update_time": 1763192761,
+    "_id": "student"
+  },
+  "registration": {
+    "chunk_ids": [
+      "chunk-37ecb1276d31ad335d59969f4e30c068"
+    ],
+    "count": 1,
+    "create_time": 1763192767,
+    "update_time": 1763192767,
+    "_id": "registration"
+  },
+  "campus": {
+    "chunk_ids": [
+      "chunk-37ecb1276d31ad335d59969f4e30c068"
+    ],
+    "count": 1,
+    "create_time": 1763192797,
+    "update_time": 1763192797,
+    "_id": "campus"
+  },
+  "future conversion": {
+    "chunk_ids": [
+      "chunk-37ecb1276d31ad335d59969f4e30c068"
+    ],
+    "count": 1,
+    "create_time": 1763192803,
+    "update_time": 1763192803,
+    "_id": "future conversion"
+  },
+  "Mechanics and Mathematical Modeling": {
+    "chunk_ids": [
+      "chunk-a035eeb7895b7dadfd008f91646edee8",
+      "chunk-681b87b5ddf40fbbc0a67227a216a8c4"
+    ],
+    "count": 2,
+    "create_time": 1763192879,
+    "update_time": 1763192879,
+    "_id": "Mechanics and Mathematical Modeling"
+  },
+  "Fundamental Mathematics Research Group": {
+    "chunk_ids": [
+      "chunk-a035eeb7895b7dadfd008f91646edee8",
+      "chunk-681b87b5ddf40fbbc0a67227a216a8c4"
+    ],
+    "count": 2,
+    "create_time": 1763192879,
+    "update_time": 1763192879,
+    "_id": "Fundamental Mathematics Research Group"
+  },
+  "Mathematical Modelling": {
+    "chunk_ids": [
+      "chunk-a035eeb7895b7dadfd008f91646edee8"
+    ],
+    "count": 1,
+    "create_time": 1763192885,
+    "update_time": 1763192885,
+    "_id": "Mathematical Modelling"
+  },
+  "Research Institutes": {
+    "chunk_ids": [
+      "chunk-a035eeb7895b7dadfd008f91646edee8"
+    ],
+    "count": 1,
+    "create_time": 1763192891,
+    "update_time": 1763192891,
+    "_id": "Research Institutes"
+  },
+  "Educational Institutions": {
+    "chunk_ids": [
+      "chunk-a035eeb7895b7dadfd008f91646edee8"
+    ],
+    "count": 1,
+    "create_time": 1763192897,
+    "update_time": 1763192897,
+    "_id": "Educational Institutions"
+  },
+  "IT or Physics": {
+    "chunk_ids": [
+      "chunk-a035eeb7895b7dadfd008f91646edee8"
+    ],
+    "count": 1,
+    "create_time": 1763192904,
+    "update_time": 1763192904,
+    "_id": "IT or Physics"
+  },
+  "Russian Language": {
+    "chunk_ids": [
+      "chunk-a035eeb7895b7dadfd008f91646edee8",
+      "chunk-681b87b5ddf40fbbc0a67227a216a8c4",
+      "chunk-96824a0b7bedfff01e1e931021742836"
+    ],
+    "count": 3,
+    "update_time": 1763193182,
+    "_id": "Russian Language"
+  },
+  "Math": {
+    "chunk_ids": [
+      "chunk-a035eeb7895b7dadfd008f91646edee8"
+    ],
+    "count": 1,
+    "create_time": 1763192915,
+    "update_time": 1763192915,
+    "_id": "Math"
+  },
+  "01.03.03": {
+    "chunk_ids": [
+      "chunk-a035eeb7895b7dadfd008f91646edee8"
+    ],
+    "count": 1,
+    "create_time": 1763192921,
+    "update_time": 1763192921,
+    "_id": "01.03.03"
+  },
+  "Mechanico-Mathematical Faculty": {
+    "chunk_ids": [
+      "chunk-681b87b5ddf40fbbc0a67227a216a8c4"
+    ],
+    "count": 1,
+    "create_time": 1763192927,
+    "update_time": 1763192927,
+    "_id": "Mechanico-Mathematical Faculty"
+  },
+  "Institute for Computational Mathematics and Mathematical Geophysics": {
+    "chunk_ids": [
+      "chunk-681b87b5ddf40fbbc0a67227a216a8c4"
+    ],
+    "count": 1,
+    "create_time": 1763192934,
+    "update_time": 1763192934,
+    "_id": "Institute for Computational Mathematics and Mathematical Geophysics"
+  },
+  "Sobolev Institute of Mathematics": {
+    "chunk_ids": [
+      "chunk-681b87b5ddf40fbbc0a67227a216a8c4"
+    ],
+    "count": 1,
+    "create_time": 1763192940,
+    "update_time": 1763192940,
+    "_id": "Sobolev Institute of Mathematics"
+  },
+  "Novosibirsk State University": {
+    "chunk_ids": [
+      "chunk-681b87b5ddf40fbbc0a67227a216a8c4"
+    ],
+    "count": 1,
+    "create_time": 1763192945,
+    "update_time": 1763192945,
+    "_id": "Novosibirsk State University"
+  },
+  "Academic Town": {
+    "chunk_ids": [
+      "chunk-681b87b5ddf40fbbc0a67227a216a8c4"
+    ],
+    "count": 1,
+    "create_time": 1763192951,
+    "update_time": 1763192951,
+    "_id": "Academic Town"
+  },
+  "Engineering School": {
+    "chunk_ids": [
+      "chunk-681b87b5ddf40fbbc0a67227a216a8c4"
+    ],
+    "count": 1,
+    "create_time": 1763192957,
+    "update_time": 1763192957,
+    "_id": "Engineering School"
+  },
+  "Mathematics and Computer Science": {
+    "chunk_ids": [
+      "chunk-681b87b5ddf40fbbc0a67227a216a8c4"
+    ],
+    "count": 1,
+    "create_time": 1763192964,
+    "update_time": 1763192964,
+    "_id": "Mathematics and Computer Science"
+  },
+  "Applied Mathematics and Informatics": {
+    "chunk_ids": [
+      "chunk-681b87b5ddf40fbbc0a67227a216a8c4"
+    ],
+    "count": 1,
+    "create_time": 1763192970,
+    "update_time": 1763192970,
+    "_id": "Applied Mathematics and Informatics"
+  },
+  "Mathematics (Advanced)": {
+    "chunk_ids": [
+      "chunk-681b87b5ddf40fbbc0a67227a216a8c4"
+    ],
+    "count": 1,
+    "create_time": 1763192976,
+    "update_time": 1763192976,
+    "_id": "Mathematics (Advanced)"
+  },
+  "Informatics and Information Technology": {
+    "chunk_ids": [
+      "chunk-681b87b5ddf40fbbc0a67227a216a8c4"
+    ],
+    "count": 1,
+    "create_time": 1763192981,
+    "update_time": 1763192981,
+    "_id": "Informatics and Information Technology"
+  },
+  "Physics": {
+    "chunk_ids": [
+      "chunk-681b87b5ddf40fbbc0a67227a216a8c4",
+      "chunk-e2976471c53db5fbb9c437e851fe7def"
+    ],
+    "count": 2,
+    "update_time": 1763193254,
+    "_id": "Physics"
+  },
+  "IT": {
+    "chunk_ids": [
+      "chunk-b4055224d550d9110efe1e2fa145e03c"
+    ],
+    "count": 1,
+    "create_time": 1763192994,
+    "update_time": 1763192994,
+    "_id": "IT"
+  },
+  "Information and Communication Technology or Physics": {
+    "chunk_ids": [
+      "chunk-a035eeb7895b7dadfd008f91646edee8"
+    ],
+    "count": 1,
+    "create_time": 1763193023,
+    "update_time": 1763193023,
+    "_id": "Information and Communication Technology or Physics"
+  },
+  "Faculty of Informatics and Computing Science": {
+    "chunk_ids": [
+      "chunk-96824a0b7bedfff01e1e931021742836"
+    ],
+    "count": 1,
+    "create_time": 1763193164,
+    "update_time": 1763193164,
+    "_id": "Faculty of Informatics and Computing Science"
+  },
+  "09.03.01 «Informatics and Computer Engineering»": {
+    "chunk_ids": [
+      "chunk-96824a0b7bedfff01e1e931021742836"
+    ],
+    "count": 1,
+    "create_time": 1763193164,
+    "update_time": 1763193164,
+    "_id": "09.03.01 «Informatics and Computer Engineering»"
+  },
+  "Computer Sciences and System Engineering": {
+    "chunk_ids": [
+      "chunk-96824a0b7bedfff01e1e931021742836"
+    ],
+    "count": 1,
+    "create_time": 1763193170,
+    "update_time": 1763193170,
+    "_id": "Computer Sciences and System Engineering"
+  },
+  "Software Engineering and Computer Sciences": {
+    "chunk_ids": [
+      "chunk-96824a0b7bedfff01e1e931021742836"
+    ],
+    "count": 1,
+    "create_time": 1763193176,
+    "update_time": 1763193176,
+    "_id": "Software Engineering and Computer Sciences"
+  },
+  "Mathematics": {
+    "chunk_ids": [
+      "chunk-96824a0b7bedfff01e1e931021742836",
+      "chunk-e2976471c53db5fbb9c437e851fe7def"
+    ],
+    "count": 2,
+    "create_time": 1763193188,
+    "update_time": 1763193188,
+    "_id": "Mathematics"
+  },
+  "Physics or Information Technology and Communications": {
+    "chunk_ids": [
+      "chunk-96824a0b7bedfff01e1e931021742836"
+    ],
+    "count": 1,
+    "create_time": 1763193194,
+    "update_time": 1763193194,
+    "_id": "Physics or Information Technology and Communications"
+  },
+  "Bachelors Degree Program": {
+    "chunk_ids": [
+      "chunk-96824a0b7bedfff01e1e931021742836"
+    ],
+    "count": 1,
+    "create_time": 1763193200,
+    "update_time": 1763193200,
+    "_id": "Bachelors Degree Program"
+  },
+  "Ена": {
+    "chunk_ids": [
+      "chunk-da86e6c882df15e442a222d2a8151b98"
+    ],
+    "count": 1,
+    "create_time": 1763193206,
+    "update_time": 1763193206,
+    "_id": "Ена"
+  },
+  "Programmatic Engineering and Computer Science": {
+    "chunk_ids": [
+      "chunk-e2976471c53db5fbb9c437e851fe7def"
+    ],
+    "count": 1,
+    "create_time": 1763193212,
+    "update_time": 1763193212,
+    "_id": "Programmatic Engineering and Computer Science"
+  },
+  "Academic Calendar": {
+    "chunk_ids": [
+      "chunk-e2976471c53db5fbb9c437e851fe7def"
+    ],
+    "count": 1,
+    "create_time": 1763193218,
+    "update_time": 1763193218,
+    "_id": "Academic Calendar"
+  },
+  "Faculty": {
+    "chunk_ids": [
+      "chunk-e2976471c53db5fbb9c437e851fe7def"
+    ],
+    "count": 1,
+    "create_time": 1763193224,
+    "update_time": 1763193224,
+    "_id": "Faculty"
+  },
+  "Scientific Research Institutes": {
+    "chunk_ids": [
+      "chunk-e2976471c53db5fbb9c437e851fe7def"
+    ],
+    "count": 1,
+    "create_time": 1763193230,
+    "update_time": 1763193230,
+    "_id": "Scientific Research Institutes"
+  },
+  "IT Companies": {
+    "chunk_ids": [
+      "chunk-e2976471c53db5fbb9c437e851fe7def"
+    ],
+    "count": 1,
+    "create_time": 1763193236,
+    "update_time": 1763193236,
+    "_id": "IT Companies"
+  },
+  "Russian Universities Ranking": {
+    "chunk_ids": [
+      "chunk-e2976471c53db5fbb9c437e851fe7def"
+    ],
+    "count": 1,
+    "create_time": 1763193242,
+    "update_time": 1763193242,
+    "_id": "Russian Universities Ranking"
+  },
+  "High Competition": {
+    "chunk_ids": [
+      "chunk-e2976471c53db5fbb9c437e851fe7def"
+    ],
+    "count": 1,
+    "create_time": 1763193248,
+    "update_time": 1763193248,
+    "_id": "High Competition"
+  },
+  "Informatics/Information and Communication Technology": {
+    "chunk_ids": [
+      "chunk-e2976471c53db5fbb9c437e851fe7def"
+    ],
+    "count": 1,
+    "create_time": 1763193260,
+    "update_time": 1763193260,
+    "_id": "Informatics/Information and Communication Technology"
+  },
+  "English Proficiency": {
+    "chunk_ids": [
+      "chunk-e2976471c53db5fbb9c437e851fe7def"
+    ],
+    "count": 1,
+    "create_time": 1763193266,
+    "update_time": 1763193266,
+    "_id": "English Proficiency"
+  },
+  "000 рублей": {
+    "chunk_ids": [
+      "chunk-134b04ed8f5bc457339155536f87ac47"
+    ],
+    "count": 1,
+    "create_time": 1763193411,
+    "update_time": 1763193411,
+    "_id": "000 рублей"
+  },
+  "budgetary places": {
+    "chunk_ids": [
+      "chunk-134b04ed8f5bc457339155536f87ac47"
+    ],
+    "count": 1,
+    "create_time": 1763193411,
+    "update_time": 1763193411,
+    "_id": "budgetary places"
+  },
+  "mathematical courses": {
+    "chunk_ids": [
+      "chunk-134b04ed8f5bc457339155536f87ac47"
+    ],
+    "count": 1,
+    "create_time": 1763193417,
+    "update_time": 1763193417,
+    "_id": "mathematical courses"
+  },
+  "statistics": {
+    "chunk_ids": [
+      "chunk-134b04ed8f5bc457339155536f87ac47"
+    ],
+    "count": 1,
+    "create_time": 1763193423,
+    "update_time": 1763193423,
+    "_id": "statistics"
+  },
+  "programming": {
+    "chunk_ids": [
+      "chunk-134b04ed8f5bc457339155536f87ac47"
+    ],
+    "count": 1,
+    "create_time": 1763193429,
+    "update_time": 1763193429,
+    "_id": "programming"
+  },
+  "Python": {
+    "chunk_ids": [
+      "chunk-134b04ed8f5bc457339155536f87ac47"
+    ],
+    "count": 1,
+    "create_time": 1763193435,
+    "update_time": 1763193435,
+    "_id": "Python"
+  },
+  "economic analysis": {
+    "chunk_ids": [
+      "chunk-134b04ed8f5bc457339155536f87ac47"
+    ],
+    "count": 1,
+    "create_time": 1763193441,
+    "update_time": 1763193441,
+    "_id": "economic analysis"
+  },
+  "work with economic data": {
+    "chunk_ids": [
+      "chunk-134b04ed8f5bc457339155536f87ac47"
+    ],
+    "count": 1,
+    "create_time": 1763193447,
+    "update_time": 1763193447,
+    "_id": "work with economic data"
+  },
+  "model building": {
+    "chunk_ids": [
+      "chunk-134b04ed8f5bc457339155536f87ac47"
+    ],
+    "count": 1,
+    "create_time": 1763193453,
+    "update_time": 1763193453,
+    "_id": "model building"
+  },
+  "practical business experts": {
+    "chunk_ids": [
+      "chunk-134b04ed8f5bc457339155536f87ac47"
+    ],
+    "count": 1,
+    "create_time": 1763193459,
+    "update_time": 1763193459,
+    "_id": "practical business experts"
+  },
+  "business analytics": {
+    "chunk_ids": [
+      "chunk-134b04ed8f5bc457339155536f87ac47"
+    ],
+    "count": 1,
+    "create_time": 1763193465,
+    "update_time": 1763193465,
+    "_id": "business analytics"
+  },
+  "consultancy": {
+    "chunk_ids": [
+      "chunk-134b04ed8f5bc457339155536f87ac47"
+    ],
+    "count": 1,
+    "create_time": 1763193471,
+    "update_time": 1763193471,
+    "_id": "consultancy"
+  },
+  "financial companies": {
+    "chunk_ids": [
+      "chunk-134b04ed8f5bc457339155536f87ac47"
+    ],
+    "count": 1,
+    "create_time": 1763193477,
+    "update_time": 1763193477,
+    "_id": "financial companies"
+  },
+  "Russian language": {
+    "chunk_ids": [
+      "chunk-134b04ed8f5bc457339155536f87ac47"
+    ],
+    "count": 1,
+    "create_time": 1763193483,
+    "update_time": 1763193483,
+    "_id": "Russian language"
+  },
+  "mathematics": {
+    "chunk_ids": [
+      "chunk-134b04ed8f5bc457339155536f87ac47"
+    ],
+    "count": 1,
+    "create_time": 1763193489,
+    "update_time": 1763193489,
+    "_id": "mathematics"
+  },
+  "social sciences": {
+    "chunk_ids": [
+      "chunk-134b04ed8f5bc457339155536f87ac47"
+    ],
+    "count": 1,
+    "create_time": 1763193495,
+    "update_time": 1763193495,
+    "_id": "social sciences"
+  },
+  "foreign languages": {
+    "chunk_ids": [
+      "chunk-134b04ed8f5bc457339155536f87ac47"
+    ],
+    "count": 1,
+    "create_time": 1763193501,
+    "update_time": 1763193501,
+    "_id": "foreign languages"
+  },
+  "economic modeling": {
+    "chunk_ids": [
+      "chunk-134b04ed8f5bc457339155536f87ac47"
+    ],
+    "count": 1,
+    "create_time": 1763193507,
+    "update_time": 1763193507,
+    "_id": "economic modeling"
+  },
+  "analytical skills": {
+    "chunk_ids": [
+      "chunk-134b04ed8f5bc457339155536f87ac47"
+    ],
+    "count": 1,
+    "create_time": 1763193513,
+    "update_time": 1763193513,
+    "_id": "analytical skills"
+  },
+  "stages of study": {
+    "chunk_ids": [
+      "chunk-134b04ed8f5bc457339155536f87ac47"
+    ],
+    "count": 1,
+    "create_time": 1763193519,
+    "update_time": 1763193519,
+    "_id": "stages of study"
+  },
+  "Economic Faculty NSU": {
+    "chunk_ids": [
+      "chunk-bb0ebf4eb1e54439f1b32cb8c8f17714"
+    ],
+    "count": 1,
+    "create_time": 1763193525,
+    "update_time": 1763193525,
+    "_id": "Economic Faculty NSU"
+  },
+  "Bachelor's Degree Program Economics": {
+    "chunk_ids": [
+      "chunk-bb0ebf4eb1e54439f1b32cb8c8f17714"
+    ],
+    "count": 1,
+    "create_time": 1763193531,
+    "update_time": 1763193531,
+    "_id": "Bachelor's Degree Program Economics"
+  },
+  "Master's Degree Programs": {
+    "chunk_ids": [
+      "chunk-bb0ebf4eb1e54439f1b32cb8c8f17714"
+    ],
+    "count": 1,
+    "create_time": 1763193537,
+    "update_time": 1763193537,
+    "_id": "Master's Degree Programs"
+  },
+  "Entrance Requirements": {
+    "chunk_ids": [
+      "chunk-bb0ebf4eb1e54439f1b32cb8c8f17714"
+    ],
+    "count": 1,
+    "create_time": 1763193543,
+    "update_time": 1763193543,
+    "_id": "Entrance Requirements"
+  },
+  "Budget Places": {
+    "chunk_ids": [
+      "chunk-bb0ebf4eb1e54439f1b32cb8c8f17714"
+    ],
+    "count": 1,
+    "create_time": 1763193549,
+    "update_time": 1763193549,
+    "_id": "Budget Places"
+  },
+  "Tuition Fees": {
+    "chunk_ids": [
+      "chunk-bb0ebf4eb1e54439f1b32cb8c8f17714"
+    ],
+    "count": 1,
+    "create_time": 1763193555,
+    "update_time": 1763193555,
+    "_id": "Tuition Fees"
+  },
+  "Mathematics Courses": {
+    "chunk_ids": [
+      "chunk-bb0ebf4eb1e54439f1b32cb8c8f17714"
+    ],
+    "count": 1,
+    "create_time": 1763193561,
+    "update_time": 1763193561,
+    "_id": "Mathematics Courses"
+  },
+  "Statistics": {
+    "chunk_ids": [
+      "chunk-bb0ebf4eb1e54439f1b32cb8c8f17714"
+    ],
+    "count": 1,
+    "create_time": 1763193567,
+    "update_time": 1763193567,
+    "_id": "Statistics"
+  },
+  "Programming": {
+    "chunk_ids": [
+      "chunk-bb0ebf4eb1e54439f1b32cb8c8f17714"
+    ],
+    "count": 1,
+    "create_time": 1763193573,
+    "update_time": 1763193573,
+    "_id": "Programming"
+  },
+  "students": {
+    "chunk_ids": [
+      "chunk-134b04ed8f5bc457339155536f87ac47"
+    ],
+    "count": 1,
+    "create_time": 1763193585,
+    "update_time": 1763193585,
+    "_id": "students"
+  },
+  "faculty": {
+    "chunk_ids": [
+      "chunk-134b04ed8f5bc457339155536f87ac47"
+    ],
+    "count": 1,
+    "create_time": 1763193627,
+    "update_time": 1763193627,
+    "_id": "faculty"
+  },
+  "graduates": {
+    "chunk_ids": [
+      "chunk-134b04ed8f5bc457339155536f87ac47"
+    ],
+    "count": 1,
+    "create_time": 1763193633,
+    "update_time": 1763193633,
+    "_id": "graduates"
+  },
+  "entrance exams": {
+    "chunk_ids": [
+      "chunk-134b04ed8f5bc457339155536f87ac47"
+    ],
+    "count": 1,
+    "create_time": 1763193663,
+    "update_time": 1763193663,
+    "_id": "entrance exams"
+  },
+  "specialization": {
+    "chunk_ids": [
+      "chunk-134b04ed8f5bc457339155536f87ac47"
+    ],
+    "count": 1,
+    "create_time": 1763193693,
+    "update_time": 1763193693,
+    "_id": "specialization"
+  },
+  "Management Profile": {
+    "chunk_ids": [
+      "chunk-bb0ebf4eb1e54439f1b32cb8c8f17714"
+    ],
+    "count": 1,
+    "create_time": 1763193747,
+    "update_time": 1763193747,
+    "_id": "Management Profile"
+  },
+  "Business Informatics Profile": {
+    "chunk_ids": [
+      "chunk-bb0ebf4eb1e54439f1b32cb8c8f17714"
+    ],
+    "count": 1,
+    "create_time": 1763193765,
+    "update_time": 1763193765,
+    "_id": "Business Informatics Profile"
+  },
+  "Economic Modeling": {
+    "chunk_ids": [
+      "chunk-bb0ebf4eb1e54439f1b32cb8c8f17714"
+    ],
+    "count": 1,
+    "create_time": 1763193765,
+    "update_time": 1763193765,
+    "_id": "Economic Modeling"
+  },
+  "Applied Economy": {
+    "chunk_ids": [
+      "chunk-bb0ebf4eb1e54439f1b32cb8c8f17714"
+    ],
+    "count": 1,
+    "create_time": 1763193789,
+    "update_time": 1763193789,
+    "_id": "Applied Economy"
+  },
+  "Analytics": {
+    "chunk_ids": [
+      "chunk-bb0ebf4eb1e54439f1b32cb8c8f17714"
+    ],
+    "count": 1,
+    "create_time": 1763193801,
+    "update_time": 1763193801,
+    "_id": "Analytics"
+  }
+}
