@@ -8,4 +8,11 @@ __pycache__/
 
 # Logs
 *.log
-/data
+
+# Data
+# Игнорируем все графы LightRAG
+/data/lightrag/*
+
+# Но НЕ игнорируем граф NSU
+!/data/lightrag/NSU
+!/data/lightrag/NSU/**
