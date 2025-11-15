@@ -364,6 +364,8 @@ class GigaChatLLM:
                 verify_ssl_certs=False,
             )
 
+            logger.error(messages)
+
             # Call GigaChat API in thread pool (GigaChat SDK is synchronous)
             response = await asyncio.to_thread(
                 client.chat,
