@@ -4,8 +4,8 @@ import logging
 import os
 
 from llm import GigaChatClient
-from maxbot import Bot, Dispatcher, F
-from maxbot.types import Message
+from maxbot_api import Bot, Dispatcher, F
+from maxbot_api.types import Message
 
 logger = logging.getLogger(__name__)
 
