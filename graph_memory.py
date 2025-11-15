@@ -57,7 +57,7 @@ class GraphMemory:
             model_name: Модель GigaChat для генерации текста
             embedding_model_name: Модель GigaChat для эмбеддингов
         """
-        # Получаем credentials из .env если не передан
+        # Получаем credentials из .env если не передан.
         self.credentials: Optional[str] = credentials or os.getenv(
             "GIGACHAT_CREDENTIALS"
         )
