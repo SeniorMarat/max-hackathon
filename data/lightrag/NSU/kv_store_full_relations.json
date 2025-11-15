@@ -1,0 +1,370 @@
+{
+  "doc-bd2f568b9e1af22816c86ec4eb6770a6": {
+    "relation_pairs": [
+      [
+        "Shared Kitchen Areas",
+        "University Hostels"
+      ],
+      [
+        "Sanuzla",
+        "hostel"
+      ],
+      [
+        "Campus Laundry Facilities",
+        "University Hostels"
+      ],
+      [
+        "Academic City",
+        "NSU"
+      ],
+      [
+        "Storage Area",
+        "dormitory"
+      ],
+      [
+        "Laundry Room",
+        "campus"
+      ],
+      [
+        "Hostel 1A",
+        "future conversion"
+      ],
+      [
+        "Kitchen",
+        "block"
+      ],
+      [
+        "Innограда Students",
+        "dormitory"
+      ],
+      [
+        "Academic City",
+        "University Hostels"
+      ],
+      [
+        "Two-Bedroom Rooms",
+        "University Hostels"
+      ],
+      [
+        "Common Zones",
+        "dormitory"
+      ],
+      [
+        "Contract Lease Agreement",
+        "student"
+      ],
+      [
+        "First-year Students",
+        "dormitory"
+      ],
+      [
+        "Identity Document",
+        "registration"
+      ],
+      [
+        "Academic City Campus",
+        "dormitory"
+      ],
+      [
+        "Hostel 1B",
+        "future conversion"
+      ],
+      [
+        "Internet Access",
+        "University Hostels"
+      ]
+    ],
+    "count": 18,
+    "create_time": 1763192833,
+    "update_time": 1763192833,
+    "_id": "doc-bd2f568b9e1af22816c86ec4eb6770a6"
+  },
+  "doc-5b89994a7ab8748ecce9a8e321f19f62": {
+    "relation_pairs": [
+      [
+        "Mechanico-Mathematical Faculty",
+        "Sobolev Institute of Mathematics"
+      ],
+      [
+        "01.03.03",
+        "Math"
+      ],
+      [
+        "01.03.03",
+        "Mechanics and Mathematical Modeling"
+      ],
+      [
+        "Mechanico-Mathematical Faculty",
+        "Mechanics and Mathematical Modeling"
+      ],
+      [
+        "Mathematics and Computer Science",
+        "Mechanico-Mathematical Faculty"
+      ],
+      [
+        "Informatics and Information Technology",
+        "Mechanico-Mathematical Faculty"
+      ],
+      [
+        "Academic Town",
+        "Mechanico-Mathematical Faculty"
+      ],
+      [
+        "Mathematics (Advanced)",
+        "Mechanico-Mathematical Faculty"
+      ],
+      [
+        "Applied Mathematics and Informatics",
+        "Mechanico-Mathematical Faculty"
+      ],
+      [
+        "Mechanico-Mathematical Faculty",
+        "Russian Language"
+      ],
+      [
+        "Educational Institutions",
+        "Mechanics and Mathematical Modeling"
+      ],
+      [
+        "Mechanico-Mathematical Faculty",
+        "Novosibirsk State University"
+      ],
+      [
+        "Mechanico-Mathematical Faculty",
+        "Physics"
+      ],
+      [
+        "01.03.03",
+        "Russian Language"
+      ],
+      [
+        "Engineering School",
+        "Mechanico-Mathematical Faculty"
+      ],
+      [
+        "Mechanics and Mathematical Modeling",
+        "Research Institutes"
+      ],
+      [
+        "01.03.03",
+        "Information and Communication Technology or Physics"
+      ],
+      [
+        "01.03.03",
+        "Fundamental Mathematics Research Group"
+      ]
+    ],
+    "count": 18,
+    "create_time": 1763193120,
+    "update_time": 1763193120,
+    "_id": "doc-5b89994a7ab8748ecce9a8e321f19f62"
+  },
+  "doc-ab554c1a0b9a187935a1265714dcc638": {
+    "relation_pairs": [
+      [
+        "Faculty of Informatics and Computing Science",
+        "Physics or Information Technology and Communications"
+      ],
+      [
+        "Faculty",
+        "IT Companies"
+      ],
+      [
+        "09.03.01 «Informatics and Computer Engineering»",
+        "Computer Sciences and System Engineering"
+      ],
+      [
+        "09.03.01 «Informatics and Computer Engineering»",
+        "Faculty of Informatics and Computing Science"
+      ],
+      [
+        "Faculty",
+        "Scientific Research Institutes"
+      ],
+      [
+        "High Competition",
+        "Mathematics"
+      ],
+      [
+        "09.03.01 «Informatics and Computer Engineering»",
+        "Software Engineering and Computer Sciences"
+      ],
+      [
+        "Academic Calendar",
+        "Programmatic Engineering and Computer Science"
+      ],
+      [
+        "Faculty of Informatics and Computing Science",
+        "Russian Language"
+      ],
+      [
+        "Faculty",
+        "Russian Universities Ranking"
+      ],
+      [
+        "Faculty",
+        "High Competition"
+      ],
+      [
+        "English Proficiency",
+        "Faculty"
+      ],
+      [
+        "High Competition",
+        "Physics"
+      ],
+      [
+        "Faculty of Informatics and Computing Science",
+        "Mathematics"
+      ],
+      [
+        "High Competition",
+        "Informatics/Information and Communication Technology"
+      ],
+      [
+        "09.03.01 «Informatics and Computer Engineering»",
+        "Bachelors Degree Program"
+      ]
+    ],
+    "count": 16,
+    "create_time": 1763193374,
+    "update_time": 1763193374,
+    "_id": "doc-ab554c1a0b9a187935a1265714dcc638"
+  },
+  "doc-3d39e2340d46fb1483cba2f664490c81": {
+    "relation_pairs": [
+      [
+        "Economic Faculty NSU",
+        "Mathematics Courses"
+      ],
+      [
+        "Economic Faculty NSU",
+        "Entrance Requirements"
+      ],
+      [
+        "Analytics",
+        "Master's Degree Programs"
+      ],
+      [
+        "000 рублей",
+        "budgetary places"
+      ],
+      [
+        "Bachelor's Degree Program Economics",
+        "Business Informatics Profile"
+      ],
+      [
+        "consultancy",
+        "graduates"
+      ],
+      [
+        "Bachelor's Degree Program Economics",
+        "Management Profile"
+      ],
+      [
+        "Applied Economy",
+        "Master's Degree Programs"
+      ],
+      [
+        "economic analysis",
+        "students"
+      ],
+      [
+        "Economic Faculty NSU",
+        "Programming"
+      ],
+      [
+        "mathematical courses",
+        "students"
+      ],
+      [
+        "stages of study",
+        "students"
+      ],
+      [
+        "Economic Modeling",
+        "Master's Degree Programs"
+      ],
+      [
+        "Russian language",
+        "entrance exams"
+      ],
+      [
+        "financial companies",
+        "graduates"
+      ],
+      [
+        "Bachelor's Degree Program Economics",
+        "Master's Degree Programs"
+      ],
+      [
+        "business analytics",
+        "graduates"
+      ],
+      [
+        "model building",
+        "students"
+      ],
+      [
+        "economic modeling",
+        "specialization"
+      ],
+      [
+        "students",
+        "work with economic data"
+      ],
+      [
+        "Economic Faculty NSU",
+        "Master's Degree Programs"
+      ],
+      [
+        "analytical skills",
+        "students"
+      ],
+      [
+        "Economic Faculty NSU",
+        "Tuition Fees"
+      ],
+      [
+        "Budget Places",
+        "Economic Faculty NSU"
+      ],
+      [
+        "faculty",
+        "practical business experts"
+      ],
+      [
+        "statistics",
+        "students"
+      ],
+      [
+        "Bachelor's Degree Program Economics",
+        "Economic Faculty NSU"
+      ],
+      [
+        "entrance exams",
+        "foreign languages"
+      ],
+      [
+        "entrance exams",
+        "mathematics"
+      ],
+      [
+        "entrance exams",
+        "social sciences"
+      ],
+      [
+        "Economic Faculty NSU",
+        "Statistics"
+      ],
+      [
+        "programming",
+        "students"
+      ]
+    ],
+    "count": 32,
+    "create_time": 1763193837,
+    "update_time": 1763193837,
+    "_id": "doc-3d39e2340d46fb1483cba2f664490c81"
+  }
+}

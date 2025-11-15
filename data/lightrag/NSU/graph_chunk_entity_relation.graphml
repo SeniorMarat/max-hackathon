@@ -1,0 +1,1711 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="truncate" attr.type="string" />
+  <key id="d12" for="edge" attr.name="created_at" attr.type="long" />
+  <key id="d11" for="edge" attr.name="file_path" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d8" for="edge" attr.name="description" attr.type="string" />
+  <key id="d7" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d6" for="node" attr.name="truncate" attr.type="string" />
+  <key id="d5" for="node" attr.name="created_at" attr.type="long" />
+  <key id="d4" for="node" attr.name="file_path" attr.type="string" />
+  <key id="d3" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d2" for="node" attr.name="description" attr.type="string" />
+  <key id="d1" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_id" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="NSU">
+      <data key="d0">NSU</data>
+      <data key="d1">organization</data>
+      <data key="d2">NSU is the Novosibirsk State University where students live in university dormitories.</data>
+      <data key="d3">chunk-3b8a582a931fd705ae3e7a3007566a85</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763192570</data>
+      <data key="d6" />
+    </node>
+    <node id="Academic City">
+      <data key="d0">Academic City</data>
+      <data key="d1">location</data>
+      <data key="d2">Academic City is the area where university buildings and student dormitories are located.</data>
+      <data key="d3">chunk-3b8a582a931fd705ae3e7a3007566a85</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763192570</data>
+      <data key="d6" />
+    </node>
+    <node id="University Hostels">
+      <data key="d0">University Hostels</data>
+      <data key="d1">location</data>
+      <data key="d2">University Hostels refer to the specific locations where students reside in dormitories.</data>
+      <data key="d3">chunk-3b8a582a931fd705ae3e7a3007566a85</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763192575</data>
+      <data key="d6" />
+    </node>
+    <node id="Two-Bedroom Rooms">
+      <data key="d0">Two-Bedroom Rooms</data>
+      <data key="d1">space</data>
+      <data key="d2">Two-Bedroom Rooms are typical accommodations in university hostels.</data>
+      <data key="d3">chunk-3b8a582a931fd705ae3e7a3007566a85</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763192581</data>
+      <data key="d6" />
+    </node>
+    <node id="Shared Kitchen Areas">
+      <data key="d0">Shared Kitchen Areas</data>
+      <data key="d1">space</data>
+      <data key="d2">Shared Kitchens are communal cooking spaces in university hostels.</data>
+      <data key="d3">chunk-3b8a582a931fd705ae3e7a3007566a85</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763192587</data>
+      <data key="d6" />
+    </node>
+    <node id="Campus Laundry Facilities">
+      <data key="d0">Campus Laundry Facilities</data>
+      <data key="d1">facility</data>
+      <data key="d2">Laundry facilities are available for students in the campus area.</data>
+      <data key="d3">chunk-3b8a582a931fd705ae3e7a3007566a85</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763192593</data>
+      <data key="d6" />
+    </node>
+    <node id="Internet Access">
+      <data key="d0">Internet Access</data>
+      <data key="d1">service</data>
+      <data key="d2">Internet access is provided through NSU network ("nsunet"), with additional fees.</data>
+      <data key="d3">chunk-3b8a582a931fd705ae3e7a3007566a85</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763192600</data>
+      <data key="d6" />
+    </node>
+    <node id="Sanuzla">
+      <data key="d0">Sanuzla</data>
+      <data key="d1">location</data>
+      <data key="d2">Sanuzla is mentioned in the text without further details.</data>
+      <data key="d3">chunk-37ecb1276d31ad335d59969f4e30c068</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763192606</data>
+      <data key="d6" />
+    </node>
+    <node id="Kitchen">
+      <data key="d0">Kitchen</data>
+      <data key="d1">facility</data>
+      <data key="d2">Kitchens are described as equipped with furniture in each block.</data>
+      <data key="d3">chunk-37ecb1276d31ad335d59969f4e30c068</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763192611</data>
+      <data key="d6" />
+    </node>
+    <node id="Common Zones">
+      <data key="d0">Common Zones</data>
+      <data key="d1">area</data>
+      <data key="d2">There are common areas for relaxation in the dormitory.</data>
+      <data key="d3">chunk-37ecb1276d31ad335d59969f4e30c068</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763192617</data>
+      <data key="d6" />
+    </node>
+    <node id="First-year Students">
+      <data key="d0">First-year Students</data>
+      <data key="d1">group</data>
+      <data key="d2">First-year students and out-of-town students may get accommodation in the dormitory upon enrollment.</data>
+      <data key="d3">chunk-37ecb1276d31ad335d59969f4e30c068</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763192623</data>
+      <data key="d6" />
+    </node>
+    <node id="Innограда Students">
+      <data key="d0">Innограда Students</data>
+      <data key="d1">group</data>
+      <data key="d2">Innограда students can also apply for accommodation in the dormitory.</data>
+      <data key="d3">chunk-37ecb1276d31ad335d59969f4e30c068</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763192629</data>
+      <data key="d6" />
+    </node>
+    <node id="Contract Lease Agreement">
+      <data key="d0">Contract Lease Agreement</data>
+      <data key="d1">document</data>
+      <data key="d2">Students need to sign a lease agreement when they settle in.</data>
+      <data key="d3">chunk-37ecb1276d31ad335d59969f4e30c068</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763192636</data>
+      <data key="d6" />
+    </node>
+    <node id="Identity Document">
+      <data key="d0">Identity Document</data>
+      <data key="d1">document</data>
+      <data key="d2">Registration often requires presenting identification documents.</data>
+      <data key="d3">chunk-37ecb1276d31ad335d59969f4e30c068</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763192641</data>
+      <data key="d6" />
+    </node>
+    <node id="Storage Area">
+      <data key="d0">Storage Area</data>
+      <data key="d1">space</data>
+      <data key="d2">Bags can be stored in designated areas within the dormitories.</data>
+      <data key="d3">chunk-37ecb1276d31ad335d59969f4e30c068</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763192647</data>
+      <data key="d6" />
+    </node>
+    <node id="Academic City Campus">
+      <data key="d0">Academic City Campus</data>
+      <data key="d1">location</data>
+      <data key="d2">Dormitories are located in the Academic City campus making access to university facilities convenient.</data>
+      <data key="d3">chunk-37ecb1276d31ad335d59969f4e30c068</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763192653</data>
+      <data key="d6" />
+    </node>
+    <node id="Laundry Room">
+      <data key="d0">Laundry Room</data>
+      <data key="d1">facility</data>
+      <data key="d2">A laundry room exists in the campus area for student convenience.</data>
+      <data key="d3">chunk-37ecb1276d31ad335d59969f4e30c068</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763192659</data>
+      <data key="d6" />
+    </node>
+    <node id="Hostel 1A">
+      <data key="d0">Hostel 1A</data>
+      <data key="d1">location</data>
+      <data key="d2">Hostel 1A and Hostel 1B might be converted into hotels according to future plans.</data>
+      <data key="d3">chunk-37ecb1276d31ad335d59969f4e30c068</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763192665</data>
+      <data key="d6" />
+    </node>
+    <node id="Hostel 1B">
+      <data key="d0">Hostel 1B</data>
+      <data key="d1">location</data>
+      <data key="d2">Future structural changes in some hostels are anticipated.</data>
+      <data key="d3">chunk-37ecb1276d31ad335d59969f4e30c068</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763192671</data>
+      <data key="d6" />
+    </node>
+    <node id="hostel">
+      <data key="d0">hostel</data>
+      <data key="d3">chunk-37ecb1276d31ad335d59969f4e30c068</data>
+      <data key="d2">Sanuzla is near the hostel.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763192713</data>
+      <data key="d6" />
+    </node>
+    <node id="block">
+      <data key="d0">block</data>
+      <data key="d3">chunk-37ecb1276d31ad335d59969f4e30c068</data>
+      <data key="d2">Each block contains kitchens equipped with furniture.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763192720</data>
+      <data key="d6" />
+    </node>
+    <node id="dormitory">
+      <data key="d0">dormitory</data>
+      <data key="d3">chunk-37ecb1276d31ad335d59969f4e30c068</data>
+      <data key="d2">Common zones exist for relaxation purposes in the dormitory.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763192737</data>
+      <data key="d6" />
+    </node>
+    <node id="student">
+      <data key="d0">student</data>
+      <data key="d3">chunk-37ecb1276d31ad335d59969f4e30c068</data>
+      <data key="d2">Students must sign a contract upon settlement.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763192761</data>
+      <data key="d6" />
+    </node>
+    <node id="registration">
+      <data key="d0">registration</data>
+      <data key="d3">chunk-37ecb1276d31ad335d59969f4e30c068</data>
+      <data key="d2">ID document is needed for registration.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763192767</data>
+      <data key="d6" />
+    </node>
+    <node id="campus">
+      <data key="d0">campus</data>
+      <data key="d3">chunk-37ecb1276d31ad335d59969f4e30c068</data>
+      <data key="d2">Laundry services are offered in the campus area.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763192797</data>
+      <data key="d6" />
+    </node>
+    <node id="future conversion">
+      <data key="d0">future conversion</data>
+      <data key="d3">chunk-37ecb1276d31ad335d59969f4e30c068</data>
+      <data key="d2">Hostel 1A and 1B may become hotels in the future.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763192803</data>
+      <data key="d6" />
+    </node>
+    <node id="Mechanics and Mathematical Modeling">
+      <data key="d0">Mechanics and Mathematical Modeling</data>
+      <data key="d1">program</data>
+      <data key="d2">Bachelor's degree program concentrating on mechanics and mathematical modeling.&lt;SEP&gt;Mechanics and Mathematical Modeling program requires approximately 232 points for budget admission according to data from 2025.</data>
+      <data key="d3">chunk-a035eeb7895b7dadfd008f91646edee8&lt;SEP&gt;chunk-681b87b5ddf40fbbc0a67227a216a8c4</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763192879</data>
+      <data key="d6" />
+    </node>
+    <node id="Fundamental Mathematics Research Group">
+      <data key="d0">Fundamental Mathematics Research Group</data>
+      <data key="d1">group</data>
+      <data key="d2">Research group focused on foundational mathematical studies.&lt;SEP&gt;Students participating in the Fundamental Mathematics Research Group engage in research activities related to fundamental mathematics.</data>
+      <data key="d3">chunk-a035eeb7895b7dadfd008f91646edee8&lt;SEP&gt;chunk-681b87b5ddf40fbbc0a67227a216a8c4</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763192879</data>
+      <data key="d6" />
+    </node>
+    <node id="Mathematical Modelling">
+      <data key="d0">Mathematical Modelling</data>
+      <data key="d1">concept</data>
+      <data key="d2">Mathematical modeling is a discipline requiring expertise in mathematical analysis, programming, and systems engineering.</data>
+      <data key="d3">chunk-a035eeb7895b7dadfd008f91646edee8</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763192885</data>
+      <data key="d6" />
+    </node>
+    <node id="Research Institutes">
+      <data key="d0">Research Institutes</data>
+      <data key="d1">institution</data>
+      <data key="d2">Graduates of the faculty are employed in research institutes where they specialize in mathematical modeling, analytics, programming, and systems engineering.</data>
+      <data key="d3">chunk-a035eeb7895b7dadfd008f91646edee8</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763192891</data>
+      <data key="d6" />
+    </node>
+    <node id="Educational Institutions">
+      <data key="d0">Educational Institutions</data>
+      <data key="d1">institution</data>
+      <data key="d2">Educational institutions employ graduates specializing in mathematical modeling, analytics, programming, and systems engineering.</data>
+      <data key="d3">chunk-a035eeb7895b7dadfd008f91646edee8</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763192897</data>
+      <data key="d6" />
+    </node>
+    <node id="IT or Physics">
+      <data key="d0">IT or Physics</data>
+      <data key="d1">subject</data>
+      <data key="d2">For some programs, students need to take either Information and Communication Technology (ICT) or physics as part of their entrance exams.</data>
+      <data key="d3">chunk-a035eeb7895b7dadfd008f91646edee8</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763192904</data>
+      <data key="d6" />
+    </node>
+    <node id="Russian Language">
+      <data key="d0">Russian Language</data>
+      <data key="d1">subject</data>
+      <data key="d2">Required exam for admission to Mechanico-Mathematical Faculty programs.&lt;SEP&gt;All students must pass Russian language examinations as part of their entrance requirements.&lt;SEP&gt;Russian Language is required for admission to the faculty.</data>
+      <data key="d3">chunk-a035eeb7895b7dadfd008f91646edee8&lt;SEP&gt;chunk-681b87b5ddf40fbbc0a67227a216a8c4&lt;SEP&gt;chunk-96824a0b7bedfff01e1e931021742836</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193182</data>
+      <data key="d6" />
+    </node>
+    <node id="Math">
+      <data key="d0">Math</data>
+      <data key="d1">subject</data>
+      <data key="d2">Entrance requirements also include passing a math examination.</data>
+      <data key="d3">chunk-a035eeb7895b7dadfd008f91646edee8</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763192915</data>
+      <data key="d6" />
+    </node>
+    <node id="01.03.03">
+      <data key="d0">01.03.03</data>
+      <data key="d1">direction</data>
+      <data key="d2">01.03.03 is a specific direction offered by the faculty focusing on mechanics and mathematical modeling.</data>
+      <data key="d3">chunk-a035eeb7895b7dadfd008f91646edee8</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763192921</data>
+      <data key="d6" />
+    </node>
+    <node id="Mechanico-Mathematical Faculty">
+      <data key="d0">Mechanico-Mathematical Faculty</data>
+      <data key="d1">organization</data>
+      <data key="d2">Mechanico-Mathematical Faculty (MМФ) of Novosibirsk State University offers education in mathematics, applied mathematics and informatics, mechanics, and mathematical modeling.</data>
+      <data key="d3">chunk-681b87b5ddf40fbbc0a67227a216a8c4</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763192927</data>
+      <data key="d6" />
+    </node>
+    <node id="Institute for Computational Mathematics and Mathematical Geophysics">
+      <data key="d0">Institute for Computational Mathematics and Mathematical Geophysics</data>
+      <data key="d1">organization</data>
+      <data key="d2">Scientific institution involved in research and collaboration with Mechanico-Mathematical Faculty.</data>
+      <data key="d3">chunk-681b87b5ddf40fbbc0a67227a216a8c4</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763192934</data>
+      <data key="d6" />
+    </node>
+    <node id="Sobolev Institute of Mathematics">
+      <data key="d0">Sobolev Institute of Mathematics</data>
+      <data key="d1">organization</data>
+      <data key="d2">Scientific institution engaged in fundamental mathematical research and related areas.</data>
+      <data key="d3">chunk-681b87b5ddf40fbbc0a67227a216a8c4</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763192940</data>
+      <data key="d6" />
+    </node>
+    <node id="Novosibirsk State University">
+      <data key="d0">Novosibirsk State University</data>
+      <data key="d1">organization</data>
+      <data key="d2">Parent university hosting Mechanico-Mathematical Faculty and affiliated scientific institutions.</data>
+      <data key="d3">chunk-681b87b5ddf40fbbc0a67227a216a8c4</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763192945</data>
+      <data key="d6" />
+    </node>
+    <node id="Academic Town">
+      <data key="d0">Academic Town</data>
+      <data key="d1">location</data>
+      <data key="d2">Academic Town hosts Mechanico-Mathematical Faculty and related scientific institutions.</data>
+      <data key="d3">chunk-681b87b5ddf40fbbc0a67227a216a8c4</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763192951</data>
+      <data key="d6" />
+    </node>
+    <node id="Engineering School">
+      <data key="d0">Engineering School</data>
+      <data key="d1">concept</data>
+      <data key="d2">Partnership program focusing on artificial intelligence and applied engineering.</data>
+      <data key="d3">chunk-681b87b5ddf40fbbc0a67227a216a8c4</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763192957</data>
+      <data key="d6" />
+    </node>
+    <node id="Mathematics and Computer Science">
+      <data key="d0">Mathematics and Computer Science</data>
+      <data key="d1">direction</data>
+      <data key="d2">Bachelor's degree program combining mathematics and computer science.</data>
+      <data key="d3">chunk-681b87b5ddf40fbbc0a67227a216a8c4</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763192964</data>
+      <data key="d6" />
+    </node>
+    <node id="Applied Mathematics and Informatics">
+      <data key="d0">Applied Mathematics and Informatics</data>
+      <data key="d1">direction</data>
+      <data key="d2">Bachelor's degree program specializing in applied mathematics and informatics.</data>
+      <data key="d3">chunk-681b87b5ddf40fbbc0a67227a216a8c4</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763192970</data>
+      <data key="d6" />
+    </node>
+    <node id="Mathematics (Advanced)">
+      <data key="d0">Mathematics (Advanced)</data>
+      <data key="d1">subject</data>
+      <data key="d2">Required exam for admission to Mechanico-Mathematical Faculty programs.</data>
+      <data key="d3">chunk-681b87b5ddf40fbbc0a67227a216a8c4</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763192976</data>
+      <data key="d6" />
+    </node>
+    <node id="Informatics and Information Technology">
+      <data key="d0">Informatics and Information Technology</data>
+      <data key="d1">subject</data>
+      <data key="d2">Optional exam for some Mechanico-Mathematical Faculty programs.</data>
+      <data key="d3">chunk-681b87b5ddf40fbbc0a67227a216a8c4</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763192981</data>
+      <data key="d6" />
+    </node>
+    <node id="Physics">
+      <data key="d0">Physics</data>
+      <data key="d1">subject</data>
+      <data key="d2">Optional exam for some Mechanico-Mathematical Faculty programs.&lt;SEP&gt;Physics is one optional subject for admission alongside Informatics/ICT.</data>
+      <data key="d3">chunk-681b87b5ddf40fbbc0a67227a216a8c4&lt;SEP&gt;chunk-e2976471c53db5fbb9c437e851fe7def</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193254</data>
+      <data key="d6" />
+    </node>
+    <node id="IT">
+      <data key="d0">IT</data>
+      <data key="d1">concept</data>
+      <data key="d2">IT refers to Information Technology or modeling techniques.</data>
+      <data key="d3">chunk-b4055224d550d9110efe1e2fa145e03c</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763192994</data>
+      <data key="d6" />
+    </node>
+    <node id="Information and Communication Technology or Physics">
+      <data key="d0">Information and Communication Technology or Physics</data>
+      <data key="d3">chunk-a035eeb7895b7dadfd008f91646edee8</data>
+      <data key="d2">Some programs require students to choose between ICT or physics for entrance exams.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193023</data>
+      <data key="d6" />
+    </node>
+    <node id="Faculty of Informatics and Computing Science">
+      <data key="d0">Faculty of Informatics and Computing Science</data>
+      <data key="d1">organization</data>
+      <data key="d2">The Faculty of Informatics and Computing Science at Novosibirsk State University conducts education and research in informatics, mathematics, and physics.</data>
+      <data key="d3">chunk-96824a0b7bedfff01e1e931021742836</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193164</data>
+      <data key="d6" />
+    </node>
+    <node id="09.03.01 «Informatics and Computer Engineering»">
+      <data key="d0">09.03.01 «Informatics and Computer Engineering»</data>
+      <data key="d1">content</data>
+      <data key="d2">This educational program focuses on informatics, computer engineering, and related disciplines.</data>
+      <data key="d3">chunk-96824a0b7bedfff01e1e931021742836</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193164</data>
+      <data key="d6" />
+    </node>
+    <node id="Computer Sciences and System Engineering">
+      <data key="d0">Computer Sciences and System Engineering</data>
+      <data key="d1">profile</data>
+      <data key="d2">A specialization within the informatics and computer engineering program focusing on theoretical and practical aspects of computing systems.</data>
+      <data key="d3">chunk-96824a0b7bedfff01e1e931021742836</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193170</data>
+      <data key="d6" />
+    </node>
+    <node id="Software Engineering and Computer Sciences">
+      <data key="d0">Software Engineering and Computer Sciences</data>
+      <data key="d1">profile</data>
+      <data key="d2">Another specialization within the informatics and computer engineering program emphasizing software development and computer science theory.</data>
+      <data key="d3">chunk-96824a0b7bedfff01e1e931021742836</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193176</data>
+      <data key="d6" />
+    </node>
+    <node id="Mathematics">
+      <data key="d0">Mathematics</data>
+      <data key="d1">subject</data>
+      <data key="d2">Mathematics is also required for admission to the faculty.&lt;SEP&gt;Mathematics is a required subject for admission, specifically the profile level.</data>
+      <data key="d3">chunk-96824a0b7bedfff01e1e931021742836&lt;SEP&gt;chunk-e2976471c53db5fbb9c437e851fe7def</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193188</data>
+      <data key="d6" />
+    </node>
+    <node id="Physics or Information Technology and Communications">
+      <data key="d0">Physics or Information Technology and Communications</data>
+      <data key="d1">subject</data>
+      <data key="d2">Students may choose either Physics or Information Technology and Communications as a third subject depending on their chosen profile.</data>
+      <data key="d3">chunk-96824a0b7bedfff01e1e931021742836</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193194</data>
+      <data key="d6" />
+    </node>
+    <node id="Bachelors Degree Program">
+      <data key="d0">Bachelors Degree Program</data>
+      <data key="d1">degree</data>
+      <data key="d2">4-year undergraduate degree program offered by the faculty.</data>
+      <data key="d3">chunk-96824a0b7bedfff01e1e931021742836</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193200</data>
+      <data key="d6" />
+    </node>
+    <node id="Ена">
+      <data key="d0">Ена</data>
+      <data key="d1">person</data>
+      <data key="d2">Ена is a named individual mentioned in the text.</data>
+      <data key="d3">chunk-da86e6c882df15e442a222d2a8151b98</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193206</data>
+      <data key="d6" />
+    </node>
+    <node id="Programmatic Engineering and Computer Science">
+      <data key="d0">Programmatic Engineering and Computer Science</data>
+      <data key="d1">content</data>
+      <data key="d2">Programmatic Engineering and Computer Science is a course focusing on programming, algorithms, data structures, modern languages, AI, and data analysis.</data>
+      <data key="d3">chunk-e2976471c53db5fbb9c437e851fe7def</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193212</data>
+      <data key="d6" />
+    </node>
+    <node id="Academic Calendar">
+      <data key="d0">Academic Calendar</data>
+      <data key="d1">data</data>
+      <data key="d2">Academic calendar specifies the duration of undergraduate studies typically lasting four years.</data>
+      <data key="d3">chunk-e2976471c53db5fbb9c437e851fe7def</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193218</data>
+      <data key="d6" />
+    </node>
+    <node id="Faculty">
+      <data key="d0">Faculty</data>
+      <data key="d1">organization</data>
+      <data key="d2">Faculty provides education and integration with research institutions located in Akademgorodok.</data>
+      <data key="d3">chunk-e2976471c53db5fbb9c437e851fe7def</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193224</data>
+      <data key="d6" />
+    </node>
+    <node id="Scientific Research Institutes">
+      <data key="d0">Scientific Research Institutes</data>
+      <data key="d1">organization</data>
+      <data key="d2">Scientific research institutes are close to the faculty, offering opportunities for collaboration and research.</data>
+      <data key="d3">chunk-e2976471c53db5fbb9c437e851fe7def</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193230</data>
+      <data key="d6" />
+    </node>
+    <node id="IT Companies">
+      <data key="d0">IT Companies</data>
+      <data key="d1">organization</data>
+      <data key="d2">Graduates may work in software development, systems architecture, data engineering roles within IT companies.</data>
+      <data key="d3">chunk-e2976471c53db5fbb9c437e851fe7def</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193236</data>
+      <data key="d6" />
+    </node>
+    <node id="Russian Universities Ranking">
+      <data key="d0">Russian Universities Ranking</data>
+      <data key="d1">concept</data>
+      <data key="d2">Russian universities ranking highlights the high placement of the faculty regarding young professionals' salaries in IT.</data>
+      <data key="d3">chunk-e2976471c53db5fbb9c437e851fe7def</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193242</data>
+      <data key="d6" />
+    </node>
+    <node id="High Competition">
+      <data key="d0">High Competition</data>
+      <data key="d1">concept</data>
+      <data key="d2">High competition is indicated by an entrance exam requiring approximately 267 points.</data>
+      <data key="d3">chunk-e2976471c53db5fbb9c437e851fe7def</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193248</data>
+      <data key="d6" />
+    </node>
+    <node id="Informatics/Information and Communication Technology">
+      <data key="d0">Informatics/Information and Communication Technology</data>
+      <data key="d1">subject</data>
+      <data key="d2">Informatics/ICT is another optional subject for admission.</data>
+      <data key="d3">chunk-e2976471c53db5fbb9c437e851fe7def</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193260</data>
+      <data key="d6" />
+    </node>
+    <node id="English Proficiency">
+      <data key="d0">English Proficiency</data>
+      <data key="d1">concept</data>
+      <data key="d2">English proficiency is desirable but not mandatory; basic preparation is offered by the faculty.</data>
+      <data key="d3">chunk-e2976471c53db5fbb9c437e851fe7def</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193266</data>
+      <data key="d6" />
+    </node>
+    <node id="000 рублей">
+      <data key="d0">000 рублей</data>
+      <data key="d1">data</data>
+      <data key="d2">Tuition fee is 000 rubles per semester.</data>
+      <data key="d3">chunk-134b04ed8f5bc457339155536f87ac47</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193411</data>
+      <data key="d6" />
+    </node>
+    <node id="budgetary places">
+      <data key="d0">budgetary places</data>
+      <data key="d1">location</data>
+      <data key="d2">Budgetary places offer free education funded through state financing.</data>
+      <data key="d3">chunk-134b04ed8f5bc457339155536f87ac47</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193411</data>
+      <data key="d6" />
+    </node>
+    <node id="mathematical courses">
+      <data key="d0">mathematical courses</data>
+      <data key="d1">content</data>
+      <data key="d2">Mathematical courses are included in the curriculum.</data>
+      <data key="d3">chunk-134b04ed8f5bc457339155536f87ac47</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193417</data>
+      <data key="d6" />
+    </node>
+    <node id="statistics">
+      <data key="d0">statistics</data>
+      <data key="d1">concept</data>
+      <data key="d2">Statistics is a course taught as part of the educational program.</data>
+      <data key="d3">chunk-134b04ed8f5bc457339155536f87ac47</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193423</data>
+      <data key="d6" />
+    </node>
+    <node id="programming">
+      <data key="d0">programming</data>
+      <data key="d1">method</data>
+      <data key="d2">Programming, especially in Python, is part of the learning experience.</data>
+      <data key="d3">chunk-134b04ed8f5bc457339155536f87ac47</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193429</data>
+      <data key="d6" />
+    </node>
+    <node id="Python">
+      <data key="d0">Python</data>
+      <data key="d1">language</data>
+      <data key="d2">Python programming language is mentioned specifically.</data>
+      <data key="d3">chunk-134b04ed8f5bc457339155536f87ac47</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193435</data>
+      <data key="d6" />
+    </node>
+    <node id="economic analysis">
+      <data key="d0">economic analysis</data>
+      <data key="d1">concept</data>
+      <data key="d2">Students learn economic analysis skills.</data>
+      <data key="d3">chunk-134b04ed8f5bc457339155536f87ac47</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193441</data>
+      <data key="d6" />
+    </node>
+    <node id="work with economic data">
+      <data key="d0">work with economic data</data>
+      <data key="d1">activity</data>
+      <data key="d2">Students work with economic datasets as part of their studies.</data>
+      <data key="d3">chunk-134b04ed8f5bc457339155536f87ac47</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193447</data>
+      <data key="d6" />
+    </node>
+    <node id="model building">
+      <data key="d0">model building</data>
+      <data key="d1">activity</data>
+      <data key="d2">Model-building is a skill students develop.</data>
+      <data key="d3">chunk-134b04ed8f5bc457339155536f87ac47</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193453</data>
+      <data key="d6" />
+    </node>
+    <node id="practical business experts">
+      <data key="d0">practical business experts</data>
+      <data key="d1">creature</data>
+      <data key="d2">Practitioners and business experts are invited to teach real-world insights.</data>
+      <data key="d3">chunk-134b04ed8f5bc457339155536f87ac47</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193459</data>
+      <data key="d6" />
+    </node>
+    <node id="business analytics">
+      <data key="d0">business analytics</data>
+      <data key="d1">concept</data>
+      <data key="d2">Business analytics is a career path open to graduates.</data>
+      <data key="d3">chunk-134b04ed8f5bc457339155536f87ac47</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193465</data>
+      <data key="d6" />
+    </node>
+    <node id="consultancy">
+      <data key="d0">consultancy</data>
+      <data key="d1">occupation</data>
+      <data key="d2">Consulting jobs are available for graduates.</data>
+      <data key="d3">chunk-134b04ed8f5bc457339155536f87ac47</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193471</data>
+      <data key="d6" />
+    </node>
+    <node id="financial companies">
+      <data key="d0">financial companies</data>
+      <data key="d1">organization</data>
+      <data key="d2">Large financial firms employ graduates.</data>
+      <data key="d3">chunk-134b04ed8f5bc457339155536f87ac47</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193477</data>
+      <data key="d6" />
+    </node>
+    <node id="Russian language">
+      <data key="d0">Russian language</data>
+      <data key="d1">language</data>
+      <data key="d2">Russian is required for entrance exams.</data>
+      <data key="d3">chunk-134b04ed8f5bc457339155536f87ac47</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193483</data>
+      <data key="d6" />
+    </node>
+    <node id="mathematics">
+      <data key="d0">mathematics</data>
+      <data key="d1">subject</data>
+      <data key="d2">Strong mathematical background is necessary for admission.</data>
+      <data key="d3">chunk-134b04ed8f5bc457339155536f87ac47</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193489</data>
+      <data key="d6" />
+    </node>
+    <node id="social sciences">
+      <data key="d0">social sciences</data>
+      <data key="d1">subject</data>
+      <data key="d2">Sociology or history may be required subjects.</data>
+      <data key="d3">chunk-134b04ed8f5bc457339155536f87ac47</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193495</data>
+      <data key="d6" />
+    </node>
+    <node id="foreign languages">
+      <data key="d0">foreign languages</data>
+      <data key="d1">subject</data>
+      <data key="d2">Foreign languages are optional but recommended.</data>
+      <data key="d3">chunk-134b04ed8f5bc457339155536f87ac47</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193501</data>
+      <data key="d6" />
+    </node>
+    <node id="economic modeling">
+      <data key="d0">economic modeling</data>
+      <data key="d1">activity</data>
+      <data key="d2">Economic modeling is a specialization offered by the faculty.</data>
+      <data key="d3">chunk-134b04ed8f5bc457339155536f87ac47</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193507</data>
+      <data key="d6" />
+    </node>
+    <node id="analytical skills">
+      <data key="d0">analytical skills</data>
+      <data key="d1">skill</data>
+      <data key="d2">Analytical abilities are emphasized in the curriculum.</data>
+      <data key="d3">chunk-134b04ed8f5bc457339155536f87ac47</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193513</data>
+      <data key="d6" />
+    </node>
+    <node id="stages of study">
+      <data key="d0">stages of study</data>
+      <data key="d1">process</data>
+      <data key="d2">During their studies, students find internships and projects in analytical and financial sectors.</data>
+      <data key="d3">chunk-134b04ed8f5bc457339155536f87ac47</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193519</data>
+      <data key="d6" />
+    </node>
+    <node id="Economic Faculty NSU">
+      <data key="d0">Economic Faculty NSU</data>
+      <data key="d1">organization</data>
+      <data key="d2">The Economic Faculty NSU provides strong economic-mathematical training and offers individual educational trajectories.</data>
+      <data key="d3">chunk-bb0ebf4eb1e54439f1b32cb8c8f17714</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193525</data>
+      <data key="d6" />
+    </node>
+    <node id="Bachelor's Degree Program Economics">
+      <data key="d0">Bachelor's Degree Program Economics</data>
+      <data key="d1">program</data>
+      <data key="d2">This program focuses on economics and includes profiles in management and business informatics.</data>
+      <data key="d3">chunk-bb0ebf4eb1e54439f1b32cb8c8f17714</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193531</data>
+      <data key="d6" />
+    </node>
+    <node id="Master's Degree Programs">
+      <data key="d0">Master's Degree Programs</data>
+      <data key="d1">program</data>
+      <data key="d2">These programs specialize in economic modeling, applied economy, and analytics.</data>
+      <data key="d3">chunk-bb0ebf4eb1e54439f1b32cb8c8f17714</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193537</data>
+      <data key="d6" />
+    </node>
+    <node id="Entrance Requirements">
+      <data key="d0">Entrance Requirements</data>
+      <data key="d1">criteria</data>
+      <data key="d2">To enter the faculty, students need to pass exams in Russian, mathematics, and either history, foreign languages, or sociology.</data>
+      <data key="d3">chunk-bb0ebf4eb1e54439f1b32cb8c8f17714</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193543</data>
+      <data key="d6" />
+    </node>
+    <node id="Budget Places">
+      <data key="d0">Budget Places</data>
+      <data key="d1">resource</data>
+      <data key="d2">There are limited budget places on the faculty, resulting in high competition.</data>
+      <data key="d3">chunk-bb0ebf4eb1e54439f1b32cb8c8f17714</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193549</data>
+      <data key="d6" />
+    </node>
+    <node id="Tuition Fees">
+      <data key="d0">Tuition Fees</data>
+      <data key="d1">cost</data>
+      <data key="d2">Tuition fees range from approximately 112,000 to 125,000 rubles per semester for non-budget forms of education.</data>
+      <data key="d3">chunk-bb0ebf4eb1e54439f1b32cb8c8f17714</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193555</data>
+      <data key="d6" />
+    </node>
+    <node id="Mathematics Courses">
+      <data key="d0">Mathematics Courses</data>
+      <data key="d1">course</data>
+      <data key="d2">Students study mathematical courses as part of their curriculum.</data>
+      <data key="d3">chunk-bb0ebf4eb1e54439f1b32cb8c8f17714</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193561</data>
+      <data key="d6" />
+    </node>
+    <node id="Statistics">
+      <data key="d0">Statistics</data>
+      <data key="d1">subject</data>
+      <data key="d2">Statistical studies are included in the curriculum.</data>
+      <data key="d3">chunk-bb0ebf4eb1e54439f1b32cb8c8f17714</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193567</data>
+      <data key="d6" />
+    </node>
+    <node id="Programming">
+      <data key="d0">Programming</data>
+      <data key="d1">subject</data>
+      <data key="d2">Programming courses are also part of the educational offerings.</data>
+      <data key="d3">chunk-bb0ebf4eb1e54439f1b32cb8c8f17714</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193573</data>
+      <data key="d6" />
+    </node>
+    <node id="students">
+      <data key="d0">students</data>
+      <data key="d3">chunk-134b04ed8f5bc457339155536f87ac47</data>
+      <data key="d2">Mathematical courses are part of the student curriculum.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193585</data>
+      <data key="d6" />
+    </node>
+    <node id="faculty">
+      <data key="d0">faculty</data>
+      <data key="d3">chunk-134b04ed8f5bc457339155536f87ac47</data>
+      <data key="d2">Experienced practitioners serve as guest lecturers.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193627</data>
+      <data key="d6" />
+    </node>
+    <node id="graduates">
+      <data key="d0">graduates</data>
+      <data key="d3">chunk-134b04ed8f5bc457339155536f87ac47</data>
+      <data key="d2">Graduates can pursue careers in business analytics.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193633</data>
+      <data key="d6" />
+    </node>
+    <node id="entrance exams">
+      <data key="d0">entrance exams</data>
+      <data key="d3">chunk-134b04ed8f5bc457339155536f87ac47</data>
+      <data key="d2">Russian language proficiency is needed for entry.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193663</data>
+      <data key="d6" />
+    </node>
+    <node id="specialization">
+      <data key="d0">specialization</data>
+      <data key="d3">chunk-134b04ed8f5bc457339155536f87ac47</data>
+      <data key="d2">Economic modeling is a specialized area of study.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193693</data>
+      <data key="d6" />
+    </node>
+    <node id="Management Profile">
+      <data key="d0">Management Profile</data>
+      <data key="d3">chunk-bb0ebf4eb1e54439f1b32cb8c8f17714</data>
+      <data key="d2">The Bachelor's Degree Program in Economics includes a Management profile.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193747</data>
+      <data key="d6" />
+    </node>
+    <node id="Business Informatics Profile">
+      <data key="d0">Business Informatics Profile</data>
+      <data key="d3">chunk-bb0ebf4eb1e54439f1b32cb8c8f17714</data>
+      <data key="d2">The Bachelor's Degree Program in Economics includes a Business Informatics profile.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193765</data>
+      <data key="d6" />
+    </node>
+    <node id="Economic Modeling">
+      <data key="d0">Economic Modeling</data>
+      <data key="d3">chunk-bb0ebf4eb1e54439f1b32cb8c8f17714</data>
+      <data key="d2">One of the Master's Degree Programs is focused on economic modeling.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193765</data>
+      <data key="d6" />
+    </node>
+    <node id="Applied Economy">
+      <data key="d0">Applied Economy</data>
+      <data key="d3">chunk-bb0ebf4eb1e54439f1b32cb8c8f17714</data>
+      <data key="d2">Another Master's Degree Program specializes in applied economy.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193789</data>
+      <data key="d6" />
+    </node>
+    <node id="Analytics">
+      <data key="d0">Analytics</data>
+      <data key="d3">chunk-bb0ebf4eb1e54439f1b32cb8c8f17714</data>
+      <data key="d2">A third Master's Degree Program concentrates on analytics.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763193801</data>
+      <data key="d6" />
+    </node>
+    <edge source="NSU" target="Academic City">
+      <data key="d7">1.0</data>
+      <data key="d8">Novosibirsk State University is situated in Academic City.</data>
+      <data key="d9">campus location,educational institution</data>
+      <data key="d10">chunk-3b8a582a931fd705ae3e7a3007566a85</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763192683</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Academic City" target="University Hostels">
+      <data key="d7">1.0</data>
+      <data key="d8">University hostels are located in Academic City.</data>
+      <data key="d9">campus location,residence accommodation</data>
+      <data key="d10">chunk-3b8a582a931fd705ae3e7a3007566a85</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763192689</data>
+      <data key="d13" />
+    </edge>
+    <edge source="University Hostels" target="Two-Bedroom Rooms">
+      <data key="d7">1.0</data>
+      <data key="d8">Two-bedroom rooms are found in university hostels.</data>
+      <data key="d9">accommodation type,residence space</data>
+      <data key="d10">chunk-3b8a582a931fd705ae3e7a3007566a85</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763192695</data>
+      <data key="d13" />
+    </edge>
+    <edge source="University Hostels" target="Shared Kitchen Areas">
+      <data key="d7">1.0</data>
+      <data key="d8">Shared kitchens are available in university hostels.</data>
+      <data key="d9">kitchen facilities,residence space</data>
+      <data key="d10">chunk-3b8a582a931fd705ae3e7a3007566a85</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763192701</data>
+      <data key="d13" />
+    </edge>
+    <edge source="University Hostels" target="Campus Laundry Facilities">
+      <data key="d7">1.0</data>
+      <data key="d8">Laundry facilities are accessible near university hostels.</data>
+      <data key="d9">laundry services,residence support</data>
+      <data key="d10">chunk-3b8a582a931fd705ae3e7a3007566a85</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763192707</data>
+      <data key="d13" />
+    </edge>
+    <edge source="University Hostels" target="Internet Access">
+      <data key="d7">1.0</data>
+      <data key="d8">Internet access is offered in university hostels via NSU network.</data>
+      <data key="d9">internet service,residence amenities</data>
+      <data key="d10">chunk-3b8a582a931fd705ae3e7a3007566a85</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763192713</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Sanuzla" target="hostel">
+      <data key="d7">1.0</data>
+      <data key="d8">Sanuzla is near the hostel.</data>
+      <data key="d9">physical proximity</data>
+      <data key="d10">chunk-37ecb1276d31ad335d59969f4e30c068</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763192725</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Kitchen" target="block">
+      <data key="d7">1.0</data>
+      <data key="d8">Each block contains kitchens equipped with furniture.</data>
+      <data key="d9">equipment availability</data>
+      <data key="d10">chunk-37ecb1276d31ad335d59969f4e30c068</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763192731</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Common Zones" target="dormitory">
+      <data key="d7">1.0</data>
+      <data key="d8">Common zones exist for relaxation purposes in the dormitory.</data>
+      <data key="d9">relaxation space</data>
+      <data key="d10">chunk-37ecb1276d31ad335d59969f4e30c068</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763192749</data>
+      <data key="d13" />
+    </edge>
+    <edge source="First-year Students" target="dormitory">
+      <data key="d7">1.0</data>
+      <data key="d8">First-year students can live in the dormitory.</data>
+      <data key="d9">accommodation possibility</data>
+      <data key="d10">chunk-37ecb1276d31ad335d59969f4e30c068</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763192755</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Innограда Students" target="dormitory">
+      <data key="d7">1.0</data>
+      <data key="d8">Innограда students can also reside in the dormitory.</data>
+      <data key="d9">accommodation possibility</data>
+      <data key="d10">chunk-37ecb1276d31ad335d59969f4e30c068</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763192761</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Contract Lease Agreement" target="student">
+      <data key="d7">1.0</data>
+      <data key="d8">Students must sign a contract upon settlement.</data>
+      <data key="d9">legal obligation</data>
+      <data key="d10">chunk-37ecb1276d31ad335d59969f4e30c068</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763192773</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Identity Document" target="registration">
+      <data key="d7">1.0</data>
+      <data key="d8">ID document is needed for registration.</data>
+      <data key="d9">required documentation</data>
+      <data key="d10">chunk-37ecb1276d31ad335d59969f4e30c068</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763192779</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Storage Area" target="dormitory">
+      <data key="d7">1.0</data>
+      <data key="d8">Storage areas are available for bags in the dormitory.</data>
+      <data key="d9">storage facility</data>
+      <data key="d10">chunk-37ecb1276d31ad335d59969f4e30c068</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763192785</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Academic City Campus" target="dormitory">
+      <data key="d7">1.0</data>
+      <data key="d8">Dormitories are situated in the Academic City campus.</data>
+      <data key="d9">campus location</data>
+      <data key="d10">chunk-37ecb1276d31ad335d59969f4e30c068</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763192797</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Laundry Room" target="campus">
+      <data key="d7">1.0</data>
+      <data key="d8">Laundry services are offered in the campus area.</data>
+      <data key="d9">service provision</data>
+      <data key="d10">chunk-37ecb1276d31ad335d59969f4e30c068</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763192809</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Hostel 1A" target="future conversion">
+      <data key="d7">1.0</data>
+      <data key="d8">Hostel 1A and 1B may become hotels in the future.</data>
+      <data key="d9">hotel conversion</data>
+      <data key="d10">chunk-37ecb1276d31ad335d59969f4e30c068</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763192815</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Hostel 1B" target="future conversion">
+      <data key="d7">1.0</data>
+      <data key="d8">Structural changes in these hostels are planned.</data>
+      <data key="d9">hotel conversion</data>
+      <data key="d10">chunk-37ecb1276d31ad335d59969f4e30c068</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763192827</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Mechanics and Mathematical Modeling" target="01.03.03">
+      <data key="d7">1.0</data>
+      <data key="d8">01.03.03 is a specialized program within Mechanics and Mathematical Modeling.</data>
+      <data key="d9">program specialization</data>
+      <data key="d10">chunk-a035eeb7895b7dadfd008f91646edee8</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193005</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Mechanics and Mathematical Modeling" target="Research Institutes">
+      <data key="d7">1.0</data>
+      <data key="d8">Graduates of Mechanics and Mathematical Modeling find employment in research institutes.</data>
+      <data key="d9">employment opportunities</data>
+      <data key="d10">chunk-a035eeb7895b7dadfd008f91646edee8</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193012</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Mechanics and Mathematical Modeling" target="Educational Institutions">
+      <data key="d7">1.0</data>
+      <data key="d8">Graduates of Mechanics and Mathematical Modeling find employment in educational institutions.</data>
+      <data key="d9">employment opportunities</data>
+      <data key="d10">chunk-a035eeb7895b7dadfd008f91646edee8</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193023</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Mechanics and Mathematical Modeling" target="Mechanico-Mathematical Faculty">
+      <data key="d7">1.0</data>
+      <data key="d8">Mechanics and Mathematical Modeling is a direction offered by Mechanico-Mathematical Faculty.</data>
+      <data key="d9">education program,undergraduate</data>
+      <data key="d10">chunk-681b87b5ddf40fbbc0a67227a216a8c4</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193089</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Fundamental Mathematics Research Group" target="01.03.03">
+      <data key="d7">1.0</data>
+      <data key="d8">Students enrolled in 01.03.03 may participate in the Fundamental Mathematics Research Group.</data>
+      <data key="d9">research activity</data>
+      <data key="d10">chunk-a035eeb7895b7dadfd008f91646edee8</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193012</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Russian Language" target="01.03.03">
+      <data key="d7">1.0</data>
+      <data key="d8">All students must pass the Russian language exam for entrance.</data>
+      <data key="d9">entrance requirement</data>
+      <data key="d10">chunk-a035eeb7895b7dadfd008f91646edee8</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193042</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Russian Language" target="Mechanico-Mathematical Faculty">
+      <data key="d7">1.0</data>
+      <data key="d8">Russian Language is required for admission to Mechanico-Mathematical Faculty programs.</data>
+      <data key="d9">admission requirement,exam</data>
+      <data key="d10">chunk-681b87b5ddf40fbbc0a67227a216a8c4</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193095</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Russian Language" target="Faculty of Informatics and Computing Science">
+      <data key="d7">1.0</data>
+      <data key="d8">Russian Language is a mandatory exam for admission to the faculty.</data>
+      <data key="d9">admission requirement,language proficiency</data>
+      <data key="d10">chunk-96824a0b7bedfff01e1e931021742836</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193290</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Math" target="01.03.03">
+      <data key="d7">1.0</data>
+      <data key="d8">All students must pass a math exam for entrance.</data>
+      <data key="d9">entrance requirement</data>
+      <data key="d10">chunk-a035eeb7895b7dadfd008f91646edee8</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193047</data>
+      <data key="d13" />
+    </edge>
+    <edge source="01.03.03" target="Information and Communication Technology or Physics">
+      <data key="d7">1.0</data>
+      <data key="d8">Some programs require students to choose between ICT or physics for entrance exams.</data>
+      <data key="d9">entrance requirement</data>
+      <data key="d10">chunk-a035eeb7895b7dadfd008f91646edee8</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193035</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Mechanico-Mathematical Faculty" target="Engineering School">
+      <data key="d7">1.0</data>
+      <data key="d8">Mechanico-Mathematical Faculty participates in partnership program with Engineering School.</data>
+      <data key="d9">educational program,partnership</data>
+      <data key="d10">chunk-681b87b5ddf40fbbc0a67227a216a8c4</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193047</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Mechanico-Mathematical Faculty" target="Sobolev Institute of Mathematics">
+      <data key="d7">2.0</data>
+      <data key="d8">Faculty provides students access to advanced research opportunities through collaboration with Sobolev Institute.&lt;SEP&gt;Mechanico-Mathematical Faculty collaborates with Sobolev Institute of Mathematics.</data>
+      <data key="d9">collaboration,education,research,scientific research</data>
+      <data key="d10">chunk-681b87b5ddf40fbbc0a67227a216a8c4</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193059</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Mechanico-Mathematical Faculty" target="Novosibirsk State University">
+      <data key="d7">1.0</data>
+      <data key="d8">Mechanico-Mathematical Faculty is part of Novosibirsk State University.</data>
+      <data key="d9">affiliation,higher education</data>
+      <data key="d10">chunk-681b87b5ddf40fbbc0a67227a216a8c4</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193065</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Mechanico-Mathematical Faculty" target="Academic Town">
+      <data key="d7">1.0</data>
+      <data key="d8">Mechanico-Mathematical Faculty is located in Academic Town.</data>
+      <data key="d9">campus,location</data>
+      <data key="d10">chunk-681b87b5ddf40fbbc0a67227a216a8c4</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193071</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Mechanico-Mathematical Faculty" target="Mathematics and Computer Science">
+      <data key="d7">1.0</data>
+      <data key="d8">Mathematics and Computer Science is a direction offered by Mechanico-Mathematical Faculty.</data>
+      <data key="d9">education program,undergraduate</data>
+      <data key="d10">chunk-681b87b5ddf40fbbc0a67227a216a8c4</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193077</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Mechanico-Mathematical Faculty" target="Applied Mathematics and Informatics">
+      <data key="d7">1.0</data>
+      <data key="d8">Applied Mathematics and Informatics is a direction offered by Mechanico-Mathematical Faculty.</data>
+      <data key="d9">education program,undergraduate</data>
+      <data key="d10">chunk-681b87b5ddf40fbbc0a67227a216a8c4</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193083</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Mechanico-Mathematical Faculty" target="Mathematics (Advanced)">
+      <data key="d7">1.0</data>
+      <data key="d8">Mathematics (Advanced) is required for admission to Mechanico-Mathematical Faculty programs.</data>
+      <data key="d9">admission requirement,exam</data>
+      <data key="d10">chunk-681b87b5ddf40fbbc0a67227a216a8c4</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193102</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Mechanico-Mathematical Faculty" target="Informatics and Information Technology">
+      <data key="d7">1.0</data>
+      <data key="d8">Informatics and Information Technology may be taken as an optional exam for Mechanico-Mathematical Faculty programs.</data>
+      <data key="d9">admission,optional exam</data>
+      <data key="d10">chunk-681b87b5ddf40fbbc0a67227a216a8c4</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193108</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Mechanico-Mathematical Faculty" target="Physics">
+      <data key="d7">1.0</data>
+      <data key="d8">Physics may be taken as an optional exam for Mechanico-Mathematical Faculty programs.</data>
+      <data key="d9">admission,optional exam</data>
+      <data key="d10">chunk-681b87b5ddf40fbbc0a67227a216a8c4</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193113</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Physics" target="High Competition">
+      <data key="d7">1.0</data>
+      <data key="d8">Physics is an optional subject for the entrance examination.</data>
+      <data key="d9">entrance examination,optional subject</data>
+      <data key="d10">chunk-e2976471c53db5fbb9c437e851fe7def</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193356</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Faculty of Informatics and Computing Science" target="09.03.01 «Informatics and Computer Engineering»">
+      <data key="d7">1.0</data>
+      <data key="d8">The faculty offers the informatics and computer engineering educational program.</data>
+      <data key="d9">academic discipline,educational offering</data>
+      <data key="d10">chunk-96824a0b7bedfff01e1e931021742836</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193278</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Faculty of Informatics and Computing Science" target="Mathematics">
+      <data key="d7">1.0</data>
+      <data key="d8">Mathematics is a mandatory exam for admission to the faculty.</data>
+      <data key="d9">admission requirement,mathematical skills</data>
+      <data key="d10">chunk-96824a0b7bedfff01e1e931021742836</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193302</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Faculty of Informatics and Computing Science" target="Physics or Information Technology and Communications">
+      <data key="d7">1.0</data>
+      <data key="d8">Physics or Information Technology and Communications is an optional third subject for admission to the faculty.</data>
+      <data key="d9">admission requirement,optional subject</data>
+      <data key="d10">chunk-96824a0b7bedfff01e1e931021742836</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193308</data>
+      <data key="d13" />
+    </edge>
+    <edge source="09.03.01 «Informatics and Computer Engineering»" target="Computer Sciences and System Engineering">
+      <data key="d7">1.0</data>
+      <data key="d8">Within the informatics and computer engineering program, there is a specialization in computer sciences and system engineering.</data>
+      <data key="d9">academic focus,specialization</data>
+      <data key="d10">chunk-96824a0b7bedfff01e1e931021742836</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193284</data>
+      <data key="d13" />
+    </edge>
+    <edge source="09.03.01 «Informatics and Computer Engineering»" target="Software Engineering and Computer Sciences">
+      <data key="d7">1.0</data>
+      <data key="d8">Within the informatics and computer engineering program, there is another specialization in software engineering and computer sciences.</data>
+      <data key="d9">academic focus,specialization</data>
+      <data key="d10">chunk-96824a0b7bedfff01e1e931021742836</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193290</data>
+      <data key="d13" />
+    </edge>
+    <edge source="09.03.01 «Informatics and Computer Engineering»" target="Bachelors Degree Program">
+      <data key="d7">1.0</data>
+      <data key="d8">The bachelor’s degree program in informatics and computer engineering lasts four years.</data>
+      <data key="d9">academic program,duration</data>
+      <data key="d10">chunk-96824a0b7bedfff01e1e931021742836</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193308</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Mathematics" target="High Competition">
+      <data key="d7">1.0</data>
+      <data key="d8">Mathematics is a compulsory subject for the entrance examination.</data>
+      <data key="d9">entrance examination,required subject</data>
+      <data key="d10">chunk-e2976471c53db5fbb9c437e851fe7def</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193350</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Programmatic Engineering and Computer Science" target="Academic Calendar">
+      <data key="d7">1.0</data>
+      <data key="d8">The program lasts for four years according to the academic calendar.</data>
+      <data key="d9">academic year,course duration</data>
+      <data key="d10">chunk-e2976471c53db5fbb9c437e851fe7def</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193314</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Faculty" target="Scientific Research Institutes">
+      <data key="d7">1.0</data>
+      <data key="d8">The faculty is situated near scientific research institutes facilitating collaboration and research.</data>
+      <data key="d9">collaboration opportunity,faculty location</data>
+      <data key="d10">chunk-e2976471c53db5fbb9c437e851fe7def</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193320</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Faculty" target="IT Companies">
+      <data key="d7">1.0</data>
+      <data key="d8">Graduates from the faculty find employment in IT companies.</data>
+      <data key="d9">career prospects,educational pathway</data>
+      <data key="d10">chunk-e2976471c53db5fbb9c437e851fe7def</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193332</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Faculty" target="Russian Universities Ranking">
+      <data key="d7">1.0</data>
+      <data key="d8">The faculty ranks highly in terms of young professionals' salaries in IT.</data>
+      <data key="d9">ranking,salary prospects</data>
+      <data key="d10">chunk-e2976471c53db5fbb9c437e851fe7def</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193338</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Faculty" target="High Competition">
+      <data key="d7">1.0</data>
+      <data key="d8">Admission to the faculty requires a high score (~267 points).</data>
+      <data key="d9">admission difficulty,entrance requirement</data>
+      <data key="d10">chunk-e2976471c53db5fbb9c437e851fe7def</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193344</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Faculty" target="English Proficiency">
+      <data key="d7">1.0</data>
+      <data key="d8">English proficiency is beneficial although not essential; the faculty offers initial training.</data>
+      <data key="d9">professional development,skill enhancement</data>
+      <data key="d10">chunk-e2976471c53db5fbb9c437e851fe7def</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193362</data>
+      <data key="d13" />
+    </edge>
+    <edge source="High Competition" target="Informatics/Information and Communication Technology">
+      <data key="d7">1.0</data>
+      <data key="d8">Informatics/ICT is also an optional subject for the entrance examination.</data>
+      <data key="d9">entrance examination,optional subject</data>
+      <data key="d10">chunk-e2976471c53db5fbb9c437e851fe7def</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193362</data>
+      <data key="d13" />
+    </edge>
+    <edge source="000 рублей" target="budgetary places">
+      <data key="d7">1.0</data>
+      <data key="d8">The tuition fee is covered by state funding for budgetary places.</data>
+      <data key="d9">funding source,tuition cost</data>
+      <data key="d10">chunk-134b04ed8f5bc457339155536f87ac47</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193585</data>
+      <data key="d13" />
+    </edge>
+    <edge source="mathematical courses" target="students">
+      <data key="d7">1.0</data>
+      <data key="d8">Mathematical courses are part of the student curriculum.</data>
+      <data key="d9">curriculum,learning activity</data>
+      <data key="d10">chunk-134b04ed8f5bc457339155536f87ac47</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193597</data>
+      <data key="d13" />
+    </edge>
+    <edge source="statistics" target="students">
+      <data key="d7">1.0</data>
+      <data key="d8">Statistics is a subject studied by students.</data>
+      <data key="d9">academic discipline,learning activity</data>
+      <data key="d10">chunk-134b04ed8f5bc457339155536f87ac47</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193603</data>
+      <data key="d13" />
+    </edge>
+    <edge source="programming" target="students">
+      <data key="d7">1.0</data>
+      <data key="d8">Programming, particularly Python, is taught to students.</data>
+      <data key="d9">educational activity,technical skill</data>
+      <data key="d10">chunk-134b04ed8f5bc457339155536f87ac47</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193609</data>
+      <data key="d13" />
+    </edge>
+    <edge source="economic analysis" target="students">
+      <data key="d7">1.0</data>
+      <data key="d8">Students learn economic analysis as part of their degree.</data>
+      <data key="d9">academic discipline,professional development</data>
+      <data key="d10">chunk-134b04ed8f5bc457339155536f87ac47</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193615</data>
+      <data key="d13" />
+    </edge>
+    <edge source="work with economic data" target="students">
+      <data key="d7">1.0</data>
+      <data key="d8">Students practice working with economic data.</data>
+      <data key="d9">data handling,practical application</data>
+      <data key="d10">chunk-134b04ed8f5bc457339155536f87ac47</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193621</data>
+      <data key="d13" />
+    </edge>
+    <edge source="model building" target="students">
+      <data key="d7">1.0</data>
+      <data key="d8">Model-building is a project-based learning activity.</data>
+      <data key="d9">project-based learning,skill acquisition</data>
+      <data key="d10">chunk-134b04ed8f5bc457339155536f87ac47</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193627</data>
+      <data key="d13" />
+    </edge>
+    <edge source="practical business experts" target="faculty">
+      <data key="d7">1.0</data>
+      <data key="d8">Experienced practitioners serve as guest lecturers.</data>
+      <data key="d9">guest speakers,lecturers</data>
+      <data key="d10">chunk-134b04ed8f5bc457339155536f87ac47</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193639</data>
+      <data key="d13" />
+    </edge>
+    <edge source="business analytics" target="graduates">
+      <data key="d7">1.0</data>
+      <data key="d8">Graduates can pursue careers in business analytics.</data>
+      <data key="d9">career opportunities,job roles</data>
+      <data key="d10">chunk-134b04ed8f5bc457339155536f87ac47</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193645</data>
+      <data key="d13" />
+    </edge>
+    <edge source="consultancy" target="graduates">
+      <data key="d7">1.0</data>
+      <data key="d8">Consulting is a possible employment option for graduates.</data>
+      <data key="d9">job prospects,professional services</data>
+      <data key="d10">chunk-134b04ed8f5bc457339155536f87ac47</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193657</data>
+      <data key="d13" />
+    </edge>
+    <edge source="financial companies" target="graduates">
+      <data key="d7">1.0</data>
+      <data key="d8">Financial companies hire graduates.</data>
+      <data key="d9">employment opportunities,industry sector</data>
+      <data key="d10">chunk-134b04ed8f5bc457339155536f87ac47</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193663</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Russian language" target="entrance exams">
+      <data key="d7">1.0</data>
+      <data key="d8">Russian language proficiency is needed for entry.</data>
+      <data key="d9">admission requirement,language proficiency</data>
+      <data key="d10">chunk-134b04ed8f5bc457339155536f87ac47</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193675</data>
+      <data key="d13" />
+    </edge>
+    <edge source="mathematics" target="entrance exams">
+      <data key="d7">1.0</data>
+      <data key="d8">Strong math skills are essential for admission.</data>
+      <data key="d9">admission requirement,subject knowledge</data>
+      <data key="d10">chunk-134b04ed8f5bc457339155536f87ac47</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193681</data>
+      <data key="d13" />
+    </edge>
+    <edge source="social sciences" target="entrance exams">
+      <data key="d7">1.0</data>
+      <data key="d8">Social science subjects like sociology or history are optional but required for some applicants.</data>
+      <data key="d9">admission requirement,subject choice</data>
+      <data key="d10">chunk-134b04ed8f5bc457339155536f87ac47</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193687</data>
+      <data key="d13" />
+    </edge>
+    <edge source="foreign languages" target="entrance exams">
+      <data key="d7">1.0</data>
+      <data key="d8">Knowledge of foreign languages is beneficial but not mandatory.</data>
+      <data key="d9">language proficiency,optional admission requirement</data>
+      <data key="d10">chunk-134b04ed8f5bc457339155536f87ac47</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193693</data>
+      <data key="d13" />
+    </edge>
+    <edge source="economic modeling" target="specialization">
+      <data key="d7">1.0</data>
+      <data key="d8">Economic modeling is a specialized area of study.</data>
+      <data key="d9">academic focus,course offering</data>
+      <data key="d10">chunk-134b04ed8f5bc457339155536f87ac47</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193705</data>
+      <data key="d13" />
+    </edge>
+    <edge source="analytical skills" target="students">
+      <data key="d7">1.0</data>
+      <data key="d8">Analytical skills are developed through the curriculum.</data>
+      <data key="d9">intellectual growth,skill development</data>
+      <data key="d10">chunk-134b04ed8f5bc457339155536f87ac47</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193699</data>
+      <data key="d13" />
+    </edge>
+    <edge source="stages of study" target="students">
+      <data key="d7">1.0</data>
+      <data key="d8">Internships and projects are part of the stages of study.</data>
+      <data key="d9">educational progression,internship opportunities</data>
+      <data key="d10">chunk-134b04ed8f5bc457339155536f87ac47</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193711</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Economic Faculty NSU" target="Mathematics Courses">
+      <data key="d7">1.0</data>
+      <data key="d8">The Economic Faculty NSU includes mathematical courses in its curriculum.</data>
+      <data key="d9">course inclusion,educational offering</data>
+      <data key="d10">chunk-bb0ebf4eb1e54439f1b32cb8c8f17714</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193717</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Economic Faculty NSU" target="Statistics">
+      <data key="d7">1.0</data>
+      <data key="d8">Statistics is offered as a subject at the Economic Faculty NSU.</data>
+      <data key="d9">course inclusion,educational offering</data>
+      <data key="d10">chunk-bb0ebf4eb1e54439f1b32cb8c8f17714</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193729</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Economic Faculty NSU" target="Programming">
+      <data key="d7">1.0</data>
+      <data key="d8">Programming courses are part of the Educational Offerings at the Economic Faculty NSU.</data>
+      <data key="d9">course inclusion,educational offering</data>
+      <data key="d10">chunk-bb0ebf4eb1e54439f1b32cb8c8f17714</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193735</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Economic Faculty NSU" target="Bachelor's Degree Program Economics">
+      <data key="d7">1.0</data>
+      <data key="d8">The Economic Faculty NSU offers a Bachelor's Degree Program in Economics.</data>
+      <data key="d9">academic program,degree level</data>
+      <data key="d10">chunk-bb0ebf4eb1e54439f1b32cb8c8f17714</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193741</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Economic Faculty NSU" target="Master's Degree Programs">
+      <data key="d7">1.0</data>
+      <data key="d8">The Economic Faculty NSU offers Master's Degree Programs.</data>
+      <data key="d9">academic program,degree level</data>
+      <data key="d10">chunk-bb0ebf4eb1e54439f1b32cb8c8f17714</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193747</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Economic Faculty NSU" target="Entrance Requirements">
+      <data key="d7">1.0</data>
+      <data key="d8">Entrance to the Economic Faculty NSU requires passing exams in specific subjects.</data>
+      <data key="d9">admission criterion,prerequisites</data>
+      <data key="d10">chunk-bb0ebf4eb1e54439f1b32cb8c8f17714</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193801</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Economic Faculty NSU" target="Budget Places">
+      <data key="d7">1.0</data>
+      <data key="d8">Limited budget places lead to high competition for admission.</data>
+      <data key="d9">competition,limited resource allocation</data>
+      <data key="d10">chunk-bb0ebf4eb1e54439f1b32cb8c8f17714</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193813</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Economic Faculty NSU" target="Tuition Fees">
+      <data key="d7">1.0</data>
+      <data key="d8">Tuition fees vary depending on the form of education chosen.</data>
+      <data key="d9">financial cost,tuition payment</data>
+      <data key="d10">chunk-bb0ebf4eb1e54439f1b32cb8c8f17714</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193825</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bachelor's Degree Program Economics" target="Management Profile">
+      <data key="d7">1.0</data>
+      <data key="d8">The Bachelor's Degree Program in Economics includes a Management profile.</data>
+      <data key="d9">academic focus,degree specialization</data>
+      <data key="d10">chunk-bb0ebf4eb1e54439f1b32cb8c8f17714</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193759</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bachelor's Degree Program Economics" target="Business Informatics Profile">
+      <data key="d7">1.0</data>
+      <data key="d8">The Bachelor's Degree Program in Economics includes a Business Informatics profile.</data>
+      <data key="d9">academic focus,degree specialization</data>
+      <data key="d10">chunk-bb0ebf4eb1e54439f1b32cb8c8f17714</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193771</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bachelor's Degree Program Economics" target="Master's Degree Programs">
+      <data key="d7">1.0</data>
+      <data key="d8">Graduates of the Bachelor's Degree Program in Economics may pursue further studies in Master's Degree Programs.</data>
+      <data key="d9">academic progression,degree pathway</data>
+      <data key="d10">chunk-bb0ebf4eb1e54439f1b32cb8c8f17714</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193825</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Master's Degree Programs" target="Economic Modeling">
+      <data key="d7">1.0</data>
+      <data key="d8">One of the Master's Degree Programs is focused on economic modeling.</data>
+      <data key="d9">academic focus,specialized program</data>
+      <data key="d10">chunk-bb0ebf4eb1e54439f1b32cb8c8f17714</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193777</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Master's Degree Programs" target="Applied Economy">
+      <data key="d7">1.0</data>
+      <data key="d8">Another Master's Degree Program specializes in applied economy.</data>
+      <data key="d9">academic focus,specialized program</data>
+      <data key="d10">chunk-bb0ebf4eb1e54439f1b32cb8c8f17714</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193795</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Master's Degree Programs" target="Analytics">
+      <data key="d7">1.0</data>
+      <data key="d8">A third Master's Degree Program concentrates on analytics.</data>
+      <data key="d9">academic focus,specialized program</data>
+      <data key="d10">chunk-bb0ebf4eb1e54439f1b32cb8c8f17714</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763193807</data>
+      <data key="d13" />
+    </edge>
+  </graph>
+</graphml>
