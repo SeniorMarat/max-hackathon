@@ -2,7 +2,7 @@
 
 Бот с интеграцией LightRAG (граф знаний) и GigaChat API.
 
-## Быстрый старт
+## Быстрый старт (без контейнера)
 
 ### 1. Настройка окружения
 
@@ -16,7 +16,7 @@ nano .env
 
 ### 2. Установка зависимостей
 
-#### Вариант 1: С использованием UV (рекомендуется)
+#### С использованием UV (рекомендуется)
 
 ```bash
 # Установка UV
@@ -29,17 +29,7 @@ uv sync
 source .venv/bin/activate
 ```
 
-#### Вариант 2: С использованием pip
-
-```bash
-# Установка зависимостей
-pip install -e .
-
-# Или используйте скрипт
-bash install_deps.sh
-```
-
-### 3. Использование
+### 3. Запуск
 
 #### Простой пример
 
@@ -47,11 +37,6 @@ bash install_deps.sh
 python main.py
 ```
 
-#### Детальное тестирование
-
-```bash
-python test_graph_memory.py
-```
 
 ## LightRAG + GigaChat Integration
 
@@ -66,48 +51,9 @@ python test_graph_memory.py
 - **`graph_memory.py`** - Менеджер графов знаний с простым API
 - **`test_graph_memory.py`** - Примеры и тесты
 
-### Документация
-
-Подробную документацию смотрите в [LIGHTRAG_SETUP.md](./LIGHTRAG_SETUP.md)
-
-## API GraphMemory
-
-```python
-from graph_memory import GraphMemory
-
-# Инициализация
-graph_memory = GraphMemory()
-
-# Сохранение данных в граф
-graph_memory.save("graph_id", "Ваш текст здесь")
-
-# Запрос к графу
-answer = graph_memory.query("graph_id", "Ваш вопрос?", mode="hybrid")
-
-# Список графов
-graphs = graph_memory.list_graphs()
-
-# Удаление графа
-graph_memory.delete_graph("graph_id")
-```
-
-## Структура проекта
-
-```
-.
-├── llm/                    # Модули для работы с LLM
-│   └── gigachat.py        # GigaChat клиент и адаптеры для LightRAG
-├── graph_memory.py         # Менеджер графов знаний
-├── test_graph_memory.py    # Тесты и примеры
-├── main.py                 # Простой пример использования
-├── pyproject.toml          # Зависимости проекта
-├── .env.example            # Пример конфигурации
-└── LIGHTRAG_SETUP.md       # Подробная документация
-```
-
 ## Требования
 
-- Python >= 3.12
+- Python >= 3.13
 - GigaChat API credentials
 - Зависимости из `pyproject.toml`
 
