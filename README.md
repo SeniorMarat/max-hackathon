@@ -1,4 +1,4 @@
-# Max Bot - Long Polling Example with LightRAG & GigaChat
+# Max Bot with LightRAG & GigaChat
 
 Бот с интеграцией LightRAG (граф знаний) и GigaChat API.
 
