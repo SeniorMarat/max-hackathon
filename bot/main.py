@@ -19,7 +19,7 @@ class MaxBotAI:
         bot_token: str,
         gigachat_credentials: str,
         gigachat_scope: str = "GIGACHAT_API_PERS",
-        gigachat_model: str = "GigaChat",
+        gigachat_model: str = "GigaChat-max",
     ):
         """
         Инициализация бота с GigaChat.
@@ -148,7 +148,7 @@ def create_bot() -> MaxBotAI:
     bot_token = os.getenv("BOT_TOKEN")
     gigachat_credentials = os.getenv("GIGACHAT_CREDENTIALS")
     gigachat_scope = os.getenv("GIGACHAT_SCOPE", "GIGACHAT_API_PERS")
-    gigachat_model = os.getenv("GIGACHAT_MODEL", "GigaChat")
+    gigachat_model = os.getenv("GIGACHAT_MODEL", "GigaChat-max")
 
     if not bot_token:
         raise ValueError("BOT_TOKEN not found in environment variables")
