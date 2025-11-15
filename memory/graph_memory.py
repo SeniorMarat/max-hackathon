@@ -106,7 +106,9 @@ class GraphMemory:
                 return await embedding_adapter(texts)
 
             async def llm_model_func(prompt: str, **kwargs) -> str:
-                return await llm_adapter(prompt, **kwargs)
+                rus_prompt = prompt.replace("English", "Russian")
+                logger.error(rus_prompt)
+                return await llm_adapter(rus_prompt, **kwargs)
 
             # Get worker counts from environment (defaults to conservative values)
             embedding_workers = int(os.getenv("LIGHTRAG_EMBEDDING_WORKERS", "2"))
