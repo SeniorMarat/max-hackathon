@@ -103,7 +103,7 @@ class GraphMemory:
                 return await embedding_adapter(texts)
 
             async def llm_model_func(prompt: str, **kwargs) -> str:
-                return await llm_adapter(prompt, **kwargs)
+                return await llm_adapter(prompt.replace("English", "Russian"), **kwargs)
 
             rag = LightRAG(
                 working_dir=workspace_path,
