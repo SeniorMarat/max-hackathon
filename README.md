@@ -8,7 +8,7 @@
 # Копируем пример .env файла
 cp .env.example .env
 
-# Редактируем .env и добавляем GIGACHAT_CREDENTIALS
+# Редактируем .env и добавляем BOT_TOKEN
 nano .env
 ```
 
@@ -28,10 +28,11 @@ pip install uv
 
 # Установка всех зависимостей из pyproject.toml
 uv sync
+source .venv/bin/activate
 ```
 
 ### 2.2 Запуск
 
 ```bash
-uv run main.py
+python main.py
 ```
