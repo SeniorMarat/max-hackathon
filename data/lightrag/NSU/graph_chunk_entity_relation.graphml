@@ -980,11 +980,11 @@
     </node>
     <node id="НГУ">
       <data key="d0">НГУ</data>
-      <data key="d1">location</data>
-      <data key="d2">Новосибирский государственный университет (НГУ) является местом проведения различных мероприятий и площадкой для студенческой активности.</data>
-      <data key="d3">chunk-e2ced4912d75885cf341fcdfd11a122e</data>
+      <data key="d1">organization</data>
+      <data key="d2">Новосибирский государственный университет (НГУ) является местом проведения различных мероприятий и площадкой для студенческой активности.&lt;SEP&gt;Новосибирский государственный университет (НГУ) является высшим учебным заведением, предоставляющим образовательные программы по медицине и психологии через Институт медицины и психологии имени В. Зельмана (ИМПЗ).&lt;SEP&gt;Новосибирский государственный университет (НГУ) является базовым университетом с сильным научно-образовательным фундаментом.</data>
+      <data key="d3">chunk-e2ced4912d75885cf341fcdfd11a122e&lt;SEP&gt;chunk-31701c0391c5c80fb014bf4ec2c31618&lt;SEP&gt;chunk-3c2048cbd8ab15bf77f8ce857685327f</data>
       <data key="d4">unknown_source</data>
-      <data key="d5">1763539416</data>
+      <data key="d5">1763542839</data>
       <data key="d6" />
     </node>
     <node id="«Научный пикник»">
@@ -1233,10 +1233,10 @@
     <node id="Академгородок">
       <data key="d0">Академгородок</data>
       <data key="d1">location</data>
-      <data key="d2">Местоположение Новосибирского государственного университета.</data>
-      <data key="d3">chunk-a3d6a8b784f4b3587c2e289eeda2d55e</data>
+      <data key="d2">Местоположение Новосибирского государственного университета.&lt;SEP&gt;Академгородок является местом интеграции физического факультета НГУ с научными институтами.</data>
+      <data key="d3">chunk-a3d6a8b784f4b3587c2e289eeda2d55e&lt;SEP&gt;chunk-41b36f387ee21bd85d1d5642ee853719</data>
       <data key="d4">unknown_source</data>
-      <data key="d5">1763539604</data>
+      <data key="d5">1763543072</data>
       <data key="d6" />
     </node>
     <node id="М. А. Лаврентьев">
@@ -1386,10 +1386,10 @@
     <node id="Факультет естественных наук (ФЕН)">
       <data key="d0">Факультет естественных наук (ФЕН)</data>
       <data key="d1">organization</data>
-      <data key="d2">Факультет естественных наук входит в состав Новосибирского государственного университета.</data>
-      <data key="d3">chunk-40c4dad280d9f13d93d64edb2d86f788</data>
+      <data key="d2">Факультет естественных наук входит в состав Новосибирского государственного университета.&lt;SEP&gt;Факультет естественных наук (ФЕН) НГУ объединяет программы по биологии, химии, геонаукам, биотехнологиям и смежным дисциплинам.</data>
+      <data key="d3">chunk-40c4dad280d9f13d93d64edb2d86f788&lt;SEP&gt;chunk-3c2048cbd8ab15bf77f8ce857685327f</data>
       <data key="d4">unknown_source</data>
-      <data key="d5">1763539655</data>
+      <data key="d5">1763542837</data>
       <data key="d6" />
     </node>
     <node id="Факультет информационных технологий (ФИТ)">
@@ -1417,6 +1417,951 @@
       <data key="d1">UNKNOWN</data>
       <data key="d4">unknown_source</data>
       <data key="d5">1763539691</data>
+      <data key="d6" />
+    </node>
+    <node id="Геолого-геофизический факультет НГУ">
+      <data key="d0">Геолого-геофизический факультет НГУ</data>
+      <data key="d1">organization</data>
+      <data key="d2">Геолого-геофизический факультет НГУ готовит специалистов в области геологии и геофизики с сильной научной программой и практической подготовкой.</data>
+      <data key="d3">chunk-688c0fd847257d42c90181b4478949e1</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542530</data>
+      <data key="d6" />
+    </node>
+    <node id="специализация геофизика">
+      <data key="d0">специализация геофизика</data>
+      <data key="d1">specialty</data>
+      <data key="d2">Студенты первого курса ГГФ могут выбрать специализацию по геофизике.</data>
+      <data key="d3">chunk-688c0fd847257d42c90181b4478949e1</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542530</data>
+      <data key="d6" />
+    </node>
+    <node id="специализация геохимия">
+      <data key="d0">специализация геохимия</data>
+      <data key="d1">specialty</data>
+      <data key="d2">Студенты первого курса ГГФ могут выбрать специализацию по геохимии.</data>
+      <data key="d3">chunk-688c0fd847257d42c90181b4478949e1</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542533</data>
+      <data key="d6" />
+    </node>
+    <node id="специализация геология">
+      <data key="d0">специализация геология</data>
+      <data key="d1">specialty</data>
+      <data key="d2">Студенты первого курса ГГФ могут выбрать специализацию по геологии.</data>
+      <data key="d3">chunk-688c0fd847257d42c90181b4478949e1</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542536</data>
+      <data key="d6" />
+    </node>
+    <node id="специализация нефть и газ">
+      <data key="d0">специализация нефть и газ</data>
+      <data key="d1">specialty</data>
+      <data key="d2">Студенты первого курса ГГФ могут выбрать специализацию по нефти и газу.</data>
+      <data key="d3">chunk-688c0fd847257d42c90181b4478949e1</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542539</data>
+      <data key="d6" />
+    </node>
+    <node id="специализация геофизика в нефтепромысловом и горном деле">
+      <data key="d0">специализация геофизика в нефтепромысловом и горном деле</data>
+      <data key="d1">specialty</data>
+      <data key="d2">Студенты первого курса ГГФ могут выбрать специализацию по геофизике в нефтепромысловом и горном деле.</data>
+      <data key="d3">chunk-688c0fd847257d42c90181b4478949e1</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542542</data>
+      <data key="d6" />
+    </node>
+    <node id="ЕГЭ">
+      <data key="d0">ЕГЭ</data>
+      <data key="d1">data</data>
+      <data key="d2">Единый государственный экзамен включает математику и дополнительные предметы, такие как физика, география, химия или информатика, а также русский язык.&lt;SEP&gt;Единый государственный экзамен является требованием для поступления на физический факультет НГУ.</data>
+      <data key="d3">chunk-688c0fd847257d42c90181b4478949e1&lt;SEP&gt;chunk-41b36f387ee21bd85d1d5642ee853719</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763543078</data>
+      <data key="d6" />
+    </node>
+    <node id="Табитюрин">
+      <data key="d0">Табитюрин</data>
+      <data key="d1">data_source</data>
+      <data key="d2">Источник данных о проходных баллах - портал Табитюрин.&lt;SEP&gt;Источник информации о проходных баллах.</data>
+      <data key="d3">chunk-688c0fd847257d42c90181b4478949e1&lt;SEP&gt;chunk-00319a41a425f6d6ec4233df0775ae96</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542930</data>
+      <data key="d6" />
+    </node>
+    <node id="проходной балл Геология бакалавриат разные профили">
+      <data key="d0">проходной балл Геология бакалавриат разные профили</data>
+      <data key="d1">admission_score</data>
+      <data key="d2">Проходной балл для поступления на направление «Геология» в бакалавриате составляет 222 балла (бюджет).</data>
+      <data key="d3">chunk-688c0fd847257d42c90181b4478949e1</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542551</data>
+      <data key="d6" />
+    </node>
+    <node id="психическое здоровье">
+      <data key="d0">психическое здоровье</data>
+      <data key="d1">concept</data>
+      <data key="d2">Психическое здоровье относится к области исследований и практики в медицине и психологии.</data>
+      <data key="d3">chunk-d31291ed3714cbfcb940521fe0faf0b6</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542601</data>
+      <data key="d6" />
+    </node>
+    <node id="организационные модели">
+      <data key="d0">организационные модели</data>
+      <data key="d1">concept</data>
+      <data key="d2">Организационные модели описывают структуры и подходы к управлению в различных областях деятельности.</data>
+      <data key="d3">chunk-d31291ed3714cbfcb940521fe0faf0b6</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542601</data>
+      <data key="d6" />
+    </node>
+    <node id="клиническая практика">
+      <data key="d0">клиническая практика</data>
+      <data key="d1">concept</data>
+      <data key="d2">Клиническая практика включает применение медицинских знаний и методов для диагностики и лечения пациентов.</data>
+      <data key="d3">chunk-d31291ed3714cbfcb940521fe0faf0b6</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542603</data>
+      <data key="d6" />
+    </node>
+    <node id="ИМПЗ">
+      <data key="d0">ИМПЗ</data>
+      <data key="d1">organization</data>
+      <data key="d2">Институт медицины и психологии имени В. Зельмана является медицинским и психологическим подразделением НГУ, готовящим специалистов в области медицины и психологии.</data>
+      <data key="d3">chunk-31701c0391c5c80fb014bf4ec2c31618</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542606</data>
+      <data key="d6" />
+    </node>
+    <node id="лечебное дело">
+      <data key="d0">лечебное дело</data>
+      <data key="d1">specialty</data>
+      <data key="d2">Программа подготовки специалистов по специальности "лечебное дело" проводится в рамках Института медицины и психологии имени В. Зельмана при Новосибирском государственном университете.</data>
+      <data key="d3">chunk-31701c0391c5c80fb014bf4ec2c31618</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542612</data>
+      <data key="d6" />
+    </node>
+    <node id="психология">
+      <data key="d0">психология</data>
+      <data key="d1">specialty</data>
+      <data key="d2">Программа бакалавриата по психологии включает направления организационной и клинической психологии в Институте медицины и психологии имени В. Зельмана.</data>
+      <data key="d3">chunk-31701c0391c5c80fb014bf4ec2c31618</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542616</data>
+      <data key="d6" />
+    </node>
+    <node id="русский язык">
+      <data key="d0">русский язык</data>
+      <data key="d1">subject</data>
+      <data key="d2">Русский язык является одним из вступительных экзаменов для поступления на медицинские и психологические программы Института медицины и психологии имени В. Зельмана.</data>
+      <data key="d3">chunk-31701c0391c5c80fb014bf4ec2c31618</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542618</data>
+      <data key="d6" />
+    </node>
+    <node id="химия">
+      <data key="d0">химия</data>
+      <data key="d1">subject</data>
+      <data key="d2">Химия является одним из предметов вступительного экзамена для медицинских программ Института медицины и психологии имени В. Зельмана.</data>
+      <data key="d3">chunk-31701c0391c5c80fb014bf4ec2c31618</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542621</data>
+      <data key="d6" />
+    </node>
+    <node id="биология">
+      <data key="d0">биология</data>
+      <data key="d1">subject</data>
+      <data key="d2">Биология является одним из предметов вступительных экзаменов как для медицинских, так и для психологических программ Института медицины и психологии имени В. Зельмана.</data>
+      <data key="d3">chunk-31701c0391c5c80fb014bf4ec2c31618</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542625</data>
+      <data key="d6" />
+    </node>
+    <node id="обществознание">
+      <data key="d0">обществознание</data>
+      <data key="d1">subject</data>
+      <data key="d2">Обществознание является предметом вступительного экзамена для студентов, поступающих на программу бакалавриата по психологии в Институте медицины и психологии имени В. Зельмана.</data>
+      <data key="d3">chunk-31701c0391c5c80fb014bf4ec2c31618</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542628</data>
+      <data key="d6" />
+    </node>
+    <node id="проходные баллы">
+      <data key="d0">проходные баллы</data>
+      <data key="d1">data</data>
+      <data key="d2">Данные о проходных баллах для поступления на различные программы Института медицины и психологии имени В. Зельмана доступны на ресурсе Tabiturient.</data>
+      <data key="d3">chunk-31701c0391c5c80fb014bf4ec2c31618&lt;SEP&gt;chunk-00319a41a425f6d6ec4233df0775ae96</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542631</data>
+      <data key="d6" />
+    </node>
+    <node id="Институт философии и права НГУ">
+      <data key="d0">Институт философии и права НГУ</data>
+      <data key="d1">organization</data>
+      <data key="d2">Институт философии и права НГУ объединяет гуманитарное образование и правовые дисциплины.</data>
+      <data key="d3">chunk-28bc70cf65a5203fe96b88628708441b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542693</data>
+      <data key="d6" />
+    </node>
+    <node id="Философия">
+      <data key="d0">Философия</data>
+      <data key="d1">concept</data>
+      <data key="d2">Философия включает направления социальной философии, теории познания, этики и другие темы.</data>
+      <data key="d3">chunk-28bc70cf65a5203fe96b88628708441b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542693</data>
+      <data key="d6" />
+    </node>
+    <node id="Юриспруденция">
+      <data key="d0">Юриспруденция</data>
+      <data key="d1">concept</data>
+      <data key="d2">Юриспруденция предлагает стандартную юридическую подготовку на уровне бакалавриата.</data>
+      <data key="d3">chunk-28bc70cf65a5203fe96b88628708441b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542696</data>
+      <data key="d6" />
+    </node>
+    <node id="Русский язык">
+      <data key="d0">Русский язык</data>
+      <data key="d1">language</data>
+      <data key="d2">Русский язык является обязательным вступительным экзаменом для поступления в Институт философии и права НГУ.&lt;SEP&gt;Экзамен по русскому языку обязателен при поступлении на технические программы.&lt;SEP&gt;Русский язык входит в перечень обязательных предметов для поступления на физический факультет НГУ.&lt;SEP&gt;Русский язык является обязательным для поступления во многие направления подготовки Гуманитарного института НГУ.</data>
+      <data key="d3">chunk-28bc70cf65a5203fe96b88628708441b&lt;SEP&gt;chunk-00319a41a425f6d6ec4233df0775ae96&lt;SEP&gt;chunk-41b36f387ee21bd85d1d5642ee853719&lt;SEP&gt;chunk-46485aa8f930407871791b8e3c225998</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763543224</data>
+      <data key="d6" />
+    </node>
+    <node id="Информатика/ИКТ">
+      <data key="d0">Информатика/ИКТ</data>
+      <data key="d1">subject</data>
+      <data key="d2">Информатика/ИКТ используется как один из предметов при поступлении на некоторые направления Института философии и права НГУ.</data>
+      <data key="d3">chunk-28bc70cf65a5203fe96b88628708441b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542702</data>
+      <data key="d6" />
+    </node>
+    <node id="История">
+      <data key="d0">История</data>
+      <data key="d1">discipline</data>
+      <data key="d2">История выступает в качестве одного из вступительных экзаменов для некоторых направлений Института философии и права НГУ.&lt;SEP&gt;Направление подготовки по истории включает всеобщую и отечественную историю.</data>
+      <data key="d3">chunk-28bc70cf65a5203fe96b88628708441b&lt;SEP&gt;chunk-46485aa8f930407871791b8e3c225998</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763543210</data>
+      <data key="d6" />
+    </node>
+    <node id="Обществознание">
+      <data key="d0">Обществознание</data>
+      <data key="d1">subject</data>
+      <data key="d2">Обществознание является одним из обязательных вступительных экзаменов для поступления в Институт философии и права НГУ.&lt;SEP&gt;Обществознание может быть одним из профильных предметов для поступления на некоторые направления подготовки.</data>
+      <data key="d3">chunk-28bc70cf65a5203fe96b88628708441b&lt;SEP&gt;chunk-46485aa8f930407871791b8e3c225998</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763543227</data>
+      <data key="d6" />
+    </node>
+    <node id="Иностранный язык">
+      <data key="d0">Иностранный язык</data>
+      <data key="d1">language</data>
+      <data key="d2">Иностранный язык включен в список вступительных экзаменов для определенных направлений Института философии и права НГУ.&lt;SEP&gt;Иностранный язык также может использоваться в качестве профильного предмета при поступлении на определенные направления.</data>
+      <data key="d3">chunk-28bc70cf65a5203fe96b88628708441b&lt;SEP&gt;chunk-46485aa8f930407871791b8e3c225998</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763543230</data>
+      <data key="d6" />
+    </node>
+    <node id="Tabiturient">
+      <data key="d0">Tabiturient</data>
+      <data key="d1">data</data>
+      <data key="d2">Tabiturient предоставляет информацию о проходных баллах и других данных по институту.</data>
+      <data key="d3">chunk-28bc70cf65a5203fe96b88628708441b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542714</data>
+      <data key="d6" />
+    </node>
+    <node id="47.03.01 - философия">
+      <data key="d0">47.03.01 - философия</data>
+      <data key="d1">discipline</data>
+      <data key="d2">Код и название конкретной программы философии в Институте философии и права НГУ.</data>
+      <data key="d3">chunk-28bc70cf65a5203fe96b88628708441b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542717</data>
+      <data key="d6" />
+    </node>
+    <node id="философские тексты">
+      <data key="d0">философские тексты</data>
+      <data key="d1">content</data>
+      <data key="d2">Философские тексты являются источником информации для развития навыков аргументации и критического анализа.</data>
+      <data key="d3">chunk-4c4044d3c14949df01a3373e809e35f1</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542720</data>
+      <data key="d6" />
+    </node>
+    <node id="современные концепции">
+      <data key="d0">современные концепции</data>
+      <data key="d1">concept</data>
+      <data key="d2">Современные концепции дополняют философские тексты в процессе обучения и развития навыков.</data>
+      <data key="d3">chunk-4c4044d3c14949df01a3373e809e35f1</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542723</data>
+      <data key="d6" />
+    </node>
+    <node id="аргументация">
+      <data key="d0">аргументация</data>
+      <data key="d1">method</data>
+      <data key="d2">Аргументация является одним из ключевых навыков, развиваемых через изучение философских текстов и современных концепций.</data>
+      <data key="d3">chunk-4c4044d3c14949df01a3373e809e35f1</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542726</data>
+      <data key="d6" />
+    </node>
+    <node id="критический анализ">
+      <data key="d0">критический анализ</data>
+      <data key="d1">method</data>
+      <data key="d2">Критический анализ рассматривается как важный компонент образовательного процесса.</data>
+      <data key="d3">chunk-4c4044d3c14949df01a3373e809e35f1</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542729</data>
+      <data key="d6" />
+    </node>
+    <node id="юридическая программа">
+      <data key="d0">юридическая программа</data>
+      <data key="d1">program</data>
+      <data key="d2">Юридическая программа включает фундаментальное обучение и практические юридические навыки.</data>
+      <data key="d3">chunk-4c4044d3c14949df01a3373e809e35f1</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542734</data>
+      <data key="d6" />
+    </node>
+    <node id="фундаментальная подготовка">
+      <data key="d0">фундаментальная подготовка</data>
+      <data key="d1">education</data>
+      <data key="d2">Фундаментальная подготовка является основой юридической программы.&lt;SEP&gt;Фундаментальная подготовка является основой образовательного процесса студентов.</data>
+      <data key="d3">chunk-4c4044d3c14949df01a3373e809e35f1&lt;SEP&gt;chunk-62ad4fdd4fbc3f7a90e519ad9e0e46f2</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763543030</data>
+      <data key="d6" />
+    </node>
+    <node id="практические юридические навыки">
+      <data key="d0">практические юридические навыки</data>
+      <data key="d1">skills</data>
+      <data key="d2">Практические юридические навыки развиваются параллельно с теоретическим обучением в рамках юридической программы.</data>
+      <data key="d3">chunk-4c4044d3c14949df01a3373e809e35f1</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542738</data>
+      <data key="d6" />
+    </node>
+    <node id="исследовательские проекты">
+      <data key="d0">исследовательские проекты</data>
+      <data key="d1">projects</data>
+      <data key="d2">Исследовательские проекты по философии, этике и праву способствуют углублению знаний и развитию профессиональных компетенций.</data>
+      <data key="d3">chunk-4c4044d3c14949df01a3373e809e35f1</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542741</data>
+      <data key="d6" />
+    </node>
+    <node id="международные программы обмена">
+      <data key="d0">международные программы обмена</data>
+      <data key="d1">exchangeprograms</data>
+      <data key="d2">Участие в международных программах обмена расширяет кругозор студентов и способствует их профессиональному росту.</data>
+      <data key="d3">chunk-4c4044d3c14949df01a3373e809e35f1</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542744</data>
+      <data key="d6" />
+    </node>
+    <node id="Таблицы проходных баллов">
+      <data key="d0">Таблицы проходных баллов</data>
+      <data key="d3">chunk-28bc70cf65a5203fe96b88628708441b</data>
+      <data key="d2">Информация о проходных баллах предоставляется Табитуриентом для Института философии и права НГУ.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542776</data>
+      <data key="d6" />
+    </node>
+    <node id="развитие навыков">
+      <data key="d0">развитие навыков</data>
+      <data key="d3">chunk-4c4044d3c14949df01a3373e809e35f1</data>
+      <data key="d2">Изучение философских текстов способствует развитию навыков аргументации и критического анализа.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542781</data>
+      <data key="d6" />
+    </node>
+    <node id="знания углубление">
+      <data key="d0">знания углубление</data>
+      <data key="d3">chunk-4c4044d3c14949df01a3373e809e35f1</data>
+      <data key="d2">Исследовательские проекты способствуют углублению знаний по философии, этике и праву.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542800</data>
+      <data key="d6" />
+    </node>
+    <node id="рост профессиональный">
+      <data key="d0">рост профессиональный</data>
+      <data key="d3">chunk-4c4044d3c14949df01a3373e809e35f1</data>
+      <data key="d2">Участие в международных программах обмена способствует профессиональному росту студентов.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542804</data>
+      <data key="d6" />
+    </node>
+    <node id="Фен">
+      <data key="d0">Фен</data>
+      <data key="d1">other</data>
+      <data key="d2">Фен упоминается в тексте без уточнения его типа или характеристик.</data>
+      <data key="d3">chunk-845bc0163713ed9dd04f99f1bf1a978a</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542837</data>
+      <data key="d6" />
+    </node>
+    <node id="Биология">
+      <data key="d0">Биология</data>
+      <data key="d1">subject</data>
+      <data key="d2">Программа бакалавриата и магистратуры по биологии предлагает обучение в области биологических дисциплин.</data>
+      <data key="d3">chunk-3c2048cbd8ab15bf77f8ce857685327f</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542842</data>
+      <data key="d6" />
+    </node>
+    <node id="Биотехнологии">
+      <data key="d0">Биотехнологии</data>
+      <data key="d1">subject</data>
+      <data key="d2">Обучение по программам биотехнологий включает лабораторные практики и исследования.</data>
+      <data key="d3">chunk-3c2048cbd8ab15bf77f8ce857685327f</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542845</data>
+      <data key="d6" />
+    </node>
+    <node id="Химия">
+      <data key="d0">Химия</data>
+      <data key="d1">subject</data>
+      <data key="d2">Программы по химии предлагают теоретические и практические занятия для студентов бакалавриата и магистратуры.</data>
+      <data key="d3">chunk-3c2048cbd8ab15bf77f8ce857685327f</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542849</data>
+      <data key="d6" />
+    </node>
+    <node id="Наноматериалы">
+      <data key="d0">Наноматериалы</data>
+      <data key="d1">subject</data>
+      <data key="d2">Студенты могут изучать наноматериалы в рамках магистерских программ.</data>
+      <data key="d3">chunk-3c2048cbd8ab15bf77f8ce857685327f</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542852</data>
+      <data key="d6" />
+    </node>
+    <node id="Экология">
+      <data key="d0">Экология</data>
+      <data key="d1">subject</data>
+      <data key="d2">Магистерская программа по экологии предоставляет знания о взаимодействии живых организмов с окружающей средой.</data>
+      <data key="d3">chunk-3c2048cbd8ab15bf77f8ce857685327f</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542854</data>
+      <data key="d6" />
+    </node>
+    <node id="Молекулярная биология">
+      <data key="d0">Молекулярная биология</data>
+      <data key="d1">subject</data>
+      <data key="d2">Курс по молекулярной биологии предназначен для углубленного изучения биохимических процессов на уровне молекул.</data>
+      <data key="d3">chunk-3c2048cbd8ab15bf77f8ce857685327f</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542857</data>
+      <data key="d6" />
+    </node>
+    <node id="работа">
+      <data key="d0">работа</data>
+      <data key="d3">chunk-845bc0163713ed9dd04f99f1bf1a978a</data>
+      <data key="d2">Возможность работы в биотехнологических компаниях связана с упоминанием Фена.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542863</data>
+      <data key="d6" />
+    </node>
+    <node id="Институт интеллектуальной робототехники НГУ">
+      <data key="d0">Институт интеллектуальной робототехники НГУ</data>
+      <data key="d1">organization</data>
+      <data key="d2">Институт интеллектуальной робототехники НГУ является междисциплинарным подразделением, специализирующимся на робототехнике, машинном обучении и искусственном интеллекте.</data>
+      <data key="d3">chunk-00319a41a425f6d6ec4233df0775ae96</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542912</data>
+      <data key="d6" />
+    </node>
+    <node id="Мехатроника и робототехника. Искусственный интеллект">
+      <data key="d0">Мехатроника и робототехника. Искусственный интеллект</data>
+      <data key="d1">program</data>
+      <data key="d2">Бакалаврская программа, объединяющая мехатронику, робототехнику и искусственный интеллект.</data>
+      <data key="d3">chunk-00319a41a425f6d6ec4233df0775ae96</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542912</data>
+      <data key="d6" />
+    </node>
+    <node id="Прикладной искусственный интеллект">
+      <data key="d0">Прикладной искусственный интеллект</data>
+      <data key="d1">program</data>
+      <data key="d2">Программма инженерной школы, тесно связанная с робототехникой и искусственным интеллектом.</data>
+      <data key="d3">chunk-00319a41a425f6d6ec4233df0775ae96</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542915</data>
+      <data key="d6" />
+    </node>
+    <node id="ЕГЭ по математике">
+      <data key="d0">ЕГЭ по математике</data>
+      <data key="d1">test</data>
+      <data key="d2">Обязательный экзамен для поступления на технические программы.</data>
+      <data key="d3">chunk-00319a41a425f6d6ec4233df0775ae96</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542918</data>
+      <data key="d6" />
+    </node>
+    <node id="Физика">
+      <data key="d0">Физика</data>
+      <data key="d1">subject</data>
+      <data key="d2">Один из возможных предметов для поступления на технические программы.&lt;SEP&gt;Физика обязательна для поступления на физический факультет НГУ.</data>
+      <data key="d3">chunk-00319a41a425f6d6ec4233df0775ae96&lt;SEP&gt;chunk-41b36f387ee21bd85d1d5642ee853719</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763543087</data>
+      <data key="d6" />
+    </node>
+    <node id="Информатика / ИКТ">
+      <data key="d0">Информатика / ИКТ</data>
+      <data key="d1">subject</data>
+      <data key="d2">Другой возможный предмет для поступления на технические программы.</data>
+      <data key="d3">chunk-00319a41a425f6d6ec4233df0775ae96</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542924</data>
+      <data key="d6" />
+    </node>
+    <node id="научные лаборатории">
+      <data key="d0">научные лаборатории</data>
+      <data key="d1">организация</data>
+      <data key="d2">Научные лаборатории предлагают возможности для трудоустройства и проведения исследований.</data>
+      <data key="d3">chunk-b6fa5d3637fe3cef882531bd33600d83</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542933</data>
+      <data key="d6" />
+    </node>
+    <node id="высокие технологии">
+      <data key="d0">высокие технологии</data>
+      <data key="d1">тема</data>
+      <data key="d2">Высокие технологии являются областью потенциального трудоустройства и исследований.</data>
+      <data key="d3">chunk-b6fa5d3637fe3cef882531bd33600d83</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542940</data>
+      <data key="d6" />
+    </node>
+    <node id="робототехника">
+      <data key="d0">робототехника</data>
+      <data key="d1">тема</data>
+      <data key="d2">Робототехника представляет собой область возможностей для работы и исследовательской деятельности.</data>
+      <data key="d3">chunk-b6fa5d3637fe3cef882531bd33600d83</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542940</data>
+      <data key="d6" />
+    </node>
+    <node id="ИИ">
+      <data key="d0">ИИ</data>
+      <data key="d1">тема</data>
+      <data key="d2">Искусственный интеллект предоставляет возможность участия в стартапах и университетских проектах.</data>
+      <data key="d3">chunk-b6fa5d3637fe3cef882531bd33600d83</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542943</data>
+      <data key="d6" />
+    </node>
+    <node id="программа Мехатроника и робототехника. Искусственный интеллект">
+      <data key="d0">программа Мехатроника и робототехника. Искусственный интеллект</data>
+      <data key="d3">chunk-00319a41a425f6d6ec4233df0775ae96</data>
+      <data key="d2">Институт интеллектуальной робототехники НГУ предлагает программу "Мехатроника и робототехника. Искусственный интеллект".</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542949</data>
+      <data key="d6" />
+    </node>
+    <node id="программа Прикладной искусственный интеллект">
+      <data key="d0">программа Прикладной искусственный интеллект</data>
+      <data key="d3">chunk-00319a41a425f6d6ec4233df0775ae96</data>
+      <data key="d2">Институт интеллектуальной робототехники НГУ связан с программой "Прикладной искусственный интеллект" через инженерную школу.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763542955</data>
+      <data key="d6" />
+    </node>
+    <node id="сильная исследовательская составляющая">
+      <data key="d0">сильная исследовательская составляющая</data>
+      <data key="d1">concept</data>
+      <data key="d2">Сильная исследовательская составляющая акцентирует внимание на фундаментальном обучении с возможностью углубления в прикладные направления.</data>
+      <data key="d3">chunk-62ad4fdd4fbc3f7a90e519ad9e0e46f2</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763543018</data>
+      <data key="d6" />
+    </node>
+    <node id="лабораторные исследования">
+      <data key="d0">лабораторные исследования</data>
+      <data key="d1">activity</data>
+      <data key="d2">Лабораторные исследования являются частью учебного процесса студентов.</data>
+      <data key="d3">chunk-62ad4fdd4fbc3f7a90e519ad9e0e46f2</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763543018</data>
+      <data key="d6" />
+    </node>
+    <node id="семинары">
+      <data key="d0">семинары</data>
+      <data key="d1">activity</data>
+      <data key="d2">Семинары включены в учебный процесс студентов для углубленного изучения тем.</data>
+      <data key="d3">chunk-62ad4fdd4fbc3f7a90e519ad9e0e46f2</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763543021</data>
+      <data key="d6" />
+    </node>
+    <node id="проекты">
+      <data key="d0">проекты</data>
+      <data key="d1">activity</data>
+      <data key="d2">Проекты выполняются студентами совместно с институтами СО РАН.</data>
+      <data key="d3">chunk-62ad4fdd4fbc3f7a90e519ad9e0e46f2&lt;SEP&gt;chunk-32c7596eb4e5f166095ea1b8b80c3de9</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763543024</data>
+      <data key="d6" />
+    </node>
+    <node id="институты СО РАН">
+      <data key="d0">институты СО РАН</data>
+      <data key="d1">organization</data>
+      <data key="d2">Институты СО РАН участвуют в учебном процессе студентов.</data>
+      <data key="d3">chunk-62ad4fdd4fbc3f7a90e519ad9e0e46f2</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763543027</data>
+      <data key="d6" />
+    </node>
+    <node id="прикладные направления">
+      <data key="d0">прикладные направления</data>
+      <data key="d1">field</data>
+      <data key="d2">Прикладные направления дополняют фундаментальную подготовку студентов.</data>
+      <data key="d3">chunk-62ad4fdd4fbc3f7a90e519ad9e0e46f2</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763543033</data>
+      <data key="d6" />
+    </node>
+    <node id="лабораторная практика">
+      <data key="d0">лабораторная практика</data>
+      <data key="d1">activity</data>
+      <data key="d2">Лабораторная практика проводится в институтах СО РАН.</data>
+      <data key="d3">chunk-62ad4fdd4fbc3f7a90e519ad9e0e46f2</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763543036</data>
+      <data key="d6" />
+    </node>
+    <node id="экспериментальная практика">
+      <data key="d0">экспериментальная практика</data>
+      <data key="d1">activity</data>
+      <data key="d2">Экспериментальная практика осуществляется на установках институтов СО РАН.</data>
+      <data key="d3">chunk-62ad4fdd4fbc3f7a90e519ad9e0e46f2</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763543039</data>
+      <data key="d6" />
+    </node>
+    <node id="навыки физического моделирования">
+      <data key="d0">навыки физического моделирования</data>
+      <data key="d1">skill</data>
+      <data key="d2">Навыки физического моделирования востребованы среди выпускников.</data>
+      <data key="d3">chunk-62ad4fdd4fbc3f7a90e519ad9e0e46f2</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763543042</data>
+      <data key="d6" />
+    </node>
+    <node id="научные организации">
+      <data key="d0">научные организации</data>
+      <data key="d1">organization</data>
+      <data key="d2">Научные организации являются перспективой трудоустройства выпускников.</data>
+      <data key="d3">chunk-62ad4fdd4fbc3f7a90e519ad9e0e46f2</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763543045</data>
+      <data key="d6" />
+    </node>
+    <node id="исследовательские лаборатории">
+      <data key="d0">исследовательские лаборатории</data>
+      <data key="d1">organization</data>
+      <data key="d2">Исследовательские лаборатории рассматриваются как возможный вариант трудоустройства выпускников.</data>
+      <data key="d3">chunk-62ad4fdd4fbc3f7a90e519ad9e0e46f2</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763543048</data>
+      <data key="d6" />
+    </node>
+    <node id="приборостроение">
+      <data key="d0">приборостроение</data>
+      <data key="d1">industry</data>
+      <data key="d2">Приборостроение входит в перечень отраслей, куда могут устроиться выпускники.</data>
+      <data key="d3">chunk-62ad4fdd4fbc3f7a90e519ad9e0e46f2</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763543051</data>
+      <data key="d6" />
+    </node>
+    <node id="опто- и электроника">
+      <data key="d0">опто- и электроника</data>
+      <data key="d1">industry</data>
+      <data key="d2">Опто- и электроника являются отраслями трудоустройства выпускников.</data>
+      <data key="d3">chunk-62ad4fdd4fbc3f7a90e519ad9e0e46f2</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763543054</data>
+      <data key="d6" />
+    </node>
+    <node id="аэрокосмическая отрасль">
+      <data key="d0">аэрокосмическая отрасль</data>
+      <data key="d1">industry</data>
+      <data key="d2">Аэрокосмическая отрасль рассматривается как потенциальное место работы выпускников.</data>
+      <data key="d3">chunk-62ad4fdd4fbc3f7a90e519ad9e0e46f2</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763543057</data>
+      <data key="d6" />
+    </node>
+    <node id="энергетическая отрасль">
+      <data key="d0">энергетическая отрасль</data>
+      <data key="d1">industry</data>
+      <data key="d2">Энергетическая отрасль включена в список возможных мест трудоустройства выпускников.</data>
+      <data key="d3">chunk-62ad4fdd4fbc3f7a90e519ad9e0e46f2</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763543060</data>
+      <data key="d6" />
+    </node>
+    <node id="ИТ-отрасль">
+      <data key="d0">ИТ-отрасль</data>
+      <data key="d1">industry</data>
+      <data key="d2">Информационные технологии входят в перечень отраслей, где востребованы выпускники.</data>
+      <data key="d3">chunk-62ad4fdd4fbc3f7a90e519ad9e0e46f2</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763543063</data>
+      <data key="d6" />
+    </node>
+    <node id="аналитические подразделения">
+      <data key="d0">аналитические подразделения</data>
+      <data key="d1">department</data>
+      <data key="d2">Аналитические подразделения представляют собой возможные места работы выпускников.</data>
+      <data key="d3">chunk-62ad4fdd4fbc3f7a90e519ad9e0e46f2</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763543066</data>
+      <data key="d6" />
+    </node>
+    <node id="Физический факультет НГУ">
+      <data key="d0">Физический факультет НГУ</data>
+      <data key="d1">organization</data>
+      <data key="d2">Физический факультет НГУ подготавливает научных и инженерных кадров в области физики и смежных дисциплин.</data>
+      <data key="d3">chunk-41b36f387ee21bd85d1d5642ee853719</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763543069</data>
+      <data key="d6" />
+    </node>
+    <node id="СО РАН">
+      <data key="d0">СО РАН</data>
+      <data key="d1">organization</data>
+      <data key="d2">Сибирское отделение Российской академии наук сотрудничает с физическим факультетом НГУ в исследовательской деятельности.</data>
+      <data key="d3">chunk-41b36f387ee21bd85d1d5642ee853719</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763543075</data>
+      <data key="d6" />
+    </node>
+    <node id="Математика (профильная)">
+      <data key="d0">Математика (профильная)</data>
+      <data key="d1">subject</data>
+      <data key="d2">Профильная математика является обязательным предметом для поступления на физический факультет НГУ.</data>
+      <data key="d3">chunk-41b36f387ee21bd85d1d5642ee853719</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763543084</data>
+      <data key="d6" />
+    </node>
+    <node id="Информатика">
+      <data key="d0">Информатика</data>
+      <data key="d1">subject</data>
+      <data key="d2">Информатика может быть дополнительным предметом при поступлении на некоторые профили физического факультета НГУ.</data>
+      <data key="d3">chunk-41b36f387ee21bd85d1d5642ee853719</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763543090</data>
+      <data key="d6" />
+    </node>
+    <node id="лаборатория института СО РАН">
+      <data key="d0">лаборатория института СО РАН</data>
+      <data key="d3">chunk-62ad4fdd4fbc3f7a90e519ad9e0e46f2</data>
+      <data key="d2">Лабораторные исследования проводятся в лабораториях институтов СО РАН.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763543102</data>
+      <data key="d6" />
+    </node>
+    <node id="установка института СО РАН">
+      <data key="d0">установка института СО РАН</data>
+      <data key="d3">chunk-62ad4fdd4fbc3f7a90e519ad9e0e46f2</data>
+      <data key="d2">Лабораторная практика осуществляется на установках институтов СО РАН.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763543105</data>
+      <data key="d6" />
+    </node>
+    <node id="выпускник">
+      <data key="d0">выпускник</data>
+      <data key="d3">chunk-62ad4fdd4fbc3f7a90e519ad9e0e46f2</data>
+      <data key="d2">Выпускники научных организаций находят работу в научных организациях.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763543117</data>
+      <data key="d6" />
+    </node>
+    <node id="научная организация">
+      <data key="d0">научная организация</data>
+      <data key="d3">chunk-62ad4fdd4fbc3f7a90e519ad9e0e46f2</data>
+      <data key="d2">Выпускники научных организаций находят работу в научных организациях.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763543128</data>
+      <data key="d6" />
+    </node>
+    <node id="исследовательская лаборатория">
+      <data key="d0">исследовательская лаборатория</data>
+      <data key="d3">chunk-62ad4fdd4fbc3f7a90e519ad9e0e46f2</data>
+      <data key="d2">Выпускники могут работать в исследовательских лабораториях после окончания учебы.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763543133</data>
+      <data key="d6" />
+    </node>
+    <node id="аналитическое подразделение">
+      <data key="d0">аналитическое подразделение</data>
+      <data key="d3">chunk-62ad4fdd4fbc3f7a90e519ad9e0e46f2</data>
+      <data key="d2">Выпускники работают в аналитических подразделениях после завершения образования.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763543154</data>
+      <data key="d6" />
+    </node>
+    <node id="Гуманитарный институт НГУ">
+      <data key="d0">Гуманитарный институт НГУ</data>
+      <data key="d1">organization</data>
+      <data key="d2">Гуманитарный институт НГУ охватывает широкий спектр гуманитарных дисциплин, включая историю, филологию, лингвистику, журналистику и другие области знаний.</data>
+      <data key="d3">chunk-46485aa8f930407871791b8e3c225998</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763543210</data>
+      <data key="d6" />
+    </node>
+    <node id="Филология">
+      <data key="d0">Филология</data>
+      <data key="d1">discipline</data>
+      <data key="d2">Программа по филологии входит в перечень направлений подготовки Гуманитарного института НГУ.</data>
+      <data key="d3">chunk-46485aa8f930407871791b8e3c225998</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763543212</data>
+      <data key="d6" />
+    </node>
+    <node id="Фундаментальная и прикладная лингвистика">
+      <data key="d0">Фундаментальная и прикладная лингвистика</data>
+      <data key="d1">discipline</data>
+      <data key="d2">Дисциплина фундаментальной и прикладной лингвистики включает изучение языка, когнитивистики, информатики и нейронауки.</data>
+      <data key="d3">chunk-46485aa8f930407871791b8e3c225998</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763543216</data>
+      <data key="d6" />
+    </node>
+    <node id="Востоковедение и африканистика">
+      <data key="d0">Востоковедение и африканистика</data>
+      <data key="d1">discipline</data>
+      <data key="d2">Охватывает востоковедение и африканистику как отдельные направления подготовки.</data>
+      <data key="d3">chunk-46485aa8f930407871791b8e3c225998</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763543218</data>
+      <data key="d6" />
+    </node>
+    <node id="Журналистика и современные медиатехнологии">
+      <data key="d0">Журналистика и современные медиатехнологии</data>
+      <data key="d1">discipline</data>
+      <data key="d2">Предлагает подготовку журналистов с акцентом на современные медиатехнологии.</data>
+      <data key="d3">chunk-46485aa8f930407871791b8e3c225998</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763543221</data>
+      <data key="d6" />
+    </node>
+    <node id="Творческий конкурс">
+      <data key="d0">Творческий конкурс</data>
+      <data key="d1">activity</data>
+      <data key="d2">Творческий конкурс предусмотрен для поступления на направление журналистики.</data>
+      <data key="d3">chunk-46485aa8f930407871791b8e3c225998</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763543233</data>
+      <data key="d6" />
+    </node>
+    <node id="лингвистика">
+      <data key="d0">лингвистика</data>
+      <data key="d1">concept</data>
+      <data key="d2">Лингвистика является частью междисциплинарных программ.</data>
+      <data key="d3">chunk-32c7596eb4e5f166095ea1b8b80c3de9</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763543236</data>
+      <data key="d6" />
+    </node>
+    <node id="математика/информатика">
+      <data key="d0">математика/информатика</data>
+      <data key="d1">content</data>
+      <data key="d2">Математика и информатика входят в состав междисциплинарных программ вместе с лингвистикой.</data>
+      <data key="d3">chunk-32c7596eb4e5f166095ea1b8b80c3de9</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763543240</data>
+      <data key="d6" />
+    </node>
+    <node id="когнитивистика">
+      <data key="d0">когнитивистика</data>
+      <data key="d1">concept</data>
+      <data key="d2">Когнитивистика также предлагается как часть междисциплинарных программ.</data>
+      <data key="d3">chunk-32c7596eb4e5f166095ea1b8b80c3de9</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763543242</data>
+      <data key="d6" />
+    </node>
+    <node id="журналистика">
+      <data key="d0">журналистика</data>
+      <data key="d1">field</data>
+      <data key="d2">Журналистика характеризуется внутренней формой вступительных испытаний.</data>
+      <data key="d3">chunk-32c7596eb4e5f166095ea1b8b80c3de9</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763543245</data>
+      <data key="d6" />
+    </node>
+    <node id="междисциплинарные программы">
+      <data key="d0">междисциплинарные программы</data>
+      <data key="d3">chunk-32c7596eb4e5f166095ea1b8b80c3de9</data>
+      <data key="d2">Лингвистика входит в состав междисциплинарных программ.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763543276</data>
+      <data key="d6" />
+    </node>
+    <node id="внутренняя форма вступительных испытаний">
+      <data key="d0">внутренняя форма вступительных испытаний</data>
+      <data key="d3">chunk-32c7596eb4e5f166095ea1b8b80c3de9</data>
+      <data key="d2">Для журналистики характерны внутренние формы вступительных испытаний.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763543288</data>
+      <data key="d6" />
+    </node>
+    <node id="исследовательская гуманитарная работа">
+      <data key="d0">исследовательская гуманитарная работа</data>
+      <data key="d3">chunk-32c7596eb4e5f166095ea1b8b80c3de9</data>
+      <data key="d2">Студенты могут участвовать в исследовательской гуманитарной работе.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763543291</data>
+      <data key="d6" />
+    </node>
+    <node id="студенты">
+      <data key="d0">студенты</data>
+      <data key="d3">chunk-32c7596eb4e5f166095ea1b8b80c3de9</data>
+      <data key="d2">Студенты могут участвовать в исследовательской гуманитарной работе.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763543297</data>
+      <data key="d6" />
+    </node>
+    <node id="конференции">
+      <data key="d0">конференции</data>
+      <data key="d3">chunk-32c7596eb4e5f166095ea1b8b80c3de9</data>
+      <data key="d2">Студенты участвуют в конференциях.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763543306</data>
       <data key="d6" />
     </node>
     <edge source="NSU" target="Academic City">
@@ -2256,6 +3201,24 @@
       <data key="d12">1763539503</data>
       <data key="d13" />
     </edge>
+    <edge source="НГУ" target="ИМПЗ">
+      <data key="d7">1.0</data>
+      <data key="d8">Институт медицины и психологии имени В. Зельмана является структурным подразделением Новосибирского государственного университета.</data>
+      <data key="d9">affiliation</data>
+      <data key="d10">chunk-31701c0391c5c80fb014bf4ec2c31618</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542643</data>
+      <data key="d13" />
+    </edge>
+    <edge source="НГУ" target="Факультет естественных наук (ФЕН)">
+      <data key="d7">1.0</data>
+      <data key="d8">Факультет естественных наук (ФЕН) является частью Новосибирского государственного университета.</data>
+      <data key="d9">faculty affiliation</data>
+      <data key="d10">chunk-3c2048cbd8ab15bf77f8ce857685327f</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542863</data>
+      <data key="d13" />
+    </edge>
     <edge source="Студентское Движение" target="Отряд «Синергия»">
       <data key="d7">1.0</data>
       <data key="d8">Отряд «Синергия» является частью студенческого движения.</data>
@@ -2553,6 +3516,15 @@
       <data key="d12">1763539724</data>
       <data key="d13" />
     </edge>
+    <edge source="Академгородок" target="Физический факультет НГУ">
+      <data key="d7">1.0</data>
+      <data key="d8">Физический факультет НГУ тесно интегрирован с научными институтами Академгородка.</data>
+      <data key="d9">integration,research collaboration</data>
+      <data key="d10">chunk-41b36f387ee21bd85d1d5642ee853719</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763543154</data>
+      <data key="d13" />
+    </edge>
     <edge source="МФ" target="organization">
       <data key="d7">1.0</data>
       <data key="d8">Неясно, какая организация или подразделение соответствует МФ.</data>
@@ -2560,6 +3532,780 @@
       <data key="d10">chunk-40c4dad280d9f13d93d64edb2d86f788</data>
       <data key="d11">unknown_source</data>
       <data key="d12">1763539696</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Факультет естественных наук (ФЕН)" target="Биология">
+      <data key="d7">1.0</data>
+      <data key="d8">Факультет естественных наук (ФЕН) предлагает программу бакалавриата и магистратуры по биологии.</data>
+      <data key="d9">academic program</data>
+      <data key="d10">chunk-3c2048cbd8ab15bf77f8ce857685327f</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542869</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Факультет естественных наук (ФЕН)" target="Биотехнологии">
+      <data key="d7">1.0</data>
+      <data key="d8">Факультет естественных наук (ФЕН) предоставляет образовательные программы по биотехнологиям.</data>
+      <data key="d9">academic program</data>
+      <data key="d10">chunk-3c2048cbd8ab15bf77f8ce857685327f</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542876</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Факультет естественных наук (ФЕН)" target="Химия">
+      <data key="d7">1.0</data>
+      <data key="d8">Факультет естественных наук (ФЕН) организует обучение по химии.</data>
+      <data key="d9">academic program</data>
+      <data key="d10">chunk-3c2048cbd8ab15bf77f8ce857685327f</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542878</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Факультет естественных наук (ФЕН)" target="Наноматериалы">
+      <data key="d7">1.0</data>
+      <data key="d8">В Факультете естественных наук (ФЕН) студенты изучают наноматериалы.</data>
+      <data key="d9">academic program</data>
+      <data key="d10">chunk-3c2048cbd8ab15bf77f8ce857685327f</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542881</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Факультет естественных наук (ФЕН)" target="Экология">
+      <data key="d7">1.0</data>
+      <data key="d8">Факультет естественных наук (ФЕН) проводит образовательную программу по экологии.</data>
+      <data key="d9">academic program</data>
+      <data key="d10">chunk-3c2048cbd8ab15bf77f8ce857685327f</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542885</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Факультет естественных наук (ФЕН)" target="Молекулярная биология">
+      <data key="d7">1.0</data>
+      <data key="d8">Факультет естественных наук (ФЕН) реализует курс по молекулярной биологии.</data>
+      <data key="d9">academic program</data>
+      <data key="d10">chunk-3c2048cbd8ab15bf77f8ce857685327f</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542887</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Геолого-геофизический факультет НГУ" target="специализация геофизика">
+      <data key="d7">1.0</data>
+      <data key="d8">Студенты Геолого-геофизического факультета НГУ могут изучать специализацию по геофизике.</data>
+      <data key="d9">education,specialization</data>
+      <data key="d10">chunk-688c0fd847257d42c90181b4478949e1</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542557</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Геолого-геофизический факультет НГУ" target="специализация геохимия">
+      <data key="d7">1.0</data>
+      <data key="d8">Студенты Геолого-геофизического факультета НГУ могут изучать специализацию по геохимии.</data>
+      <data key="d9">education,specialization</data>
+      <data key="d10">chunk-688c0fd847257d42c90181b4478949e1</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542560</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Геолого-геофизический факультет НГУ" target="специализация геология">
+      <data key="d7">1.0</data>
+      <data key="d8">Студенты Геолого-геофизического факультета НГУ могут изучать специализацию по геологии.</data>
+      <data key="d9">education,specialization</data>
+      <data key="d10">chunk-688c0fd847257d42c90181b4478949e1</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542563</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Геолого-геофизический факультет НГУ" target="специализация нефть и газ">
+      <data key="d7">1.0</data>
+      <data key="d8">Студенты Геолого-геофизического факультета НГУ могут изучать специализацию по нефти и газу.</data>
+      <data key="d9">education,specialization</data>
+      <data key="d10">chunk-688c0fd847257d42c90181b4478949e1</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542566</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Геолого-геофизический факультет НГУ" target="специализация геофизика в нефтепромысловом и горном деле">
+      <data key="d7">1.0</data>
+      <data key="d8">Студенты Геолого-геофизического факультета НГУ могут изучать специализацию по геофизике в нефтепромысловом и горном деле.</data>
+      <data key="d9">education,specialization</data>
+      <data key="d10">chunk-688c0fd847257d42c90181b4478949e1</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542569</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Геолого-геофизический факультет НГУ" target="ЕГЭ">
+      <data key="d7">1.0</data>
+      <data key="d8">Для поступления на Геолого-геофизический факультет НГУ требуется сдать Единый государственный экзамен.</data>
+      <data key="d9">education,entrance_exam</data>
+      <data key="d10">chunk-688c0fd847257d42c90181b4478949e1</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542572</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Геолого-геофизический факультет НГУ" target="проходной балл Геология бакалавриат разные профили">
+      <data key="d7">1.0</data>
+      <data key="d8">Проходной балл для направления «Геология» в бакалавриате на Геолого-геофизическом факультете НГУ составляет 222 балла (бюджет).</data>
+      <data key="d9">admission_score,admissions</data>
+      <data key="d10">chunk-688c0fd847257d42c90181b4478949e1</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542576</data>
+      <data key="d13" />
+    </edge>
+    <edge source="ЕГЭ" target="Физический факультет НГУ">
+      <data key="d7">1.0</data>
+      <data key="d8">Для поступления на физический факультет НГУ требуется успешно сдать Единый государственный экзамен.</data>
+      <data key="d9">admission requirement,entrance exam</data>
+      <data key="d10">chunk-41b36f387ee21bd85d1d5642ee853719</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763543166</data>
+      <data key="d13" />
+    </edge>
+    <edge source="ЕГЭ" target="Русский язык">
+      <data key="d7">1.0</data>
+      <data key="d8">Русский язык является одним из обязательных предметов Единого государственного экзамена для поступления на физический факультет НГУ.</data>
+      <data key="d9">exam component,required subject</data>
+      <data key="d10">chunk-41b36f387ee21bd85d1d5642ee853719</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763543169</data>
+      <data key="d13" />
+    </edge>
+    <edge source="ЕГЭ" target="Математика (профильная)">
+      <data key="d7">1.0</data>
+      <data key="d8">Профильная математика является одним из обязательных предметов Единого государственного экзамена для поступления на физический факультет НГУ.</data>
+      <data key="d9">exam component,required subject</data>
+      <data key="d10">chunk-41b36f387ee21bd85d1d5642ee853719</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763543172</data>
+      <data key="d13" />
+    </edge>
+    <edge source="ЕГЭ" target="Физика">
+      <data key="d7">1.0</data>
+      <data key="d8">Физика является одним из обязательных предметов Единого государственного экзамена для поступления на физический факультет НГУ.</data>
+      <data key="d9">exam component,required subject</data>
+      <data key="d10">chunk-41b36f387ee21bd85d1d5642ee853719</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763543176</data>
+      <data key="d13" />
+    </edge>
+    <edge source="ЕГЭ" target="Информатика">
+      <data key="d7">1.0</data>
+      <data key="d8">Информатика может быть выбранным предметом Единого государственного экзамена для поступления на некоторые профили физического факультета НГУ.</data>
+      <data key="d9">optional exam component,optional subject</data>
+      <data key="d10">chunk-41b36f387ee21bd85d1d5642ee853719</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763543179</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Табитюрин" target="проходные баллы">
+      <data key="d7">1.0</data>
+      <data key="d8">Источник Табитюрин предоставляет информацию о проходных баллах на технические программы.</data>
+      <data key="d9">data-source-passing-scores</data>
+      <data key="d10">chunk-00319a41a425f6d6ec4233df0775ae96</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542976</data>
+      <data key="d13" />
+    </edge>
+    <edge source="психическое здоровье" target="организационные модели">
+      <data key="d7">1.0</data>
+      <data key="d8">Исследования психического здоровья используют организационные модели для улучшения клинической практики.</data>
+      <data key="d9">practice application,research focus</data>
+      <data key="d10">chunk-d31291ed3714cbfcb940521fe0faf0b6</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542637</data>
+      <data key="d13" />
+    </edge>
+    <edge source="психическое здоровье" target="клиническая практика">
+      <data key="d7">1.0</data>
+      <data key="d8">Исследование психического здоровья направлено на улучшение клинической практики и качества медицинского обслуживания.</data>
+      <data key="d9">healthcare delivery,research outcomes</data>
+      <data key="d10">chunk-d31291ed3714cbfcb940521fe0faf0b6</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542639</data>
+      <data key="d13" />
+    </edge>
+    <edge source="организационные модели" target="клиническая практика">
+      <data key="d7">1.0</data>
+      <data key="d8">Организационные модели применяются для оптимизации клинической практики и повышения эффективности здравоохранения.</data>
+      <data key="d9">healthcare improvement,management strategies</data>
+      <data key="d10">chunk-d31291ed3714cbfcb940521fe0faf0b6</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542643</data>
+      <data key="d13" />
+    </edge>
+    <edge source="ИМПЗ" target="лечебное дело">
+      <data key="d7">1.0</data>
+      <data key="d8">Программа подготовки специалистов по лечебному делу осуществляется в Институте медицины и психологии имени В. Зельмана.</data>
+      <data key="d9">program</data>
+      <data key="d10">chunk-31701c0391c5c80fb014bf4ec2c31618</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542649</data>
+      <data key="d13" />
+    </edge>
+    <edge source="ИМПЗ" target="психология">
+      <data key="d7">1.0</data>
+      <data key="d8">Бакалаврская программа по психологии реализуется в Институте медицины и психологии имени В. Зельмана.</data>
+      <data key="d9">program</data>
+      <data key="d10">chunk-31701c0391c5c80fb014bf4ec2c31618</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542652</data>
+      <data key="d13" />
+    </edge>
+    <edge source="ИМПЗ" target="русский язык">
+      <data key="d7">1.0</data>
+      <data key="d8">Русский язык входит в перечень вступительных экзаменов для поступления на программы Института медицины и психологии имени В. Зельмана.</data>
+      <data key="d9">entrance exam</data>
+      <data key="d10">chunk-31701c0391c5c80fb014bf4ec2c31618</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542654</data>
+      <data key="d13" />
+    </edge>
+    <edge source="ИМПЗ" target="химия">
+      <data key="d7">1.0</data>
+      <data key="d8">Химия является одним из вступительных экзаменов для медицинских программ Института медицины и психологии имени В. Зельмана.</data>
+      <data key="d9">entrance exam</data>
+      <data key="d10">chunk-31701c0391c5c80fb014bf4ec2c31618</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542658</data>
+      <data key="d13" />
+    </edge>
+    <edge source="ИМПЗ" target="биология">
+      <data key="d7">1.0</data>
+      <data key="d8">Биология включена в список вступительных экзаменов для медицинских и психологических программ Института медицины и психологии имени В. Зельмана.</data>
+      <data key="d9">entrance exam</data>
+      <data key="d10">chunk-31701c0391c5c80fb014bf4ec2c31618</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542660</data>
+      <data key="d13" />
+    </edge>
+    <edge source="ИМПЗ" target="обществознание">
+      <data key="d7">1.0</data>
+      <data key="d8">Обществознание является вступительным экзаменом для студентов, поступающих на программу бакалавриата по психологии в Институте медицины и психологии имени В. Зельмана.</data>
+      <data key="d9">entrance exam</data>
+      <data key="d10">chunk-31701c0391c5c80fb014bf4ec2c31618</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542664</data>
+      <data key="d13" />
+    </edge>
+    <edge source="ИМПЗ" target="проходные баллы">
+      <data key="d7">1.0</data>
+      <data key="d8">Информация о проходных баллах доступна на ресурсе Tabiturient и относится к программам Института медицины и психологии имени В. Зельмана.</data>
+      <data key="d9">admission data</data>
+      <data key="d10">chunk-31701c0391c5c80fb014bf4ec2c31618</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542666</data>
+      <data key="d13" />
+    </edge>
+    <edge source="проходные баллы" target="ЕГЭ по математике">
+      <data key="d7">1.0</data>
+      <data key="d8">ЕГЭ по математике является обязательным экзаменом для оценки проходных баллов на технические программы.</data>
+      <data key="d9">exam-scoring</data>
+      <data key="d10">chunk-00319a41a425f6d6ec4233df0775ae96</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542961</data>
+      <data key="d13" />
+    </edge>
+    <edge source="проходные баллы" target="Физика">
+      <data key="d7">1.0</data>
+      <data key="d8">Физика является возможным предметом экзамена для оценки проходных баллов на технические программы.</data>
+      <data key="d9">exam-scoring</data>
+      <data key="d10">chunk-00319a41a425f6d6ec4233df0775ae96</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542967</data>
+      <data key="d13" />
+    </edge>
+    <edge source="проходные баллы" target="Информатика / ИКТ">
+      <data key="d7">1.0</data>
+      <data key="d8">Информатика / ИКТ является возможным предметом экзамена для оценки проходных баллов на технические программы.</data>
+      <data key="d9">exam-scoring</data>
+      <data key="d10">chunk-00319a41a425f6d6ec4233df0775ae96</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542970</data>
+      <data key="d13" />
+    </edge>
+    <edge source="проходные баллы" target="Русский язык">
+      <data key="d7">1.0</data>
+      <data key="d8">Русский язык является обязательным экзаменом для оценки проходных баллов на технические программы.</data>
+      <data key="d9">exam-scoring</data>
+      <data key="d10">chunk-00319a41a425f6d6ec4233df0775ae96</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542973</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Институт философии и права НГУ" target="Философия">
+      <data key="d7">1.0</data>
+      <data key="d8">Институт философии и права НГУ предлагает образовательную программу по философии.</data>
+      <data key="d9">discipline,education</data>
+      <data key="d10">chunk-28bc70cf65a5203fe96b88628708441b</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542750</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Институт философии и права НГУ" target="Юриспруденция">
+      <data key="d7">1.0</data>
+      <data key="d8">Институт философии и права НГУ предлагает образовательную программу по юриспруденции.</data>
+      <data key="d9">discipline,education</data>
+      <data key="d10">chunk-28bc70cf65a5203fe96b88628708441b</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542753</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Институт философии и права НГУ" target="Русский язык">
+      <data key="d7">1.0</data>
+      <data key="d8">Русский язык является обязательным предметом вступительного экзамена в Институт философии и права НГУ.</data>
+      <data key="d9">entrance exam,requirement</data>
+      <data key="d10">chunk-28bc70cf65a5203fe96b88628708441b</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542756</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Институт философии и права НГУ" target="Информатика/ИКТ">
+      <data key="d7">1.0</data>
+      <data key="d8">Информатика/ИКТ может быть одним из предметов вступительного экзамена в Институт философии и права НГУ.</data>
+      <data key="d9">entrance exam,requirement</data>
+      <data key="d10">chunk-28bc70cf65a5203fe96b88628708441b</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542759</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Институт философии и права НГУ" target="История">
+      <data key="d7">1.0</data>
+      <data key="d8">История может быть одним из предметов вступительного экзамена в Институт философии и права НГУ.</data>
+      <data key="d9">entrance exam,requirement</data>
+      <data key="d10">chunk-28bc70cf65a5203fe96b88628708441b</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542762</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Институт философии и права НГУ" target="Обществознание">
+      <data key="d7">1.0</data>
+      <data key="d8">Обществознание является обязательным предметом вступительного экзамена в Институт философии и права НГУ.</data>
+      <data key="d9">entrance exam,requirement</data>
+      <data key="d10">chunk-28bc70cf65a5203fe96b88628708441b</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542765</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Институт философии и права НГУ" target="Иностранный язык">
+      <data key="d7">1.0</data>
+      <data key="d8">Иностранный язык может быть одним из предметов вступительного экзамена в Институт философии и права НГУ.</data>
+      <data key="d9">entrance exam,requirement</data>
+      <data key="d10">chunk-28bc70cf65a5203fe96b88628708441b</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542768</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Институт философии и права НГУ" target="Таблицы проходных баллов">
+      <data key="d7">1.0</data>
+      <data key="d8">Информация о проходных баллах предоставляется Табитуриентом для Института философии и права НГУ.</data>
+      <data key="d9">admission data,statistics</data>
+      <data key="d10">chunk-28bc70cf65a5203fe96b88628708441b</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542778</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Институт философии и права НГУ" target="47.03.01 - философия">
+      <data key="d7">1.0</data>
+      <data key="d8">Код и название программы философии указаны для Института философии и права НГУ.</data>
+      <data key="d9">education,program code</data>
+      <data key="d10">chunk-28bc70cf65a5203fe96b88628708441b</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542781</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Русский язык" target="Гуманитарный институт НГУ">
+      <data key="d7">1.0</data>
+      <data key="d8">Русский язык является обязательным предметом для поступления во многие направления подготовки Гуманитарного института НГУ.</data>
+      <data key="d9">required-for-admission</data>
+      <data key="d10">chunk-46485aa8f930407871791b8e3c225998</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763543267</data>
+      <data key="d13" />
+    </edge>
+    <edge source="История" target="Гуманитарный институт НГУ">
+      <data key="d7">1.0</data>
+      <data key="d8">Гуманитарный институт НГУ предлагает обучение по направлению истории.</data>
+      <data key="d9">institution-offering-program</data>
+      <data key="d10">chunk-46485aa8f930407871791b8e3c225998</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763543251</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Обществознание" target="Гуманитарный институт НГУ">
+      <data key="d7">1.0</data>
+      <data key="d8">Обществознание может выступать в роли одного из профильных предметов при поступлении на некоторые направления.</data>
+      <data key="d9">optional-for-admission</data>
+      <data key="d10">chunk-46485aa8f930407871791b8e3c225998</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763543270</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Иностранный язык" target="Гуманитарный институт НГУ">
+      <data key="d7">1.0</data>
+      <data key="d8">Иностранный язык может быть выбран в качестве профильного экзамена при поступлении на определенные направления.</data>
+      <data key="d9">optional-for-admission</data>
+      <data key="d10">chunk-46485aa8f930407871791b8e3c225998</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763543273</data>
+      <data key="d13" />
+    </edge>
+    <edge source="философские тексты" target="развитие навыков">
+      <data key="d7">1.0</data>
+      <data key="d8">Изучение философских текстов способствует развитию навыков аргументации и критического анализа.</data>
+      <data key="d9">learning,skill development</data>
+      <data key="d10">chunk-4c4044d3c14949df01a3373e809e35f1</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542792</data>
+      <data key="d13" />
+    </edge>
+    <edge source="современные концепции" target="развитие навыков">
+      <data key="d7">1.0</data>
+      <data key="d8">Изучения современных концепций дополняет процесс развития навыков аргументации и критического анализа.</data>
+      <data key="d9">learning,skill development</data>
+      <data key="d10">chunk-4c4044d3c14949df01a3373e809e35f1</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542794</data>
+      <data key="d13" />
+    </edge>
+    <edge source="юридическая программа" target="фундаментальная подготовка">
+      <data key="d7">1.0</data>
+      <data key="d8">Фундаментальная подготовка является частью юридической программы.</data>
+      <data key="d9">education,training</data>
+      <data key="d10">chunk-4c4044d3c14949df01a3373e809e35f1</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542794</data>
+      <data key="d13" />
+    </edge>
+    <edge source="юридическая программа" target="практические юридические навыки">
+      <data key="d7">1.0</data>
+      <data key="d8">Юридическая программа направлена на развитие практических юридических навыков наряду с теоретической подготовкой.</data>
+      <data key="d9">skills development,training</data>
+      <data key="d10">chunk-4c4044d3c14949df01a3373e809e35f1</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542800</data>
+      <data key="d13" />
+    </edge>
+    <edge source="исследовательские проекты" target="знания углубление">
+      <data key="d7">1.0</data>
+      <data key="d8">Исследовательские проекты способствуют углублению знаний по философии, этике и праву.</data>
+      <data key="d9">knowledge enhancement,research</data>
+      <data key="d10">chunk-4c4044d3c14949df01a3373e809e35f1</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542806</data>
+      <data key="d13" />
+    </edge>
+    <edge source="международные программы обмена" target="рост профессиональный">
+      <data key="d7">1.0</data>
+      <data key="d8">Участие в международных программах обмена способствует профессиональному росту студентов.</data>
+      <data key="d9">exchange,professional growth</data>
+      <data key="d10">chunk-4c4044d3c14949df01a3373e809e35f1</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542814</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Фен" target="работа">
+      <data key="d7">1.0</data>
+      <data key="d8">Возможность работы в биотехнологических компаниях связана с упоминанием Фена.</data>
+      <data key="d9">биотехнологии,трудоустройство</data>
+      <data key="d10">chunk-845bc0163713ed9dd04f99f1bf1a978a</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542866</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Институт интеллектуальной робототехники НГУ" target="программа Мехатроника и робототехника. Искусственный интеллект">
+      <data key="d7">1.0</data>
+      <data key="d8">Институт интеллектуальной робототехники НГУ предлагает программу "Мехатроника и робототехника. Искусственный интеллект".</data>
+      <data key="d9">educational institution-program</data>
+      <data key="d10">chunk-00319a41a425f6d6ec4233df0775ae96</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542952</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Институт интеллектуальной робототехники НГУ" target="программа Прикладной искусственный интеллект">
+      <data key="d7">1.0</data>
+      <data key="d8">Институт интеллектуальной робототехники НГУ связан с программой "Прикладной искусственный интеллект" через инженерную школу.</data>
+      <data key="d9">educational institution-program</data>
+      <data key="d10">chunk-00319a41a425f6d6ec4233df0775ae96</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542958</data>
+      <data key="d13" />
+    </edge>
+    <edge source="научные лаборатории" target="высокие технологии">
+      <data key="d7">1.0</data>
+      <data key="d8">Научные лаборатории связаны с высокими технологиями как сферой возможного трудоустройства.</data>
+      <data key="d9">связь,тематическая</data>
+      <data key="d10">chunk-b6fa5d3637fe3cef882531bd33600d83</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542976</data>
+      <data key="d13" />
+    </edge>
+    <edge source="научные лаборатории" target="робототехника">
+      <data key="d7">1.0</data>
+      <data key="d8">Научные лаборатории имеют связь с робототехникой через исследования и разработки.</data>
+      <data key="d9">связь,тематическая</data>
+      <data key="d10">chunk-b6fa5d3637fe3cef882531bd33600d83</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542982</data>
+      <data key="d13" />
+    </edge>
+    <edge source="высокие технологии" target="ИИ">
+      <data key="d7">1.0</data>
+      <data key="d8">Тематически высокие технологии и искусственный интеллект взаимосвязаны.</data>
+      <data key="d9">связь,тематическая</data>
+      <data key="d10">chunk-b6fa5d3637fe3cef882531bd33600d83</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542982</data>
+      <data key="d13" />
+    </edge>
+    <edge source="робототехника" target="ИИ">
+      <data key="d7">1.0</data>
+      <data key="d8">Робототехника и искусственный интеллект также находятся в тематической связи.</data>
+      <data key="d9">связь,тематическая</data>
+      <data key="d10">chunk-b6fa5d3637fe3cef882531bd33600d83</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763542988</data>
+      <data key="d13" />
+    </edge>
+    <edge source="сильная исследовательская составляющая" target="лабораторные исследования">
+      <data key="d7">1.0</data>
+      <data key="d8">Сильная исследовательская составляющая включает лабораторные исследования в образовательный процесс.</data>
+      <data key="d9">education,research activity</data>
+      <data key="d10">chunk-62ad4fdd4fbc3f7a90e519ad9e0e46f2</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763543096</data>
+      <data key="d13" />
+    </edge>
+    <edge source="сильная исследовательская составляющая" target="семинары">
+      <data key="d7">1.0</data>
+      <data key="d8">Сильная исследовательская составляющая предполагает проведение семинаров в рамках учебного процесса.</data>
+      <data key="d9">educational activity,research</data>
+      <data key="d10">chunk-62ad4fdd4fbc3f7a90e519ad9e0e46f2</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763543099</data>
+      <data key="d13" />
+    </edge>
+    <edge source="сильная исследовательская составляющая" target="проекты">
+      <data key="d7">1.0</data>
+      <data key="d8">Сильная исследовательская составляющая подразумевает выполнение проектов совместно с институтами СО РАН.</data>
+      <data key="d9">project work,research collaboration</data>
+      <data key="d10">chunk-62ad4fdd4fbc3f7a90e519ad9e0e46f2</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763543102</data>
+      <data key="d13" />
+    </edge>
+    <edge source="лабораторные исследования" target="лаборатория института СО РАН">
+      <data key="d7">1.0</data>
+      <data key="d8">Лабораторные исследования проводятся в лабораториях институтов СО РАН.</data>
+      <data key="d9">educational activity,laboratory usage</data>
+      <data key="d10">chunk-62ad4fdd4fbc3f7a90e519ad9e0e46f2</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763543109</data>
+      <data key="d13" />
+    </edge>
+    <edge source="проекты" target="студенты">
+      <data key="d7">1.0</data>
+      <data key="d8">Студенты принимают участие в проектах.</data>
+      <data key="d9">participation,work</data>
+      <data key="d10">chunk-32c7596eb4e5f166095ea1b8b80c3de9</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763543320</data>
+      <data key="d13" />
+    </edge>
+    <edge source="лабораторная практика" target="установка института СО РАН">
+      <data key="d7">1.0</data>
+      <data key="d8">Лабораторная практика осуществляется на установках институтов СО РАН.</data>
+      <data key="d9">laboratory facility,practice</data>
+      <data key="d10">chunk-62ad4fdd4fbc3f7a90e519ad9e0e46f2</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763543111</data>
+      <data key="d13" />
+    </edge>
+    <edge source="экспериментальная практика" target="установка института СО РАН">
+      <data key="d7">1.0</data>
+      <data key="d8">Экспериментальная практика проводится на установках институтов СО РАН.</data>
+      <data key="d9">experimentation,practice</data>
+      <data key="d10">chunk-62ad4fdd4fbc3f7a90e519ad9e0e46f2</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763543117</data>
+      <data key="d13" />
+    </edge>
+    <edge source="приборостроение" target="выпускник">
+      <data key="d7">1.0</data>
+      <data key="d8">Выпускники устраиваются в приборостроительную отрасль после завершения обучения.</data>
+      <data key="d9">employment opportunity,graduate</data>
+      <data key="d10">chunk-62ad4fdd4fbc3f7a90e519ad9e0e46f2</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763543139</data>
+      <data key="d13" />
+    </edge>
+    <edge source="опто- и электроника" target="выпускник">
+      <data key="d7">1.0</data>
+      <data key="d8">Выпускники работают в области опто- и электроники после получения диплома.</data>
+      <data key="d9">employment opportunity,graduate</data>
+      <data key="d10">chunk-62ad4fdd4fbc3f7a90e519ad9e0e46f2</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763543142</data>
+      <data key="d13" />
+    </edge>
+    <edge source="аэрокосмическая отрасль" target="выпускник">
+      <data key="d7">1.0</data>
+      <data key="d8">Выпускники трудоустраиваются в аэрокосмической отрасли после окончания университета.</data>
+      <data key="d9">employment opportunity,graduate</data>
+      <data key="d10">chunk-62ad4fdd4fbc3f7a90e519ad9e0e46f2</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763543145</data>
+      <data key="d13" />
+    </edge>
+    <edge source="энергетическая отрасль" target="выпускник">
+      <data key="d7">1.0</data>
+      <data key="d8">Выпускники находят работу в энергетической отрасли после завершения учебы.</data>
+      <data key="d9">employment opportunity,graduate</data>
+      <data key="d10">chunk-62ad4fdd4fbc3f7a90e519ad9e0e46f2</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763543148</data>
+      <data key="d13" />
+    </edge>
+    <edge source="ИТ-отрасль" target="выпускник">
+      <data key="d7">1.0</data>
+      <data key="d8">Выпускники устраиваются в информационные технологии после окончания вуза.</data>
+      <data key="d9">employment opportunity,graduate</data>
+      <data key="d10">chunk-62ad4fdd4fbc3f7a90e519ad9e0e46f2</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763543152</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Физический факультет НГУ" target="СО РАН">
+      <data key="d7">1.0</data>
+      <data key="d8">Физический факультет НГУ сотрудничает с Сибирским отделением Российской академии наук в исследовательской деятельности.</data>
+      <data key="d9">academic partnership,research cooperation</data>
+      <data key="d10">chunk-41b36f387ee21bd85d1d5642ee853719</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763543160</data>
+      <data key="d13" />
+    </edge>
+    <edge source="выпускник" target="научная организация">
+      <data key="d7">1.0</data>
+      <data key="d8">Выпускники научных организаций находят работу в научных организациях.</data>
+      <data key="d9">employment opportunity,graduate</data>
+      <data key="d10">chunk-62ad4fdd4fbc3f7a90e519ad9e0e46f2</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763543130</data>
+      <data key="d13" />
+    </edge>
+    <edge source="выпускник" target="исследовательская лаборатория">
+      <data key="d7">1.0</data>
+      <data key="d8">Выпускники могут работать в исследовательских лабораториях после окончания учебы.</data>
+      <data key="d9">employment opportunity,graduate</data>
+      <data key="d10">chunk-62ad4fdd4fbc3f7a90e519ad9e0e46f2</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763543137</data>
+      <data key="d13" />
+    </edge>
+    <edge source="выпускник" target="аналитическое подразделение">
+      <data key="d7">1.0</data>
+      <data key="d8">Выпускники работают в аналитических подразделениях после завершения образования.</data>
+      <data key="d9">employment opportunity,graduate</data>
+      <data key="d10">chunk-62ad4fdd4fbc3f7a90e519ad9e0e46f2</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763543157</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Гуманитарный институт НГУ" target="Филология">
+      <data key="d7">1.0</data>
+      <data key="d8">Гуманитарный институт НГУ предлагает программу обучения по филологии.</data>
+      <data key="d9">institution-offering-program</data>
+      <data key="d10">chunk-46485aa8f930407871791b8e3c225998</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763543254</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Гуманитарный институт НГУ" target="Фундаментальная и прикладная лингвистика">
+      <data key="d7">1.0</data>
+      <data key="d8">Институт предлагает обучение по программе фундаментальной и прикладной лингвистики.</data>
+      <data key="d9">institution-offering-program</data>
+      <data key="d10">chunk-46485aa8f930407871791b8e3c225998</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763543257</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Гуманитарный институт НГУ" target="Востоковедение и африканистика">
+      <data key="d7">1.0</data>
+      <data key="d8">Обучение по востоковедению и африканистике осуществляется в рамках Гуманитарного института НГУ.</data>
+      <data key="d9">institution-offering-program</data>
+      <data key="d10">chunk-46485aa8f930407871791b8e3c225998</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763543261</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Гуманитарный институт НГУ" target="Журналистика и современные медиатехнологии">
+      <data key="d7">1.0</data>
+      <data key="d8">Гуманитарный институт НГУ предоставляет возможность получить образование по специальности журналистика и современные медиатехнологии.</data>
+      <data key="d9">institution-offering-program</data>
+      <data key="d10">chunk-46485aa8f930407871791b8e3c225998</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763543264</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Гуманитарный институт НГУ" target="Творческий конкурс">
+      <data key="d7">1.0</data>
+      <data key="d8">Творческий конкурс является обязательным элементом вступительных испытаний для направления журналистика.</data>
+      <data key="d9">admission-requirement</data>
+      <data key="d10">chunk-46485aa8f930407871791b8e3c225998</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763543276</data>
+      <data key="d13" />
+    </edge>
+    <edge source="лингвистика" target="междисциплинарные программы">
+      <data key="d7">1.0</data>
+      <data key="d8">Лингвистика входит в состав междисциплинарных программ.</data>
+      <data key="d9">academic disciplines,программы composition</data>
+      <data key="d10">chunk-32c7596eb4e5f166095ea1b8b80c3de9</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763543282</data>
+      <data key="d13" />
+    </edge>
+    <edge source="математика/информатика" target="междисциплинарные программы">
+      <data key="d7">1.0</data>
+      <data key="d8">Математика и информатика включены в междисциплинарные программы.</data>
+      <data key="d9">academic disciplines,программы composition</data>
+      <data key="d10">chunk-32c7596eb4e5f166095ea1b8b80c3de9</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763543285</data>
+      <data key="d13" />
+    </edge>
+    <edge source="когнитивистика" target="междисциплинарные программы">
+      <data key="d7">1.0</data>
+      <data key="d8">Когнитивистика предлагается как часть междисциплинарных программ.</data>
+      <data key="d9">academic disciplines,программы composition</data>
+      <data key="d10">chunk-32c7596eb4e5f166095ea1b8b80c3de9</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763543288</data>
+      <data key="d13" />
+    </edge>
+    <edge source="журналистика" target="внутренняя форма вступительных испытаний">
+      <data key="d7">1.0</data>
+      <data key="d8">Для журналистики характерны внутренние формы вступительных испытаний.</data>
+      <data key="d9">entrance exams,tests</data>
+      <data key="d10">chunk-32c7596eb4e5f166095ea1b8b80c3de9</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763543294</data>
+      <data key="d13" />
+    </edge>
+    <edge source="исследовательская гуманитарная работа" target="студенты">
+      <data key="d7">1.0</data>
+      <data key="d8">Студенты могут участвовать в исследовательской гуманитарной работе.</data>
+      <data key="d9">participation,research projects</data>
+      <data key="d10">chunk-32c7596eb4e5f166095ea1b8b80c3de9</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763543303</data>
+      <data key="d13" />
+    </edge>
+    <edge source="студенты" target="конференции">
+      <data key="d7">1.0</data>
+      <data key="d8">Студенты участвуют в конференциях.</data>
+      <data key="d9">events,participation</data>
+      <data key="d10">chunk-32c7596eb4e5f166095ea1b8b80c3de9</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763543309</data>
       <data key="d13" />
     </edge>
   </graph>
