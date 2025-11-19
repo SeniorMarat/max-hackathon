@@ -938,5 +938,480 @@
     "create_time": 1763193801,
     "update_time": 1763193801,
     "_id": "Analytics"
+  },
+  "Future Professional NSU": {
+    "chunk_ids": [
+      "chunk-e2ced4912d75885cf341fcdfd11a122e",
+      "chunk-d6781e5c3865e757f2db65d0434d0315"
+    ],
+    "count": 2,
+    "create_time": 1763539410,
+    "update_time": 1763539410,
+    "_id": "Future Professional NSU"
+  },
+  "SMBA": {
+    "chunk_ids": [
+      "chunk-e2ced4912d75885cf341fcdfd11a122e"
+    ],
+    "count": 1,
+    "create_time": 1763539410,
+    "update_time": 1763539410,
+    "_id": "SMBA"
+  },
+  "Международный студенческий клуб": {
+    "chunk_ids": [
+      "chunk-e2ced4912d75885cf341fcdfd11a122e"
+    ],
+    "count": 1,
+    "create_time": 1763539413,
+    "update_time": 1763539413,
+    "_id": "Международный студенческий клуб"
+  },
+  "НГУ": {
+    "chunk_ids": [
+      "chunk-e2ced4912d75885cf341fcdfd11a122e"
+    ],
+    "count": 1,
+    "create_time": 1763539416,
+    "update_time": 1763539416,
+    "_id": "НГУ"
+  },
+  "«Научный пикник»": {
+    "chunk_ids": [
+      "chunk-e2ced4912d75885cf341fcdfd11a122e"
+    ],
+    "count": 1,
+    "create_time": 1763539419,
+    "update_time": 1763539419,
+    "_id": "«Научный пикник»"
+  },
+  "волонтерство": {
+    "chunk_ids": [
+      "chunk-e2ced4912d75885cf341fcdfd11a122e"
+    ],
+    "count": 1,
+    "create_time": 1763539422,
+    "update_time": 1763539422,
+    "_id": "волонтерство"
+  },
+  "студенческие движения": {
+    "chunk_ids": [
+      "chunk-e2ced4912d75885cf341fcdfd11a122e"
+    ],
+    "count": 1,
+    "create_time": 1763539425,
+    "update_time": 1763539425,
+    "_id": "студенческие движения"
+  },
+  "стартап-студия": {
+    "chunk_ids": [
+      "chunk-e2ced4912d75885cf341fcdfd11a122e"
+    ],
+    "count": 1,
+    "create_time": 1763539428,
+    "update_time": 1763539428,
+    "_id": "стартап-студия"
+  },
+  "клубы 1960-х годов": {
+    "chunk_ids": [
+      "chunk-e2ced4912d75885cf341fcdfd11a122e"
+    ],
+    "count": 1,
+    "create_time": 1763539431,
+    "update_time": 1763539431,
+    "_id": "клубы 1960-х годов"
+  },
+  "Студентское Движение": {
+    "chunk_ids": [
+      "chunk-d6781e5c3865e757f2db65d0434d0315"
+    ],
+    "count": 1,
+    "create_time": 1763539434,
+    "update_time": 1763539434,
+    "_id": "Студентское Движение"
+  },
+  "Отряд «Синергия»": {
+    "chunk_ids": [
+      "chunk-d6781e5c3865e757f2db65d0434d0315",
+      "chunk-07d1fb64c3ee5a648dad5f619523b0ca"
+    ],
+    "count": 2,
+    "create_time": 1763539437,
+    "update_time": 1763539437,
+    "_id": "Отряд «Синергия»"
+  },
+  "Отряд «Синтез»": {
+    "chunk_ids": [
+      "chunk-d6781e5c3865e757f2db65d0434d0315",
+      "chunk-07d1fb64c3ee5a648dad5f619523b0ca"
+    ],
+    "count": 2,
+    "create_time": 1763539440,
+    "update_time": 1763539440,
+    "_id": "Отряд «Синтез»"
+  },
+  "Строительный Отряд «Золотое Сечение» им. Б.В. Войцеховского": {
+    "chunk_ids": [
+      "chunk-d6781e5c3865e757f2db65d0434d0315"
+    ],
+    "count": 1,
+    "create_time": 1763539443,
+    "update_time": 1763539443,
+    "_id": "Строительный Отряд «Золотое Сечение» им. Б.В. Войцеховского"
+  },
+  "Штаб студенческих отрядов НГУ": {
+    "chunk_ids": [
+      "chunk-d6781e5c3865e757f2db65d0434d0315"
+    ],
+    "count": 1,
+    "create_time": 1763539446,
+    "update_time": 1763539446,
+    "_id": "Штаб студенческих отрядов НГУ"
+  },
+  "SMBA (Student to Master of Business Administration)": {
+    "chunk_ids": [
+      "chunk-d6781e5c3865e757f2db65d0434d0315"
+    ],
+    "count": 1,
+    "create_time": 1763539449,
+    "update_time": 1763539449,
+    "_id": "SMBA (Student to Master of Business Administration)"
+  },
+  "Case Club NSU": {
+    "chunk_ids": [
+      "chunk-d6781e5c3865e757f2db65d0434d0315"
+    ],
+    "count": 1,
+    "create_time": 1763539452,
+    "update_time": 1763539452,
+    "_id": "Case Club NSU"
+  },
+  "Financial Club NSU": {
+    "chunk_ids": [
+      "chunk-d6781e5c3865e757f2db65d0434d0315"
+    ],
+    "count": 1,
+    "create_time": 1763539455,
+    "update_time": 1763539455,
+    "_id": "Financial Club NSU"
+  },
+  "дух студенчества": {
+    "chunk_ids": [
+      "chunk-c6fecf6389cdf3166e89adb484dae3b6"
+    ],
+    "count": 1,
+    "create_time": 1763539458,
+    "update_time": 1763539458,
+    "_id": "дух студенчества"
+  },
+  "интеллектуальная свобода": {
+    "chunk_ids": [
+      "chunk-c6fecf6389cdf3166e89adb484dae3b6"
+    ],
+    "count": 1,
+    "create_time": 1763539461,
+    "update_time": 1763539461,
+    "_id": "интеллектуальная свобода"
+  },
+  "стремление к самоорганизации": {
+    "chunk_ids": [
+      "chunk-c6fecf6389cdf3166e89adb484dae3b6"
+    ],
+    "count": 1,
+    "create_time": 1763539464,
+    "update_time": 1763539464,
+    "_id": "стремление к самоорганизации"
+  },
+  "Клуб «Квант»": {
+    "chunk_ids": [
+      "chunk-07d1fb64c3ee5a648dad5f619523b0ca"
+    ],
+    "count": 1,
+    "create_time": 1763539467,
+    "update_time": 1763539467,
+    "_id": "Клуб «Квант»"
+  },
+  "Леонид Шлес": {
+    "chunk_ids": [
+      "chunk-07d1fb64c3ee5a648dad5f619523b0ca"
+    ],
+    "count": 1,
+    "create_time": 1763539470,
+    "update_time": 1763539470,
+    "_id": "Леонид Шлес"
+  },
+  "Клуб «Гея»": {
+    "chunk_ids": [
+      "chunk-07d1fb64c3ee5a648dad5f619523b0ca"
+    ],
+    "count": 1,
+    "create_time": 1763539473,
+    "update_time": 1763539473,
+    "_id": "Клуб «Гея»"
+  },
+  "Гуманитарный факультет": {
+    "chunk_ids": [
+      "chunk-07d1fb64c3ee5a648dad5f619523b0ca"
+    ],
+    "count": 1,
+    "create_time": 1763539476,
+    "update_time": 1763539476,
+    "_id": "Гуманитарный факультет"
+  },
+  "экономический факультет НГУ": {
+    "chunk_ids": [
+      "chunk-d6781e5c3865e757f2db65d0434d0315"
+    ],
+    "count": 1,
+    "create_time": 1763539515,
+    "update_time": 1763539515,
+    "_id": "экономический факультет НГУ"
+  },
+  "economic faculty NSU": {
+    "chunk_ids": [
+      "chunk-d6781e5c3865e757f2db65d0434d0315"
+    ],
+    "count": 1,
+    "create_time": 1763539518,
+    "update_time": 1763539518,
+    "_id": "economic faculty NSU"
+  },
+  "Команда КВН НГУ": {
+    "chunk_ids": [
+      "chunk-07d1fb64c3ee5a648dad5f619523b0ca"
+    ],
+    "count": 1,
+    "create_time": 1763539545,
+    "update_time": 1763539545,
+    "_id": "Команда КВН НГУ"
+  },
+  "геолого-геофизический факультет": {
+    "chunk_ids": [
+      "chunk-07d1fb64c3ee5a648dad5f619523b0ca"
+    ],
+    "count": 1,
+    "create_time": 1763539545,
+    "update_time": 1763539545,
+    "_id": "геолого-геофизический факультет"
+  },
+  "Глум-Клуб": {
+    "chunk_ids": [
+      "chunk-07d1fb64c3ee5a648dad5f619523b0ca"
+    ],
+    "count": 1,
+    "create_time": 1763539554,
+    "update_time": 1763539554,
+    "_id": "Глум-Клуб"
+  },
+  "Российские студенческие отряды при НГУ": {
+    "chunk_ids": [
+      "chunk-07d1fb64c3ee5a648dad5f619523b0ca"
+    ],
+    "count": 1,
+    "create_time": 1763539556,
+    "update_time": 1763539556,
+    "_id": "Российские студенческие отряды при НГУ"
+  },
+  "Новосибирский государственный университет": {
+    "chunk_ids": [
+      "chunk-a3d6a8b784f4b3587c2e289eeda2d55e",
+      "chunk-40c4dad280d9f13d93d64edb2d86f788"
+    ],
+    "count": 2,
+    "create_time": 1763539604,
+    "update_time": 1763539604,
+    "_id": "Новосибирский государственный университет"
+  },
+  "Академгородок": {
+    "chunk_ids": [
+      "chunk-a3d6a8b784f4b3587c2e289eeda2d55e"
+    ],
+    "count": 1,
+    "create_time": 1763539604,
+    "update_time": 1763539604,
+    "_id": "Академгородок"
+  },
+  "М. А. Лаврентьев": {
+    "chunk_ids": [
+      "chunk-a3d6a8b784f4b3587c2e289eeda2d55e"
+    ],
+    "count": 1,
+    "create_time": 1763539607,
+    "update_time": 1763539607,
+    "_id": "М. А. Лаврентьев"
+  },
+  "С. Л. Соболев": {
+    "chunk_ids": [
+      "chunk-a3d6a8b784f4b3587c2e289eeda2d55e"
+    ],
+    "count": 1,
+    "create_time": 1763539609,
+    "update_time": 1763539609,
+    "_id": "С. Л. Соболев"
+  },
+  "И. Н. Векуа": {
+    "chunk_ids": [
+      "chunk-a3d6a8b784f4b3587c2e289eeda2d55e"
+    ],
+    "count": 1,
+    "create_time": 1763539616,
+    "update_time": 1763539616,
+    "_id": "И. Н. Векуа"
+  },
+  "Механико-математический факультет": {
+    "chunk_ids": [
+      "chunk-a3d6a8b784f4b3587c2e289eeda2d55e"
+    ],
+    "count": 1,
+    "create_time": 1763539617,
+    "update_time": 1763539617,
+    "_id": "Механико-математический факультет"
+  },
+  "Физический факультет": {
+    "chunk_ids": [
+      "chunk-a3d6a8b784f4b3587c2e289eeda2d55e",
+      "chunk-40c4dad280d9f13d93d64edb2d86f788"
+    ],
+    "count": 2,
+    "create_time": 1763539618,
+    "update_time": 1763539618,
+    "_id": "Физический факультет"
+  },
+  "Факультет естественных наук": {
+    "chunk_ids": [
+      "chunk-a3d6a8b784f4b3587c2e289eeda2d55e",
+      "chunk-40c4dad280d9f13d93d64edb2d86f788"
+    ],
+    "count": 2,
+    "create_time": 1763539622,
+    "update_time": 1763539622,
+    "_id": "Факультет естественных наук"
+  },
+  "Факультет информационных технологий": {
+    "chunk_ids": [
+      "chunk-a3d6a8b784f4b3587c2e289eeda2d55e",
+      "chunk-40c4dad280d9f13d93d64edb2d86f788"
+    ],
+    "count": 2,
+    "create_time": 1763539625,
+    "update_time": 1763539625,
+    "_id": "Факультет информационных технологий"
+  },
+  "Геологический институт": {
+    "chunk_ids": [
+      "chunk-a3d6a8b784f4b3587c2e289eeda2d55e"
+    ],
+    "count": 1,
+    "create_time": 1763539628,
+    "update_time": 1763539628,
+    "_id": "Геологический институт"
+  },
+  "Геолого-геофизический факультет": {
+    "chunk_ids": [
+      "chunk-40c4dad280d9f13d93d64edb2d86f788"
+    ],
+    "count": 1,
+    "create_time": 1763539630,
+    "update_time": 1763539630,
+    "_id": "Геолого-геофизический факультет"
+  },
+  "Экономический факультет": {
+    "chunk_ids": [
+      "chunk-40c4dad280d9f13d93d64edb2d86f788"
+    ],
+    "count": 1,
+    "create_time": 1763539634,
+    "update_time": 1763539634,
+    "_id": "Экономический факультет"
+  },
+  "Гуманитарный институт": {
+    "chunk_ids": [
+      "chunk-40c4dad280d9f13d93d64edb2d86f788"
+    ],
+    "count": 1,
+    "create_time": 1763539638,
+    "update_time": 1763539638,
+    "_id": "Гуманитарный институт"
+  },
+  "Институт медицины и психологии им. В. Зельмана": {
+    "chunk_ids": [
+      "chunk-40c4dad280d9f13d93d64edb2d86f788"
+    ],
+    "count": 1,
+    "create_time": 1763539640,
+    "update_time": 1763539640,
+    "_id": "Институт медицины и психологии им. В. Зельмана"
+  },
+  "Институт интеллектуальной робототехники": {
+    "chunk_ids": [
+      "chunk-40c4dad280d9f13d93d64edb2d86f788"
+    ],
+    "count": 1,
+    "create_time": 1763539642,
+    "update_time": 1763539642,
+    "_id": "Институт интеллектуальной робототехники"
+  },
+  "Институт философии и права": {
+    "chunk_ids": [
+      "chunk-40c4dad280d9f13d93d64edb2d86f788"
+    ],
+    "count": 1,
+    "create_time": 1763539646,
+    "update_time": 1763539646,
+    "_id": "Институт философии и права"
+  },
+  "МФ": {
+    "chunk_ids": [
+      "chunk-40c4dad280d9f13d93d64edb2d86f788"
+    ],
+    "count": 1,
+    "create_time": 1763539648,
+    "update_time": 1763539648,
+    "_id": "МФ"
+  },
+  "Физический факультет (ФФ)": {
+    "chunk_ids": [
+      "chunk-40c4dad280d9f13d93d64edb2d86f788"
+    ],
+    "count": 1,
+    "create_time": 1763539652,
+    "update_time": 1763539652,
+    "_id": "Физический факультет (ФФ)"
+  },
+  "Факультет естественных наук (ФЕН)": {
+    "chunk_ids": [
+      "chunk-40c4dad280d9f13d93d64edb2d86f788"
+    ],
+    "count": 1,
+    "create_time": 1763539655,
+    "update_time": 1763539655,
+    "_id": "Факультет естественных наук (ФЕН)"
+  },
+  "Факультет информационных технологий (ФИТ)": {
+    "chunk_ids": [
+      "chunk-40c4dad280d9f13d93d64edb2d86f788"
+    ],
+    "count": 1,
+    "create_time": 1763539658,
+    "update_time": 1763539658,
+    "_id": "Факультет информационных технологий (ФИТ)"
+  },
+  "Геолого-геофизический факультет (ГГФ)": {
+    "chunk_ids": [
+      "chunk-40c4dad280d9f13d93d64edb2d86f788"
+    ],
+    "count": 1,
+    "create_time": 1763539661,
+    "update_time": 1763539661,
+    "_id": "Геолого-геофизический факультет (ГГФ)"
+  },
+  "organization": {
+    "chunk_ids": [
+      "chunk-40c4dad280d9f13d93d64edb2d86f788"
+    ],
+    "count": 1,
+    "create_time": 1763539691,
+    "update_time": 1763539691,
+    "_id": "organization"
   }
 }

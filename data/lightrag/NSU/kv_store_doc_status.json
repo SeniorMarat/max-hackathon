@@ -72,5 +72,43 @@
       "processing_start_time": 1763193374,
       "processing_end_time": 1763193837
     }
+  },
+  "doc-53eba8718e75c17146513afba80eb7ee": {
+    "status": "processed",
+    "chunks_count": 4,
+    "chunks_list": [
+      "chunk-07d1fb64c3ee5a648dad5f619523b0ca",
+      "chunk-d6781e5c3865e757f2db65d0434d0315",
+      "chunk-e2ced4912d75885cf341fcdfd11a122e",
+      "chunk-c6fecf6389cdf3166e89adb484dae3b6"
+    ],
+    "content_summary": "Клубы и кружки НГУ\n\t1.\tКлуб «Квант»\n\t•\tЭто юмористический клуб физического факультета НГУ.  ￼\n\t•\tОснован 19 мая 1968 года Леонидом Шлесом.  ￼\n\t•\t«Квант» проводит ежегодные капустники — юмористические студенческие вечера, традиционно весной.  ￼\n\t•\tСре...",
+    "content_length": 3309,
+    "created_at": "2025-11-19T08:02:50.027061+00:00",
+    "updated_at": "2025-11-19T08:06:12.188554+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251119_150250_0423cab9",
+    "metadata": {
+      "processing_start_time": 1763539370,
+      "processing_end_time": 1763539572
+    }
+  },
+  "doc-16eabb1868f968b4c0bcaf47849bf268": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-a3d6a8b784f4b3587c2e289eeda2d55e",
+      "chunk-40c4dad280d9f13d93d64edb2d86f788"
+    ],
+    "content_summary": "Новосибирский государственный университет (НГУ) — обзор\nНовосибирский государственный университет — крупный российский исследовательский университет в Академгородке Новосибирска, ориентированный на интеграцию образования и науки и раннее вовлечение с...",
+    "content_length": 1794,
+    "created_at": "2025-11-19T08:06:12.268217+00:00",
+    "updated_at": "2025-11-19T08:08:47.076477+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251119_150612_ebe0b1fe",
+    "metadata": {
+      "processing_start_time": 1763539572,
+      "processing_end_time": 1763539727
+    }
   }
 }

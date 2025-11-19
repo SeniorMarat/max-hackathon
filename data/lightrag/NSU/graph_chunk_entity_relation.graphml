@@ -951,6 +951,474 @@
       <data key="d5">1763193801</data>
       <data key="d6" />
     </node>
+    <node id="Future Professional NSU">
+      <data key="d0">Future Professional NSU</data>
+      <data key="d1">organization</data>
+      <data key="d2">Future Professional NSU ориентирован на развитие профессиональных навыков студентов и помощь в их трудоустройстве.&lt;SEP&gt;Клуб Future Professional NSU ориентирован на развитие профессиональных навыков студентов и поддержку их трудоустройства.</data>
+      <data key="d3">chunk-e2ced4912d75885cf341fcdfd11a122e&lt;SEP&gt;chunk-d6781e5c3865e757f2db65d0434d0315</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539410</data>
+      <data key="d6" />
+    </node>
+    <node id="SMBA">
+      <data key="d0">SMBA</data>
+      <data key="d1">organization</data>
+      <data key="d2">SMBA упоминается ранее без подробного описания.</data>
+      <data key="d3">chunk-e2ced4912d75885cf341fcdfd11a122e</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539410</data>
+      <data key="d6" />
+    </node>
+    <node id="Международный студенческий клуб">
+      <data key="d0">Международный студенческий клуб</data>
+      <data key="d1">organization</data>
+      <data key="d2">Международный студенческий клуб объединяет иностранных студентов НГУ и содействует культурному обмену через различные мероприятия.</data>
+      <data key="d3">chunk-e2ced4912d75885cf341fcdfd11a122e</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539413</data>
+      <data key="d6" />
+    </node>
+    <node id="НГУ">
+      <data key="d0">НГУ</data>
+      <data key="d1">location</data>
+      <data key="d2">Новосибирский государственный университет (НГУ) является местом проведения различных мероприятий и площадкой для студенческой активности.</data>
+      <data key="d3">chunk-e2ced4912d75885cf341fcdfd11a122e</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539416</data>
+      <data key="d6" />
+    </node>
+    <node id="«Научный пикник»">
+      <data key="d0">«Научный пикник»</data>
+      <data key="d1">event</data>
+      <data key="d2">Крупное ежегодное мероприятие НГУ с научно-популярными площадками и выступлениями студенческих клубов.</data>
+      <data key="d3">chunk-e2ced4912d75885cf341fcdfd11a122e</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539419</data>
+      <data key="d6" />
+    </node>
+    <node id="волонтерство">
+      <data key="d0">волонтерство</data>
+      <data key="d1">activity</data>
+      <data key="d2">Поддержка студенческих инициатив включает волонтерскую деятельность и участие в молодежных движениях.</data>
+      <data key="d3">chunk-e2ced4912d75885cf341fcdfd11a122e</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539422</data>
+      <data key="d6" />
+    </node>
+    <node id="студенческие движения">
+      <data key="d0">студенческие движения</data>
+      <data key="d1">activity</data>
+      <data key="d2">Молодежная политика университета поддерживает студенческие движения и стартапы.</data>
+      <data key="d3">chunk-e2ced4912d75885cf341fcdfd11a122e</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539425</data>
+      <data key="d6" />
+    </node>
+    <node id="стартап-студия">
+      <data key="d0">стартап-студия</data>
+      <data key="d1">activity</data>
+      <data key="d2">Стартап-студия поддерживается в рамках молодежной политики университета.</data>
+      <data key="d3">chunk-e2ced4912d75885cf341fcdfd11a122e</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539428</data>
+      <data key="d6" />
+    </node>
+    <node id="клубы 1960-х годов">
+      <data key="d0">клубы 1960-х годов</data>
+      <data key="d1">historicalclub</data>
+      <data key="d2">Студенты НГУ в 1960-х организовывали клубы, которые служили платформами для публичных дискуссий и самоорганизации.</data>
+      <data key="d3">chunk-e2ced4912d75885cf341fcdfd11a122e</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539431</data>
+      <data key="d6" />
+    </node>
+    <node id="Студентское Движение">
+      <data key="d0">Студентское Движение</data>
+      <data key="d1">organization</data>
+      <data key="d2">Студентское движение объединяет три отряда для участия студентов в летней трудовой деятельности и развитии лидерских качеств.</data>
+      <data key="d3">chunk-d6781e5c3865e757f2db65d0434d0315</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539434</data>
+      <data key="d6" />
+    </node>
+    <node id="Отряд «Синергия»">
+      <data key="d0">Отряд «Синергия»</data>
+      <data key="d1">group</data>
+      <data key="d2">Студенческий отряд проводников в составе Российских студенческих отрядов при НГУ.&lt;SEP&gt;Отряд «Синергия» является частью студенческого движения и занимается проведением мероприятий.</data>
+      <data key="d3">chunk-d6781e5c3865e757f2db65d0434d0315&lt;SEP&gt;chunk-07d1fb64c3ee5a648dad5f619523b0ca</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539437</data>
+      <data key="d6" />
+    </node>
+    <node id="Отряд «Синтез»">
+      <data key="d0">Отряд «Синтез»</data>
+      <data key="d1">group</data>
+      <data key="d2">Педагогический студенческий отряд в составе Российских студенческих отрядов при НГУ.&lt;SEP&gt;Педагогический отряд «Синтез» входит в состав студенческого движения и развивает лидерские качества у студентов.</data>
+      <data key="d3">chunk-d6781e5c3865e757f2db65d0434d0315&lt;SEP&gt;chunk-07d1fb64c3ee5a648dad5f619523b0ca</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539440</data>
+      <data key="d6" />
+    </node>
+    <node id="Строительный Отряд «Золотое Сечение» им. Б.В. Войцеховского">
+      <data key="d0">Строительный Отряд «Золотое Сечение» им. Б.В. Войцеховского</data>
+      <data key="d1">group</data>
+      <data key="d2">Строительный отряд «Золотое Сечение» имени Б.В. Войцеховского участвует в студенческом движении и специализируется на строительстве.</data>
+      <data key="d3">chunk-d6781e5c3865e757f2db65d0434d0315</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539443</data>
+      <data key="d6" />
+    </node>
+    <node id="Штаб студенческих отрядов НГУ">
+      <data key="d0">Штаб студенческих отрядов НГУ</data>
+      <data key="d1">organization</data>
+      <data key="d2">Штаб студенческих отрядов Новосибирского государственного университета активно привлекает новых участников к своей деятельности.</data>
+      <data key="d3">chunk-d6781e5c3865e757f2db65d0434d0315</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539446</data>
+      <data key="d6" />
+    </node>
+    <node id="SMBA (Student to Master of Business Administration)">
+      <data key="d0">SMBA (Student to Master of Business Administration)</data>
+      <data key="d1">club</data>
+      <data key="d2">SMBA - это студенческий бизнес-клуб на экономическом факультете НГУ, предлагающий обучающие курсы по бизнесу.</data>
+      <data key="d3">chunk-d6781e5c3865e757f2db65d0434d0315</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539449</data>
+      <data key="d6" />
+    </node>
+    <node id="Case Club NSU">
+      <data key="d0">Case Club NSU</data>
+      <data key="d1">club</data>
+      <data key="d2">Case Club NSU - клуб, где студенты решают реальные бизнес-кейсы и развивают навыки командной работы и решения проблем.</data>
+      <data key="d3">chunk-d6781e5c3865e757f2db65d0434d0315</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539452</data>
+      <data key="d6" />
+    </node>
+    <node id="Financial Club NSU">
+      <data key="d0">Financial Club NSU</data>
+      <data key="d1">club</data>
+      <data key="d2">Financial Club NSU посвящен финансовой сфере и помогает студентам углубить свои знания в этой области.</data>
+      <data key="d3">chunk-d6781e5c3865e757f2db65d0434d0315</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539455</data>
+      <data key="d6" />
+    </node>
+    <node id="дух студенчества">
+      <data key="d0">дух студенчества</data>
+      <data key="d1">concept</data>
+      <data key="d2">Дух студенчества символизирует интеллектуальную свободу и стремление к самоорганизации среди студентов.</data>
+      <data key="d3">chunk-c6fecf6389cdf3166e89adb484dae3b6</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539458</data>
+      <data key="d6" />
+    </node>
+    <node id="интеллектуальная свобода">
+      <data key="d0">интеллектуальная свобода</data>
+      <data key="d1">concept</data>
+      <data key="d2">Интеллектуальная свобода является частью духа студенчества, подразумевающей свободное выражение мыслей и идей.</data>
+      <data key="d3">chunk-c6fecf6389cdf3166e89adb484dae3b6</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539461</data>
+      <data key="d6" />
+    </node>
+    <node id="стремление к самоорганизации">
+      <data key="d0">стремление к самоорганизации</data>
+      <data key="d1">concept</data>
+      <data key="d2">Стремление к самоорганизации отражает активность и инициативу студентов в управлении своими делами и сообществом.</data>
+      <data key="d3">chunk-c6fecf6389cdf3166e89adb484dae3b6</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539464</data>
+      <data key="d6" />
+    </node>
+    <node id="Клуб «Квант»">
+      <data key="d0">Клуб «Квант»</data>
+      <data key="d1">организация</data>
+      <data key="d2">Юмористический клуб физического факультета НГУ, основанный Леонидом Шлесом в 1968 году, проводит капустники и другие мероприятия ежегодно.</data>
+      <data key="d3">chunk-07d1fb64c3ee5a648dad5f619523b0ca</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539467</data>
+      <data key="d6" />
+    </node>
+    <node id="Леонид Шлес">
+      <data key="d0">Леонид Шлес</data>
+      <data key="d1">человек</data>
+      <data key="d2">Основатель Клуба «Квант».</data>
+      <data key="d3">chunk-07d1fb64c3ee5a648dad5f619523b0ca</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539470</data>
+      <data key="d6" />
+    </node>
+    <node id="Клуб «Гея»">
+      <data key="d0">Клуб «Гея»</data>
+      <data key="d1">организация</data>
+      <data key="d2">Старейший студенческий клуб НГУ, связанный с геолого-геофизическим факультетом, имеющий важное социальное значение.</data>
+      <data key="d3">chunk-07d1fb64c3ee5a648dad5f619523b0ca</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539473</data>
+      <data key="d6" />
+    </node>
+    <node id="Гуманитарный факультет">
+      <data key="d0">Гуманитарный факультет</data>
+      <data key="d1">место</data>
+      <data key="d2">Факультет НГУ, на котором действует Глум-Клуб.</data>
+      <data key="d3">chunk-07d1fb64c3ee5a648dad5f619523b0ca</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539476</data>
+      <data key="d6" />
+    </node>
+    <node id="экономический факультет НГУ">
+      <data key="d0">экономический факультет НГУ</data>
+      <data key="d3">chunk-d6781e5c3865e757f2db65d0434d0315</data>
+      <data key="d2">SMBA находится на экономическом факультете НГУ.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539515</data>
+      <data key="d6" />
+    </node>
+    <node id="economic faculty NSU">
+      <data key="d0">economic faculty NSU</data>
+      <data key="d3">chunk-d6781e5c3865e757f2db65d0434d0315</data>
+      <data key="d2">Case Club NSU работает на экономическом факультете НГУ.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539518</data>
+      <data key="d6" />
+    </node>
+    <node id="Команда КВН НГУ">
+      <data key="d0">Команда КВН НГУ</data>
+      <data key="d3">chunk-07d1fb64c3ee5a648dad5f619523b0ca</data>
+      <data key="d2">Клуб «Квант» тесно связан с командой КВН НГУ.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539545</data>
+      <data key="d6" />
+    </node>
+    <node id="геолого-геофизический факультет">
+      <data key="d0">геолого-геофизический факультет</data>
+      <data key="d3">chunk-07d1fb64c3ee5a648dad5f619523b0ca</data>
+      <data key="d2">Клуб «Гея» связан с геолого-геофизическим факультетом НГУ.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539545</data>
+      <data key="d6" />
+    </node>
+    <node id="Глум-Клуб">
+      <data key="d0">Глум-Клуб</data>
+      <data key="d3">chunk-07d1fb64c3ee5a648dad5f619523b0ca</data>
+      <data key="d2">Глум-Клуб действует на Гуманитарном факультете НГУ.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539554</data>
+      <data key="d6" />
+    </node>
+    <node id="Российские студенческие отряды при НГУ">
+      <data key="d0">Российские студенческие отряды при НГУ</data>
+      <data key="d3">chunk-07d1fb64c3ee5a648dad5f619523b0ca</data>
+      <data key="d2">Отряд «Синергия» является частью Российских студенческих отрядов при НГУ.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539556</data>
+      <data key="d6" />
+    </node>
+    <node id="Новосибирский государственный университет">
+      <data key="d0">Новосибирский государственный университет</data>
+      <data key="d1">organization</data>
+      <data key="d2">Крупный российский исследовательский университет с ориентацией на интеграцию образования и науки.&lt;SEP&gt;Новосибирский государственный университет является высшим учебным заведением в России.</data>
+      <data key="d3">chunk-a3d6a8b784f4b3587c2e289eeda2d55e&lt;SEP&gt;chunk-40c4dad280d9f13d93d64edb2d86f788</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539604</data>
+      <data key="d6" />
+    </node>
+    <node id="Академгородок">
+      <data key="d0">Академгородок</data>
+      <data key="d1">location</data>
+      <data key="d2">Местоположение Новосибирского государственного университета.</data>
+      <data key="d3">chunk-a3d6a8b784f4b3587c2e289eeda2d55e</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539604</data>
+      <data key="d6" />
+    </node>
+    <node id="М. А. Лаврентьев">
+      <data key="d0">М. А. Лаврентьев</data>
+      <data key="d1">person</data>
+      <data key="d2">Ведущий советский учёный, инициатор и организатор создания Новосибирского государственного университета.</data>
+      <data key="d3">chunk-a3d6a8b784f4b3587c2e289eeda2d55e</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539607</data>
+      <data key="d6" />
+    </node>
+    <node id="С. Л. Соболев">
+      <data key="d0">С. Л. Соболев</data>
+      <data key="d1">person</data>
+      <data key="d2">Советский учёный, один из организаторов Новосибирского государственного университета.</data>
+      <data key="d3">chunk-a3d6a8b784f4b3587c2e289eeda2d55e</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539609</data>
+      <data key="d6" />
+    </node>
+    <node id="И. Н. Векуа">
+      <data key="d0">И. Н. Векуа</data>
+      <data key="d1">person</data>
+      <data key="d2">Первый ректор Новосибирского государственного университета.</data>
+      <data key="d3">chunk-a3d6a8b784f4b3587c2e289eeda2d55e</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539616</data>
+      <data key="d6" />
+    </node>
+    <node id="Механико-математический факультет">
+      <data key="d0">Механико-математический факультет</data>
+      <data key="d1">faculty</data>
+      <data key="d2">Один из факультетов Новосибирского государственного университета.</data>
+      <data key="d3">chunk-a3d6a8b784f4b3587c2e289eeda2d55e</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539617</data>
+      <data key="d6" />
+    </node>
+    <node id="Физический факультет">
+      <data key="d0">Физический факультет</data>
+      <data key="d1">faculty</data>
+      <data key="d2">Факультет Новосибирского государственного университета, специализирующийся на физике.&lt;SEP&gt;Физический факультет является подразделением Новосибирского государственного университета.</data>
+      <data key="d3">chunk-a3d6a8b784f4b3587c2e289eeda2d55e&lt;SEP&gt;chunk-40c4dad280d9f13d93d64edb2d86f788</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539618</data>
+      <data key="d6" />
+    </node>
+    <node id="Факультет естественных наук">
+      <data key="d0">Факультет естественных наук</data>
+      <data key="d1">faculty</data>
+      <data key="d2">Факультет Новосибирского государственного университета, занимающийся естественными науками.&lt;SEP&gt;Факультет естественных наук является подразделением Новосибирского государственного университета.</data>
+      <data key="d3">chunk-a3d6a8b784f4b3587c2e289eeda2d55e&lt;SEP&gt;chunk-40c4dad280d9f13d93d64edb2d86f788</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539622</data>
+      <data key="d6" />
+    </node>
+    <node id="Факультет информационных технологий">
+      <data key="d0">Факультет информационных технологий</data>
+      <data key="d1">faculty</data>
+      <data key="d2">Факультет Новосибирского государственного университета, связанный с информационными технологиями.&lt;SEP&gt;Факультет информационных технологий является подразделением Новосибирского государственного университета.</data>
+      <data key="d3">chunk-a3d6a8b784f4b3587c2e289eeda2d55e&lt;SEP&gt;chunk-40c4dad280d9f13d93d64edb2d86f788</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539625</data>
+      <data key="d6" />
+    </node>
+    <node id="Геологический институт">
+      <data key="d0">Геологический институт</data>
+      <data key="d1">institute</data>
+      <data key="d2">Институт Новосибирского государственного университета, изучающий геологию.</data>
+      <data key="d3">chunk-a3d6a8b784f4b3587c2e289eeda2d55e</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539628</data>
+      <data key="d6" />
+    </node>
+    <node id="Геолого-геофизический факультет">
+      <data key="d0">Геолого-геофизический факультет</data>
+      <data key="d1">organization</data>
+      <data key="d2">Геолого-геофизический факультет является подразделением Новосибирского государственного университета.</data>
+      <data key="d3">chunk-40c4dad280d9f13d93d64edb2d86f788</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539630</data>
+      <data key="d6" />
+    </node>
+    <node id="Экономический факультет">
+      <data key="d0">Экономический факультет</data>
+      <data key="d1">organization</data>
+      <data key="d2">Экономический факультет является подразделением Новосибирского государственного университета.</data>
+      <data key="d3">chunk-40c4dad280d9f13d93d64edb2d86f788</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539634</data>
+      <data key="d6" />
+    </node>
+    <node id="Гуманитарный институт">
+      <data key="d0">Гуманитарный институт</data>
+      <data key="d1">organization</data>
+      <data key="d2">Гуманитарный институт является подразделением Новосибирского государственного университета.</data>
+      <data key="d3">chunk-40c4dad280d9f13d93d64edb2d86f788</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539638</data>
+      <data key="d6" />
+    </node>
+    <node id="Институт медицины и психологии им. В. Зельмана">
+      <data key="d0">Институт медицины и психологии им. В. Зельмана</data>
+      <data key="d1">organization</data>
+      <data key="d2">Институт медицины и психологии имени В. Зельмана является подразделением Новосибирского государственного университета.</data>
+      <data key="d3">chunk-40c4dad280d9f13d93d64edb2d86f788</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539640</data>
+      <data key="d6" />
+    </node>
+    <node id="Институт интеллектуальной робототехники">
+      <data key="d0">Институт интеллектуальной робототехники</data>
+      <data key="d1">organization</data>
+      <data key="d2">Институт интеллектуальной робототехники является подразделением Новосибирского государственного университета.</data>
+      <data key="d3">chunk-40c4dad280d9f13d93d64edb2d86f788</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539642</data>
+      <data key="d6" />
+    </node>
+    <node id="Институт философии и права">
+      <data key="d0">Институт философии и права</data>
+      <data key="d1">organization</data>
+      <data key="d2">Институт философии и права является подразделением Новосибирского государственного университета.</data>
+      <data key="d3">chunk-40c4dad280d9f13d93d64edb2d86f788</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539646</data>
+      <data key="d6" />
+    </node>
+    <node id="МФ">
+      <data key="d0">МФ</data>
+      <data key="d1">other</data>
+      <data key="d2">МФ не имеет четкого описания в тексте.</data>
+      <data key="d3">chunk-40c4dad280d9f13d93d64edb2d86f788</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539648</data>
+      <data key="d6" />
+    </node>
+    <node id="Физический факультет (ФФ)">
+      <data key="d0">Физический факультет (ФФ)</data>
+      <data key="d1">organization</data>
+      <data key="d2">Физический факультет является подразделением Новосибирского государственного университета.</data>
+      <data key="d3">chunk-40c4dad280d9f13d93d64edb2d86f788</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539652</data>
+      <data key="d6" />
+    </node>
+    <node id="Факультет естественных наук (ФЕН)">
+      <data key="d0">Факультет естественных наук (ФЕН)</data>
+      <data key="d1">organization</data>
+      <data key="d2">Факультет естественных наук входит в состав Новосибирского государственного университета.</data>
+      <data key="d3">chunk-40c4dad280d9f13d93d64edb2d86f788</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539655</data>
+      <data key="d6" />
+    </node>
+    <node id="Факультет информационных технологий (ФИТ)">
+      <data key="d0">Факультет информационных технологий (ФИТ)</data>
+      <data key="d1">organization</data>
+      <data key="d2">Факультет информационных технологий является частью Новосибирского государственного университета.</data>
+      <data key="d3">chunk-40c4dad280d9f13d93d64edb2d86f788</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539658</data>
+      <data key="d6" />
+    </node>
+    <node id="Геолого-геофизический факультет (ГГФ)">
+      <data key="d0">Геолого-геофизический факультет (ГГФ)</data>
+      <data key="d1">organization</data>
+      <data key="d2">Геолого-геофизический факультет относится к Новосибирскому государственному университету.</data>
+      <data key="d3">chunk-40c4dad280d9f13d93d64edb2d86f788</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539661</data>
+      <data key="d6" />
+    </node>
+    <node id="organization">
+      <data key="d0">organization</data>
+      <data key="d3">chunk-40c4dad280d9f13d93d64edb2d86f788</data>
+      <data key="d2">Неясно, какая организация или подразделение соответствует МФ.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1763539691</data>
+      <data key="d6" />
+    </node>
     <edge source="NSU" target="Academic City">
       <data key="d7">1.0</data>
       <data key="d8">Novosibirsk State University is situated in Academic City.</data>
@@ -1705,6 +2173,393 @@
       <data key="d10">chunk-bb0ebf4eb1e54439f1b32cb8c8f17714</data>
       <data key="d11">unknown_source</data>
       <data key="d12">1763193807</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Future Professional NSU" target="НГУ">
+      <data key="d7">1.0</data>
+      <data key="d8">Клуб Future Professional NSU связан с Новосибирским государственным университетом.</data>
+      <data key="d9">affiliation,professional development</data>
+      <data key="d10">chunk-e2ced4912d75885cf341fcdfd11a122e</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763539482</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Future Professional NSU" target="economic faculty NSU">
+      <data key="d7">1.0</data>
+      <data key="d8">Future Professional NSU действует на экономическом факультете НГУ.</data>
+      <data key="d9">affiliation</data>
+      <data key="d10">chunk-d6781e5c3865e757f2db65d0434d0315</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763539533</data>
+      <data key="d13" />
+    </edge>
+    <edge source="SMBA" target="НГУ">
+      <data key="d7">1.0</data>
+      <data key="d8">SMBA ассоциируется с Новосибирским государственным университетом.</data>
+      <data key="d9">association</data>
+      <data key="d10">chunk-e2ced4912d75885cf341fcdfd11a122e</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763539485</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Международный студенческий клуб" target="НГУ">
+      <data key="d7">1.0</data>
+      <data key="d8">Международный студенческий клуб организован при Новосибирском государственном университете.</data>
+      <data key="d9">cultural exchange,student community</data>
+      <data key="d10">chunk-e2ced4912d75885cf341fcdfd11a122e</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763539488</data>
+      <data key="d13" />
+    </edge>
+    <edge source="НГУ" target="«Научный пикник»">
+      <data key="d7">1.0</data>
+      <data key="d8">НГУ выступает в качестве организатора и места проведения мероприятия «Научный пикник».</data>
+      <data key="d9">event venue,host university</data>
+      <data key="d10">chunk-e2ced4912d75885cf341fcdfd11a122e</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763539491</data>
+      <data key="d13" />
+    </edge>
+    <edge source="НГУ" target="волонтерство">
+      <data key="d7">1.0</data>
+      <data key="d8">Университет НГУ поддерживает волонтерскую деятельность студентов.</data>
+      <data key="d9">student activity,university support</data>
+      <data key="d10">chunk-e2ced4912d75885cf341fcdfd11a122e</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763539494</data>
+      <data key="d13" />
+    </edge>
+    <edge source="НГУ" target="студенческие движения">
+      <data key="d7">1.0</data>
+      <data key="d8">НГУ поддерживает студенческие движения и молодежные инициативы.</data>
+      <data key="d9">support,youth initiatives</data>
+      <data key="d10">chunk-e2ced4912d75885cf341fcdfd11a122e</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763539497</data>
+      <data key="d13" />
+    </edge>
+    <edge source="НГУ" target="стартап-студия">
+      <data key="d7">1.0</data>
+      <data key="d8">Стартап-студия поддерживается университетом НГУ.</data>
+      <data key="d9">start-up support,university initiative</data>
+      <data key="d10">chunk-e2ced4912d75885cf341fcdfd11a122e</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763539500</data>
+      <data key="d13" />
+    </edge>
+    <edge source="НГУ" target="клубы 1960-х годов">
+      <data key="d7">1.0</data>
+      <data key="d8">В 1960-х годах студенты НГУ организовали клубы, ставшие центрами общественной и интеллектуальной жизни.</data>
+      <data key="d9">history,self-organization</data>
+      <data key="d10">chunk-e2ced4912d75885cf341fcdfd11a122e</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763539503</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Студентское Движение" target="Отряд «Синергия»">
+      <data key="d7">1.0</data>
+      <data key="d8">Отряд «Синергия» является частью студенческого движения.</data>
+      <data key="d9">activity,part-of-whole</data>
+      <data key="d10">chunk-d6781e5c3865e757f2db65d0434d0315</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763539503</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Студентское Движение" target="Отряд «Синтез»">
+      <data key="d7">1.0</data>
+      <data key="d8">Педагогический отряд «Синтез» входит в студенческое движение.</data>
+      <data key="d9">activity,part-of-whole</data>
+      <data key="d10">chunk-d6781e5c3865e757f2db65d0434d0315</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763539509</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Студентское Движение" target="Строительный Отряд «Золотое Сечение» им. Б.В. Войцеховского">
+      <data key="d7">1.0</data>
+      <data key="d8">Строительный отряд «Золотое Сечение» имени Б.В. Войцеховского принадлежит студенческому движению.</data>
+      <data key="d9">activity,part-of-whole</data>
+      <data key="d10">chunk-d6781e5c3865e757f2db65d0434d0315</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763539512</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Студентское Движение" target="Штаб студенческих отрядов НГУ">
+      <data key="d7">1.0</data>
+      <data key="d8">Штаб студенческих отрядов организует деятельность студенческого движения.</data>
+      <data key="d9">activity coordination</data>
+      <data key="d10">chunk-d6781e5c3865e757f2db65d0434d0315</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763539515</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Отряд «Синергия»" target="Российские студенческие отряды при НГУ">
+      <data key="d7">1.0</data>
+      <data key="d8">Отряд «Синергия» является частью Российских студенческих отрядов при НГУ.</data>
+      <data key="d9">организация,часть</data>
+      <data key="d10">chunk-07d1fb64c3ee5a648dad5f619523b0ca</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763539563</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Отряд «Синтез»" target="Российские студенческие отряды при НГУ">
+      <data key="d7">1.0</data>
+      <data key="d8">Отряд «Синтез» является частью Российских студенческих отрядов при НГУ.</data>
+      <data key="d9">организация,часть</data>
+      <data key="d10">chunk-07d1fb64c3ee5a648dad5f619523b0ca</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763539569</data>
+      <data key="d13" />
+    </edge>
+    <edge source="SMBA (Student to Master of Business Administration)" target="экономический факультет НГУ">
+      <data key="d7">1.0</data>
+      <data key="d8">SMBA находится на экономическом факультете НГУ.</data>
+      <data key="d9">affiliation</data>
+      <data key="d10">chunk-d6781e5c3865e757f2db65d0434d0315</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763539521</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Case Club NSU" target="economic faculty NSU">
+      <data key="d7">1.0</data>
+      <data key="d8">Case Club NSU работает на экономическом факультете НГУ.</data>
+      <data key="d9">affiliation</data>
+      <data key="d10">chunk-d6781e5c3865e757f2db65d0434d0315</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763539525</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Financial Club NSU" target="economic faculty NSU">
+      <data key="d7">1.0</data>
+      <data key="d8">Financial Club NSU функционирует на экономическом факультете НГУ.</data>
+      <data key="d9">affiliation</data>
+      <data key="d10">chunk-d6781e5c3865e757f2db65d0434d0315</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763539530</data>
+      <data key="d13" />
+    </edge>
+    <edge source="дух студенчества" target="интеллектуальная свобода">
+      <data key="d7">1.0</data>
+      <data key="d8">Дух студенчества включает в себя интеллектуальную свободу как одну из своих ключевых характеристик.</data>
+      <data key="d9">концепция,связь</data>
+      <data key="d10">chunk-c6fecf6389cdf3166e89adb484dae3b6</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763539533</data>
+      <data key="d13" />
+    </edge>
+    <edge source="дух студенчества" target="стремление к самоорганизации">
+      <data key="d7">1.0</data>
+      <data key="d8">Дух студенчества также подразумевает стремление к самоорганизации как важный аспект активности студентов.</data>
+      <data key="d9">концепция,связь</data>
+      <data key="d10">chunk-c6fecf6389cdf3166e89adb484dae3b6</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763539539</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Клуб «Квант»" target="Леонид Шлес">
+      <data key="d7">1.0</data>
+      <data key="d8">Клуб «Квант» основан Леонидом Шлесом в 1968 году.</data>
+      <data key="d9">основание,основатель</data>
+      <data key="d10">chunk-07d1fb64c3ee5a648dad5f619523b0ca</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763539539</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Клуб «Квант»" target="Команда КВН НГУ">
+      <data key="d7">1.0</data>
+      <data key="d8">Клуб «Квант» тесно связан с командой КВН НГУ.</data>
+      <data key="d9">связь,сотрудничество</data>
+      <data key="d10">chunk-07d1fb64c3ee5a648dad5f619523b0ca</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763539548</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Клуб «Гея»" target="геолого-геофизический факультет">
+      <data key="d7">1.0</data>
+      <data key="d8">Клуб «Гея» связан с геолого-геофизическим факультетом НГУ.</data>
+      <data key="d9">принадлежность,связь</data>
+      <data key="d10">chunk-07d1fb64c3ee5a648dad5f619523b0ca</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763539551</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Гуманитарный факультет" target="Глум-Клуб">
+      <data key="d7">1.0</data>
+      <data key="d8">Глум-Клуб действует на Гуманитарном факультете НГУ.</data>
+      <data key="d9">действие,место</data>
+      <data key="d10">chunk-07d1fb64c3ee5a648dad5f619523b0ca</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763539560</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Новосибирский государственный университет" target="Академгородок">
+      <data key="d7">1.0</data>
+      <data key="d8">Новосибирский государственный университет расположен в Академгородке.</data>
+      <data key="d9">university location</data>
+      <data key="d10">chunk-a3d6a8b784f4b3587c2e289eeda2d55e</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763539667</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Новосибирский государственный университет" target="М. А. Лаврентьев">
+      <data key="d7">1.0</data>
+      <data key="d8">М. А. Лаврентьев является одним из основателей Новосибирского государственного университета.</data>
+      <data key="d9">founder involvement</data>
+      <data key="d10">chunk-a3d6a8b784f4b3587c2e289eeda2d55e</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763539670</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Новосибирский государственный университет" target="С. Л. Соболев">
+      <data key="d7">1.0</data>
+      <data key="d8">С. Л. Соболев также участвовал в создании Новосибирского государственного университета.</data>
+      <data key="d9">founder involvement</data>
+      <data key="d10">chunk-a3d6a8b784f4b3587c2e289eeda2d55e</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763539673</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Новосибирский государственный университет" target="И. Н. Векуа">
+      <data key="d7">1.0</data>
+      <data key="d8">И. Н. Векуа был первым ректором Новосибирского государственного университета.</data>
+      <data key="d9">first leader</data>
+      <data key="d10">chunk-a3d6a8b784f4b3587c2e289eeda2d55e</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763539676</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Новосибирский государственный университет" target="Механико-математический факультет">
+      <data key="d7">1.0</data>
+      <data key="d8">Механико-математический факультет является частью Новосибирского государственного университета.</data>
+      <data key="d9">faculty affiliation</data>
+      <data key="d10">chunk-a3d6a8b784f4b3587c2e289eeda2d55e</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763539679</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Новосибирский государственный университет" target="Физический факультет">
+      <data key="d7">1.0</data>
+      <data key="d8">Физический факультет входит в структуру Новосибирского государственного университета.</data>
+      <data key="d9">faculty affiliation</data>
+      <data key="d10">chunk-a3d6a8b784f4b3587c2e289eeda2d55e</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763539682</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Новосибирский государственный университет" target="Факультет естественных наук">
+      <data key="d7">1.0</data>
+      <data key="d8">Факультет естественных наук является подразделением Новосибирского государственного университета.</data>
+      <data key="d9">faculty affiliation</data>
+      <data key="d10">chunk-a3d6a8b784f4b3587c2e289eeda2d55e</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763539685</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Новосибирский государственный университет" target="Факультет информационных технологий">
+      <data key="d7">1.0</data>
+      <data key="d8">Факультет информационных технологий принадлежит Новосибирскому государственному университету.</data>
+      <data key="d9">faculty affiliation</data>
+      <data key="d10">chunk-a3d6a8b784f4b3587c2e289eeda2d55e</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763539688</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Новосибирский государственный университет" target="Геологический институт">
+      <data key="d7">1.0</data>
+      <data key="d8">Геологический институт является частью Новосибирского государственного университета.</data>
+      <data key="d9">institution affiliation</data>
+      <data key="d10">chunk-a3d6a8b784f4b3587c2e289eeda2d55e</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763539691</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Новосибирский государственный университет" target="Физический факультет (ФФ)">
+      <data key="d7">1.0</data>
+      <data key="d8">Физический факультет является частью Новосибирского государственного университета.</data>
+      <data key="d9">высшее учебное заведение,подразделение</data>
+      <data key="d10">chunk-40c4dad280d9f13d93d64edb2d86f788</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763539694</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Новосибирский государственный университет" target="Факультет естественных наук (ФЕН)">
+      <data key="d7">1.0</data>
+      <data key="d8">Факультет естественных наук входит в состав Новосибирского государственного университета.</data>
+      <data key="d9">высшее учебное заведение,подразделение</data>
+      <data key="d10">chunk-40c4dad280d9f13d93d64edb2d86f788</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763539700</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Новосибирский государственный университет" target="Факультет информационных технологий (ФИТ)">
+      <data key="d7">1.0</data>
+      <data key="d8">Факультет информационных технологий является частью Новосибирского государственного университета.</data>
+      <data key="d9">высшее учебное заведение,подразделение</data>
+      <data key="d10">chunk-40c4dad280d9f13d93d64edb2d86f788</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763539706</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Новосибирский государственный университет" target="Геолого-геофизический факультет (ГГФ)">
+      <data key="d7">1.0</data>
+      <data key="d8">Геолого-геофизический факультет относится к Новосибирскому государственному университету.</data>
+      <data key="d9">высшее учебное заведение,подразделение</data>
+      <data key="d10">chunk-40c4dad280d9f13d93d64edb2d86f788</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763539709</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Новосибирский государственный университет" target="Экономический факультет">
+      <data key="d7">1.0</data>
+      <data key="d8">Экономический факультет Новосибирского государственного университета.</data>
+      <data key="d9">высшее учебное заведение,подразделение</data>
+      <data key="d10">chunk-40c4dad280d9f13d93d64edb2d86f788</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763539712</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Новосибирский государственный университет" target="Гуманитарный институт">
+      <data key="d7">1.0</data>
+      <data key="d8">Гуманитарный институт входит в структуру Новосибирского государственного университета.</data>
+      <data key="d9">высшее учебное заведение,подразделение</data>
+      <data key="d10">chunk-40c4dad280d9f13d93d64edb2d86f788</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763539715</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Новосибирский государственный университет" target="Институт медицины и психологии им. В. Зельмана">
+      <data key="d7">1.0</data>
+      <data key="d8">Институт медицины и психологии имени В. Зельмана является подразделением Новосибирского государственного университета.</data>
+      <data key="d9">высшее учебное заведение,подразделение</data>
+      <data key="d10">chunk-40c4dad280d9f13d93d64edb2d86f788</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763539717</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Новосибирский государственный университет" target="Институт интеллектуальной робототехники">
+      <data key="d7">1.0</data>
+      <data key="d8">Институт интеллектуальной робототехники относится к Новосибирскому государственному университету.</data>
+      <data key="d9">высшее учебное заведение,подразделение</data>
+      <data key="d10">chunk-40c4dad280d9f13d93d64edb2d86f788</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763539721</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Новосибирский государственный университет" target="Институт философии и права">
+      <data key="d7">1.0</data>
+      <data key="d8">Институт философии и права является частью Новосибирского государственного университета.</data>
+      <data key="d9">высшее учебное заведение,подразделение</data>
+      <data key="d10">chunk-40c4dad280d9f13d93d64edb2d86f788</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763539724</data>
+      <data key="d13" />
+    </edge>
+    <edge source="МФ" target="organization">
+      <data key="d7">1.0</data>
+      <data key="d8">Неясно, какая организация или подразделение соответствует МФ.</data>
+      <data key="d9">неопределенная связь</data>
+      <data key="d10">chunk-40c4dad280d9f13d93d64edb2d86f788</data>
+      <data key="d11">unknown_source</data>
+      <data key="d12">1763539696</data>
       <data key="d13" />
     </edge>
   </graph>
